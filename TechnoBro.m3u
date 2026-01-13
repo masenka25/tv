@@ -169,7 +169,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_TVC.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="3357",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы" tvg-id="649",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.9FYUhJwlnKR-Um9QGRVLmpD_fMVtdilVWlDlGPUGdew.NqOH0AqMt0YhovtZzVXfCRn5yLB11sIUm93AKYXSpqk.1768255772.8c4438be43618cc13b5e1503d4ad41c3
+https://edge03r.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.c1Ysw73w5k8zvXT4W0WW3cBpdXUq0WwFH6Ypyqxh0lE.lu3vDTCim9lcYU_aCTepWREUd6o9tQLgNVur9am9ZuU.1768882211.edb352f02cd0bb5b9e76e2338f1196cc
 #EXTINF:-1 group-title="Общероссийские_576p" tvg-id="9188",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-id="simpleTVFakeEpgId",Hind Hits
