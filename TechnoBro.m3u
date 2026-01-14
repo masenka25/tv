@@ -1,10 +1,8 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783"
 
 
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="12730",ПЕРВЫЙ КАНАЛ
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы" tvg-id="146",Первый канал HD
-http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://veranzo.ru/other/icons/О2ТВ.png" tvg-id="12567",О!2
 http://195.158.223.132:8010/O!2
 #EXTINF:-1 group-title="Детские" tvg-id="2437",Рыжий
@@ -24,6 +22,8 @@ http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_1TV.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_CHE.m3u8
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="12729",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Общероссийские каналы" tvg-id="146",Первый канал HD
+http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img2/7669.png" tvg-id="7669",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2JtygsKfuYYevz9tI2hvJw&e=2067257537&scheme=https
@@ -62,7 +62,7 @@ http://31.131.141.195:8000/play/1040/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" tvg-id="simpleTVFakeEpgId",MTV Rocks
 https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
 #EXTINF:-1 group-title="Каналы пакета «viju»" tvg-logo="http://epg.one/img2/127.png" tvg-id="127",viju TV1000 HD
-http://s06.wsbof.com:8080/s/51156285/tv1000-hd.m3u8
+http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6387/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="2447",Победа HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 group-title="Общероссийские каналы" tvg-id="2051",Матч ТВ HD
@@ -95,14 +95,14 @@ http://185.58.205.1:4022/udp/224.0.90.121:1234
 http://nl.m3u.life:9025/kinosemya_hd/index.m3u8?token=Happy_new_year2026
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",Пятый канал (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_5TV.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" tvg-id="10968",5 Канал HD
+#EXTINF:-1 group-title="Общероссийские каналы" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="5kanal-ru",5 Канал HD
 https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.pbRtLWA6WHx1qT_hVORQIL7cGLKpJQChLAjF7x3blNU.KRHOip8mSxLVSxDlCC3akZUrGSUvqivBxKS6yN51Ag8.1768666788.ff84f8297b09e74501b20b35632dfa25
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="187",Россия К
 http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-id="simpleTVFakeEpgId",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
 #EXTINF:-1 group-title="Каналы пакета «viju»" tvg-logo="http://epg.one/img2/125.png" tvg-id="125",viju TV1000 action HD
-http://s06.wsbof.com:8080/s/51156285/tv1000-action-hd.m3u8
+http://de.online24.pm/play/487/BC28182177585B5/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="284",Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="6241",Start Air HD
@@ -121,7 +121,7 @@ http://31.131.141.195:8000/play/1070/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png" tvg-id="simpleTVFakeEpgId",MTV Love Music
 https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
 #EXTINF:-1 group-title="Каналы пакета «viju»" tvg-id="410",Da Vinci
-http://s06.wsbof.com:8080/s/51156285/da-vinci-learning.m3u8
+http://cdn-bal.srv4you.net/0317/mpegts?token=8b8kdg2amh55t0
 #EXTINF:-1 group-title="Детские" tvg-id="2011",Ani
 http://95.66.188.74/Ani/mono.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://epg.one/img2/6240.png" tvg-id="6240",Start World HD
@@ -216,7 +216,7 @@ https://nmglive.cdnvideo.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.
 #EXTINF:-1 group-title="Каналы пакета «viju»" tvg-logo="http://epg.one/img2/2055.png" tvg-id="2055",Viju+ sport
 https://minsk-cache06i.voka.tv/live/6005-req_offset_28000000-req_window_0-3k_v5.m3u8
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="485",Наше новое кино
-http://s06.wsbof.com:8080/s/51156285/nashe-novoe-kino.m3u8
+http://178.68.193.237:81/play/a01f
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",СТС (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_STS.m3u8
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="79",СТС
@@ -230,7 +230,7 @@ https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/QdCLO39p_zZZQvl
 #EXTINF:-1 group-title="Детские" tvg-id="423",Nickelodeon HD
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="485",Наше новое кино HD
-http://s06.wsbof.com:8080/s/51156285/nashe-novoe-kino-hd.m3u8
+http://x3m.li/live/C4bpRcSY/fuD6!VUc/6130.m3u8
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",Домашний (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_DOMASHNIY.m3u8
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="304",Домашний
@@ -248,7 +248,7 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="9183",Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="12",Родное кино
-http://s06.wsbof.com:8080/s/51156285/rodnoje_kino.m3u8
+http://178.68.193.237:81/play/a00d
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",ТВ3 (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_TV3.m3u8
 #EXTINF:-1 group-title="" tvg-id="66",Уникум
@@ -303,7 +303,7 @@ http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Шаян HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="798",Индийское кино
-http://s06.wsbof.com:8080/s/51156285/indija-tv.m3u8
+http://178.68.193.237:81/play/a02k
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",ТНТ (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_TNT.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы" tvg-id="405",Звезда HD
@@ -319,7 +319,7 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=N6
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img2/9327.png" tvg-id="9327",Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="799",Киносерия
-http://s06.wsbof.com:8080/s/51156285/mnogo-tv.m3u8
+http://178.68.193.237:81/play/a02z
 #EXTINF:-1 group-title="Общероссийские каналы" tvg-id="2078",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские (слабый интернет)" tvg-id="11208",ТНТ
@@ -332,7 +332,7 @@ http://95.66.188.74/Mama/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
 #EXTINF:-1 group-title="Каналы пакета «Настрой кино!»" tvg-id="799",Киносерия HD
-http://s06.wsbof.com:8080/s/51156285/mnogo-tv-hd.m3u8
+http://lb.wisp.cat/lb0/KINOSERIYA/video.m3u8?token=7NDbKyE
 #EXTINF:-1 group-title="ИЖЕВСК" tvg-id="simpleTVFakeEpgId",Ю (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_U.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="2754",Cinema
