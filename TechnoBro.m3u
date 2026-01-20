@@ -286,7 +286,7 @@ https://minsk-cache07t.voka.tv/live/6006-req_offset_28000000-req_window_0-4k_v5.
 #EXTINF:-1 tvg-id="4691"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan РуКино
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11013/index.m3u8
 #EXTINF:-1 tvg-id="649"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.c1Ysw73w5k8zvXT4W0WW3cBpdXUq0WwFH6Ypyqxh0lE.lu3vDTCim9lcYU_aCTepWREUd6o9tQLgNVur9am9ZuU.1768882211.edb352f02cd0bb5b9e76e2338f1196cc
+https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
 #EXTINF:-1 tvg-id="9188"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore"tvg-logo="http://epg.one/img2/521.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore
