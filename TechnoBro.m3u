@@ -36,7 +36,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="410",Da Vinci
 https://tv.tvcdnpotok.com/Evbj8i0sam1Jk55EUr72dQ/2008/1768952226/index.m3u8
 #EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="2484",Дикая рыбалка HD
-https://tv.tvcdnpotok.com/WB70lspHmdVROXPpOtmn2w/2013/1768959500/index.m3u8
+https://tv.tvcdnpotok.com/niBI3qhfUmfnJc0CsvOdmQ/2013/1768985503/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="12726",Музыка Live
 http://de.1usd.tv/ch523/mono.m3u8?token=1usdtv_sergmih.v2_GZ87mpoC_p6AEd5JAuq2vw0KZJkSuwFVoz7swSEwpAow_QGgmt8VXiiR54fcuwQmolRL64Lb79pE99kVA0US
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2054",Матч! Боец HD
@@ -97,7 +97,7 @@ http://de.1usd.tv/ch044/mono.m3u8?token=1usdtv_sergmih.v2_xkbbwA28MmaTk6yvG_tQ-U
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-id="2483",Дикая охота HD
-http://178.163.18.37:81/udp/234.0.0.11:2000
+https://tv.tvcdnpotok.com/0UYzHoT6sFziS-NbRitn6w/2014/1768985551/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="151",Bridge TV
 http://de.1usd.tv/ch490/mono.m3u8?token=1usdtv_sergmih.v2_ng66ohWWQc6wEtO8QkPyftvYuG8jFToy6yKK546M4RqBj3md9sDW8b1XEv5Aiys98Xsv7_Fevb4ldInmccT-
 #EXTINF:-1 group-title="Киноканалы" tvg-id="2288",Суббота HD
