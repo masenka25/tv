@@ -345,7 +345,7 @@ https://minsk-cache06i.voka.tv/live/6005-req_offset_28000000-req_window_0-3k_v5.
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="http://epg.one/img2/698.png" tvg-id="698",ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="304",Домашний HD
-https://user29874.clients-cdnnow.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.vu-IH_q1q89Q09UnSfU2yav09CVJD0vMTKW55J_jnCU.xm-6JJtb09oBhuNOAWqI_e6zqByGKtinkOsfW-nV6rU.1768933608.04b215b3f37ba541432707372a47bce4
+https://edge04p.mediavitrina.ru/hls-livef2/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.UNXiA-fI0fagAxdgPtlhMkd4qermktSrnDmZhrdrxP0.2BAZ3n5DMzAOYtI3Hi14Gw_yg5jCVSbwQHyaWILfyVM.1769595911.537b1eccc774752d458702ab9d945c85
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="11131",Пятница
 http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img2/698.png" tvg-id="698",ТВ3 HD
