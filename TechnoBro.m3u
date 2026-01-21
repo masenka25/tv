@@ -36,7 +36,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://iptvx.one/picons/da-vinci.png" tvg-id="410",Da Vinci
 https://tv.tvcdnpotok.com/Evbj8i0sam1Jk55EUr72dQ/2008/1768952226/index.m3u8
 #EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="2484",Дикая рыбалка HD
-https://tv.tvcdnpotok.com/niBI3qhfUmfnJc0CsvOdmQ/2013/1768985503/index.m3u8
+http://178.68.193.237:81/play/a01j
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="12726",Музыка Live
 http://de.1usd.tv/ch523/mono.m3u8?token=1usdtv_sergmih.v2_GZ87mpoC_p6AEd5JAuq2vw0KZJkSuwFVoz7swSEwpAow_QGgmt8VXiiR54fcuwQmolRL64Lb79pE99kVA0US
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2054",Матч! Боец HD
@@ -85,8 +85,8 @@ http://boxviptv.com:25461/Punhanx0733/66278363/140
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/БелРос.png" tvg-id="10131",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-id="2419",Охота и Рыбалка
-http://178.163.18.37:81/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-id="2419",Охота и Рыбалка HD
+https://minsk-cache01t.voka.tv/live/244-req_offset_28000000-req_window_0-4k_v5.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="10414",МУЗ ТВ HD
 http://de.1usd.tv/ch020/mono.m3u8?token=1usdtv_sergmih.v2_xGdprv7m70zyxxybMVaOEgFzsDwlK5vqMelP0s9yy4gLkH7Girr7-tou4npsI_2iB9JVGid7lDrlodLrkzk
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2250",Матч! Премьер FHD
@@ -97,7 +97,7 @@ http://de.1usd.tv/ch044/mono.m3u8?token=1usdtv_sergmih.v2_xkbbwA28MmaTk6yvG_tQ-U
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="Пакет«Мужская тема» 🎣" tvg-id="2483",Дикая охота HD
-https://tv.tvcdnpotok.com/0UYzHoT6sFziS-NbRitn6w/2014/1768985551/index.m3u8
+http://178.163.18.37:81/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="151",Bridge TV
 http://de.1usd.tv/ch490/mono.m3u8?token=1usdtv_sergmih.v2_ng66ohWWQc6wEtO8QkPyftvYuG8jFToy6yKK546M4RqBj3md9sDW8b1XEv5Aiys98Xsv7_Fevb4ldInmccT-
 #EXTINF:-1 group-title="Киноканалы" tvg-id="2288",Суббота HD
@@ -255,7 +255,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://31.131.141.195:8000/play/1030/index.m3u8
 #EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1012.png" tvg-id="1012",viju+ Megahit HD
 https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="simpleTVFakeEpgId",CineMan Топ HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="cineman-top",CineMan Топ HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11005/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="11127",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
@@ -273,7 +273,7 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1011.png" tvg-id="1011",viju+ Comedy HD
 https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-5k_v5.m3u8
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="simpleTVFakeEpgId",CineMan Триллер HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="cineman-thriller",CineMan Триллер HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11007/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="10968",5 Канал HD
 https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.hhYkKRBVIDqYNE3yTyMQJodA1Dcxhr5hzBFPla7u5pM.iAmix9GtRxajsyepGdpmb3G_NosU6LcCMTbtxU1N0ag.1769283228.5ec7c68271bf38d1ae6d58f35c15e5b5
@@ -345,7 +345,7 @@ https://minsk-cache06i.voka.tv/live/6005-req_offset_28000000-req_window_0-3k_v5.
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="http://epg.one/img2/698.png" tvg-id="698",ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="304",Домашний HD
-https://edge02r.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.2rUjg2HNHyPgoZRq4jtIsPJQrexhVs9_ULrRw1oVofA.NuNxc-GrBw-sWzBhH_TvF_uipoi42pJSW38k5mN3K8M.1769571848.714d1c99cbf10d817baf134d7c3d4c9b
+https://user29874.clients-cdnnow.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.vu-IH_q1q89Q09UnSfU2yav09CVJD0vMTKW55J_jnCU.xm-6JJtb09oBhuNOAWqI_e6zqByGKtinkOsfW-nV6rU.1768933608.04b215b3f37ba541432707372a47bce4
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="11131",Пятница
 http://31.131.141.195:8000/play/2060/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img2/698.png" tvg-id="698",ТВ3 HD
