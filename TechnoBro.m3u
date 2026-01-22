@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,https://iptvx.one/EPG,http://ru.epg.one/epg2.xml.gz"
 
 
-
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Че! (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_CHE.m3u8
 #EXTINF:-1 group-title="" tvg-id="udmurtia",Моя Удмуртия (Ижевск) HD
@@ -24,7 +23,7 @@ https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2J
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/3461
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2283.png" tvg-id="2283",Дикий
 http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJESdGNq9Kr-4tr-FANRJxLmKDpXw0EwybMZgYM7mgBfKsBDklpxWw6gD2mYpAb3E
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Камин 4К
+#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Камин 4К
 https://river-3-374.rtbcdn.ru/hls-vod/JGyFrscRCQ3nFGtZ0Jk94A/1769275823/3264/0x5000c500e9ebe935/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 #EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/127.png" tvg-id="127",viju TV1000 HD
 http://boxviptv.com:25461/Punhanx0733/66278363/145
@@ -37,8 +36,6 @@ http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11004/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nhl-network-us.png" tvg-id="simpleTVFakeEpgId",NHL Network
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/7328/index.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-multlandia.png" tvg-id="clarity4k-multlandia",Clarity4K Мультляндия
-http://gr.seetv.cc/play/4615/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="2484",Дикая рыбалка HD
 http://178.68.193.237:81/play/a01j
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2051",Матч ТВ HD
@@ -46,8 +43,6 @@ http://178.68.193.237:81/play/a01j
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=705U9LDE5Wl08TAtVUJy8w&e=2067257541&scheme=https
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/mlb-network-us.png" tvg-id="simpleTVFakeEpgId",MLB Network
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/1272
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-waltdisney.png" tvg-id="clarity4k-waltdisney",Clarity4K Walt Disney
-http://gr.seetv.cc/play/4642/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2051",Матч! FHD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/rybalka.png" tvg-id="rybalka",Рыбалка HD
@@ -55,16 +50,12 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16138/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="162",НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-multimir.png" tvg-id="clarity4k-multimir",Clarity4K Мультимир
-http://gr.seetv.cc/play/4619/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2054",Матч! Боец HD
 http://de.1usd.tv/ch036/mono.m3u8?token=1usdtv_sergmih.v2_R05l-tiE1SEWSZIipzH10-awWjxsOSdhqdzPtzz8F0DfZMTUsA83JFe2zrN3Oo4tEYoKiyc0jnOTZ7RetJw
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2627.png" tvg-id="2627",Диалоги о рыбалке HD
 http://de.1usd.tv/ch067/mono.m3u8?token=1usdtv_sergmih.v2_qZJU3W0KbZ22OM41qdAupxOcbMxfA1-BlQosl4coANiXPsm2b1ZjWtHQvsNqUAriaRHI4PeKQtZvDJzURKM
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="10968",5 Канал HD
 https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.hhYkKRBVIDqYNE3yTyMQJodA1Dcxhr5hzBFPla7u5pM.iAmix9GtRxajsyepGdpmb3G_NosU6LcCMTbtxU1N0ag.1769283228.5ec7c68271bf38d1ae6d58f35c15e5b5
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-anime.png" tvg-id="clarity4k-anime",Clarity4k Anime アニメ
-http://gr.seetv.cc/play/4632/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2044",Матч! Футбол 1 FHD
 http://de.1usd.tv/ch061/mono.m3u8?token=1usdtv_sergmih.v2_KzWwY_-_g0IVgv_MT4LPWJBsDlzj5R1IL9_7ExeQMiuMwKZwSfpv7GKhnsGuDN8BxTdnoVr2TX0RDNnrD0g
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="1681",Охотник и Рыболов HD
@@ -72,54 +63,40 @@ http://de.1usd.tv/ch085/mono.m3u8?token=1usdtv_sergmih.v2_8NP0QA4-38kbZ18WAkpDJU
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="9173",Россия К HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-kinidetisssr.png" tvg-id="clarity4k-kinidetisssr",Clarity4K Kинодети СССР
-http://gr.seetv.cc/play/4633/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="1042",Матч! Футбол 2 FHD
 http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5mmFbCLvDY5x5paNwa9pLSd68bSW-f5QUFOK3mtrBvhMxyKbMCae01fSiXAnYc
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="11508",Охота и Рыбалка HD
 http://178.163.34.175:81/udp/234.0.0.230:2000
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="12746",Россия 24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-prikluchenia.png" tvg-id="clarity4k-prikluchenia",Clarity4K Приключения
-http://gr.seetv.cc/play/4604/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2005",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="2483",Дикая охота HD
 http://178.163.18.37:81/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="740",Карусель HD
 http://de.1usd.tv/ch040/mono.m3u8?token=1usdtv_sergmih.v2_HV4-_2657WDDjHJsXMDe7HAO62Yr3mvcnSVJHc7B73rMU2tTviCmwigfT7Hllj8N3USh-XGKseOxaWInCyM
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-fentezy.png" tvg-id="clarity4k-fentezy",Clarity4K Фэнтези
-http://gr.seetv.cc/play/4631/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2250",Матч! Премьер FHD
 http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBdwMZoFQJSS8OMJsH9lvJ2rnXya-a2sZuALEdAa0yUOGyKviQm7lo4nMebwxwxJe
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-oxota.png" tvg-id="simpleTVFakeEpgId",Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="1000",ОТР HD
 https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/47xputwJaLtC37VAezyEzg/stream/genetta-315.m9.rutube.ru/FUUzjEEZ2rKHUbTlgj-4HQ/1769076220/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-sdelanowsssr.png" tvg-id="clarity4k-sdelanowsssr",Clarity4K Сделано в СССР
-http://gr.seetv.cc/play/4603/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2050",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty АвтоГир
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="649",ТВЦ HD
 https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-komedia.png" tvg-id="clarity4k-komedia",Clarity4K Комедия
-http://gr.seetv.cc/play/4627/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2003",Матч! Арена FHD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/box-auttrend.png" tvg-id="simpleTVFakeEpgId",Автотренд HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31654/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="18",Рен ТВ HD
 https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.g1N-pb5ddn13CoU5v8f63S4ruguFkmjcmFjdrnJR9Qg.d-yZ6inX650rTrpDyhRR3yxJSNZShrssrTadqMIQNS4.1769368976.7b87319bf3de877c31a6b26da9760c5b
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-semejny.png" tvg-id="clarity4k-semejny",Clarity4K Семейный
-http://gr.seetv.cc/play/4602/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2042",Матч! Страна HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/19219/index.m3u8
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2008.png" tvg-id="2008",Авто 24 HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/20033/index.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-kinofranshizy.png" tvg-id="clarity4k-kinofranshizy",Clarity4k КиноФраншизы
-http://gr.seetv.cc/play/4626/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2141",Спас
 http://176.118.197.125/Spas/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="2048",KHL HD
@@ -128,69 +105,37 @@ http://de.1usd.tv/ch034/mono.m3u8?token=1usdtv_sergmih.v2_YBBuWj76J7rfWufy9VMrtN
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/151/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="79",СТС HD
 https://edge02r.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.0huHOizqqdPh2qBcqw8Thy354vhTcguud3xVzZ-rg14.JT7TdLFXPv2ZbcwLn6kBuNIdz2oOem6IdUcWJYxV13M.1769368455.9ea8fb76efd8599e9d47a403bc4aefff
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-kinonowinki.png" tvg-id="clarity4k-kinonowinki",Clarity4K КиноНовинки
-http://gr.seetv.cc/play/4644/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="12641",КХЛ Prime HD
 http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IEATDjmDzlT01RsiEwsnqAjdpOzJS099OS7nNcDhNP9hLz5RSZapv3Ni6WcCtskt
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-strojka.png" tvg-id="simpleTVFakeEpgId",Стройка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="304",Домашний HD
 https://edge02r.mediavitrina.ru/hls-livef2/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.OvPnvixwxpiFTHxST16NlBy_U50RE1wFBgkSsDbLJBY.8HeY2QlL-mU66qB_4D1ytug0v4DrZ3MkbD7yB95kKQw.1769631853.8aa47a3c0c6f9bcbb02d95f09d64d7df
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-boevik.png" tvg-id="clarity4k-boevik",Clarity4k Боевик
-http://gr.seetv.cc/play/4628/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2052",Eurosport 1 HD
 http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVvJPRobyQyKNkM5pZqhRcRJcBbKriDx1EIcy0AHVIb6pHhYcvo_MGMPpB9VIGec
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img2/698.png" tvg-id="698",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=K62NzbjPvyFkKZT3VKKRXg&e=2067257508&scheme=https
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-fantastik.png" tvg-id="clarity4k-fantastik",Clarity4K Фантастика
-http://gr.seetv.cc/play/4606/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="4313",Eurosport 2 HD
 http://de.1usd.tv/ch071/mono.m3u8?token=1usdtv_sergmih.v2_2439b7bChzGtudxt_uOJQdf-YOhOm-5kvYaDy156ClnM-bQ-7MGBnRyoNdLklKedf8Cb19FjBqT6MOzPnFs
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="11131",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Qf6-Va2bedvpw_TCtQgjSA&e=2067257507&scheme=https
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-istoriivrema.png" tvg-id="clarity4k-istoriivrema",Clarity4K Истории во времени
-http://gr.seetv.cc/play/4637/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="11266",Конный Мир
 http://de.1usd.tv/ch133/mono.m3u8?token=1usdtv_sergmih.v2_XPdfv5z6Dm4LM3W7p53D3kG17DeoscA-XEjt7vrZt9-Vv9mnBPquXPeZWu8bIdBY1iOhRrDraLFjg6b19ndO
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="405",Звезда HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-western.png" tvg-id="clarity4k-western",Clarity4k Вестерн
-http://gr.seetv.cc/play/4610/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="10921",UDAR TV HD
 http://de.1usd.tv/ch549/mono.m3u8?token=1usdtv_sergmih.v2_XLLcyl4gFz6YD_ZG5MqfgZlpPA5YhJBunC_9Lh4_K1QpB43pIM4DpRDCCIKgHpxBaJ2mC-C_L9uxIMp-qR7Q
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2078",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-dramy.png" tvg-id="clarity4k-dramy",Clarity4k Драмы
-http://gr.seetv.cc/play/4608/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="353",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4do2MtVkLmjDpP71Z8a5bQ&e=2067257506&scheme=https
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-uzasy.png" tvg-id="clarity4k-uzasy",Clarity4K Ужасы
-http://gr.seetv.cc/play/4605/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="muztv",МузТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-relaxkamin.png" tvg-id="simpleTVFakeEpgId",Clarity4K Relax
-http://gr.seetv.cc/play/13025/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-puteshestvie.png" tvg-id="clarity4k-puteshestvie",Clarity4K Путешествие
-http://gr.seetv.cc/play/4617/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-kosmomir.png" tvg-id="clarity4k-kosmomir",Clarity4K Космомир
-http://gr.seetv.cc/play/4636/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-zwerinmir.png" tvg-id="clarity4k-zwerinmir",Clarity4K Звериный мир
-http://gr.seetv.cc/play/4622/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-avtomaster.png" tvg-id="clarity4k-avtomaster",Clarity4K АвтоМастер
-http://gr.seetv.cc/play/4638/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-logo="https://iptvx.one/picons/clarity4k-zapal.png" tvg-id="clarity4k-zapal",Clarity4K Запал
-http://gr.seetv.cc/play/4639/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-id="simpleTVFakeEpgId",Clarity4K Russian music
-http://gr.seetv.cc/play/4630/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-id="simpleTVFakeEpgId",Clarity4K Korean music
-http://gr.seetv.cc/play/4616/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦 🔺Внимание!🔺 Для просмотра включите VPN" tvg-id="simpleTVFakeEpgId",Clarity4K Bollywood music
-http://gr.seetv.cc/play/4629/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Че! (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_CHE.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Моя Удмуртия (Ижевск) HD
@@ -452,5 +397,5 @@ http://radiorecord.rafail1982.uz/198096.aacp
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",SWH+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://80.232.162.149:8000/plus96mp3
-#EXTINF:-1 group-title="🔺 INFO 🔺 Пакет в Ультра HD 4К  «Clarity4K»: Мультфильмы, Фильмы и развлекательные каналы в суперкачестве..." tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif" tvg-id="simpleTVFakeEpgId",Обновление:🎄22.01.2026
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif" tvg-id="simpleTVFakeEpgId",Обновление:🎄22.01.2026
 http://s.only4.tv/5581/index.m3u8
