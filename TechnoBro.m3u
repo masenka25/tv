@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,http://epg.cdntv.online/full.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://epg.it999.ru/pp.xml.gz,http://epg.one/ru.xml.gz,https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,http://epg.cdntv.online/full.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://epg.it999.ru/pp.xml.gz"
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="29",Первый канал HD
-http://smartvipserver.xyz:8080/7Z1Q9AE5/VMRLTJX5/529782
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2402/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="2",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" tvg-id="997",Беларусь 1 HD
@@ -68,7 +68,7 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/7328/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="422",Дикая рыбалка HD
-https://tv.tvcdnpotok.com/L-D_EI_YKHdsPad1tOmVnw/2013/1769192137/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9082/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="simpleTVFakeEpgId",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2051",Матч ТВ HD
@@ -115,7 +115,7 @@ http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_Hnv
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="421",Дикая охота HD
 http://178.163.18.37:81/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="740",Карусель HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20012/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20012/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2250",Матч! Премьер FHD
 http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBdwMZoFQJSS8OMJsH9lvJ2rnXya-a2sZuALEdAa0yUOGyKviQm7lo4nMebwxwxJe
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-oxota.png" tvg-id="vf-oxota",Охота HD
@@ -179,8 +179,8 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4d
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="397",RU.TV HD
 http://de.1usd.tv/ch027/mono.m3u8?token=1usdtv_sergmih.v2_9qp5shG3UWTNtBZzzbbZ58-ANbYgWfIBJcIPnkFtsCpc-K59fs8gAn-__g_jV2BKTxSozoNkJ2cRdX8gaWg
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="118",Кинохит
-http://boxviptv.com:25461/Punhanx0733/66278363/135
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="118",Кинохит HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7250/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" tvg-id="998",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
@@ -201,8 +201,8 @@ http://boxviptv.com:25461/Punhanx0733/66278363/141
 #EXTINF:-1 group-title="Киноканалы" tvg-id="1946",Первый информационный
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="120",Киномикс
-http://boxviptv.com:25461/Punhanx0733/66278363/140
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="120",Киномикс HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7249/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/БелРос.png" tvg-id="tro",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -224,8 +224,8 @@ http://de.1usd.tv/ch493/mono.m3u8?token=1usdtv_sergmih.v2_Yq_WfQzFU_COD4i9eIaOLt
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" tvg-id="simpleTVFakeEpgId",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="122",Киносвидание
-http://boxviptv.com:25461/Punhanx0733/66278363/136
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="122",Киносвидание HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7245/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="3357",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" tvg-id="simpleTVFakeEpgId",Power Dance HD
@@ -247,14 +247,14 @@ http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" tvg-id="simpleTVFakeEpgId",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="514",Родное кино
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/9127/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9127/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="130",НТВ Хит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" tvg-id="simpleTVFakeEpgId",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="119",Кинокомедия
-http://boxviptv.com:25461/Punhanx0733/66278363/139
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="119",Кинокомедия HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7248/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="129",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_serial/playlist.m3u8
@@ -279,8 +279,8 @@ http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529675
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11005/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="4",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/267.png" tvg-id="tv1000-russkoe-kino",viju TV1000 русское
-http://193.25.8.59:8000/TV1000RU
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/267.png" tvg-id="tv1000-russkoe-kino",viju TV1000 русское HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9059/index.m3u8
 #EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1257",CineMan Action HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11006/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="5",Пятый канал
