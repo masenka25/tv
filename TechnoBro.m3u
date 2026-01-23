@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,https://iptvx.one/EPG,http://ru.epg.one/epg2.xml.gz"
-
-
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Че! (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_CHE.m3u8
 #EXTINF:-1 group-title="" tvg-id="udmurtia",Моя Удмуртия (Ижевск) HD
@@ -25,6 +23,8 @@ http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/3461
 http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJESdGNq9Kr-4tr-FANRJxLmKDpXw0EwybMZgYM7mgBfKsBDklpxWw6gD2mYpAb3E
 #EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Камин 4К
 https://river-3-374.rtbcdn.ru/hls-vod/JGyFrscRCQ3nFGtZ0Jk94A/1769275823/3264/0x5000c500e9ebe935/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
 #EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/127.png" tvg-id="127",viju TV1000 HD
 http://boxviptv.com:25461/Punhanx0733/66278363/145
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="566",Кинопремьера HD
@@ -80,7 +80,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-oxota.png" tvg-id="simpleTVFakeEpgId",Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="1000",ОТР HD
-https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/47xputwJaLtC37VAezyEzg/stream/genetta-315.m9.rutube.ru/FUUzjEEZ2rKHUbTlgj-4HQ/1769076220/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+http://bl.webcaster.pro/media/playlist/free_b2abd11ca93d9977d92acb49952254d9/5_2972636396/720p/5f7b302693aac46763ed2af96c2dbd8c/1769195103.m3u8?sr=65&seek=1769148000&uid=KJOM95IR-MZ9S-1C0V-HBVU-292VT4NU1UHW&ref=http%3A%2F%2Frodnoetv.ru%2F
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2050",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty АвтоГир
