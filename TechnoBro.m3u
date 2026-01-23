@@ -33,7 +33,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 tvg-id="9796"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Лева
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 tvg-id="8444"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
-http://de.1usd.tv/ch040/mono.m3u8?token=1usdtv_sergmih.v2_HV4-_2657WDDjHJsXMDe7HAO62Yr3mvcnSVJHc7B73rMU2tTviCmwigfT7Hllj8N3USh-XGKseOxaWInCyM
+https://stream10.sputnik24.tv/leva_hd/1080p/index.m3u8?sig=1769191088_4018396fdd815c73775f5b9a397d92ed
 #EXTINF:-1 tvg-id="7958"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD orig
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
 #EXTINF:-1 tvg-id="1"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Первый Канал
