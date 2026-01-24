@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"
+#EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/EPG_LITE.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_146",Первый канал HD
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/PB2P6qLtr1TtWmJAhZ1c6Q/stream/genetta-313.m9.rutube.ru/E79ekRJ7RoFTbqbn_i8OEA/1769869682/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_711",Россия 1
