@@ -1,349 +1,349 @@
 #EXTM3U url-tvg="https://github.com/Lorax121/everyday_epg_update/raw/main/data/epg2.xml.gz,https://github.com/Lorax121/everyday_epg_update/raw/main/data/epg.xml"
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="29",Первый канал HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_146",Первый канал HD
 http://smartvipserver.xyz:8080/7Z1Q9AE5/VMRLTJX5/529782
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="2",Россия 1
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_711",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" tvg-id="997",Беларусь 1 HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2538",Беларусь 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="http://epg.one/img2/7669.png" tvg-id="solnce",Солнце
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="http://epg.one/img2/7669.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_7669",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2JtygsKfuYYevz9tI2hvJw&e=2067257537&scheme=https
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nba-tv-us.png" tvg-id="nba-tv",NBA TV HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nba-tv-us.png" tvg-id="simpleTVFakeEpgId",NBA TV HD
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/3461
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2283.png" tvg-id="516",Дикий
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2283.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2283",Дикий
 http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJESdGNq9Kr-4tr-FANRJxLmKDpXw0EwybMZgYM7mgBfKsBDklpxWw6gD2mYpAb3E
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/127.png" tvg-id="tv1000",viju TV1000 HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/127.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_127",viju TV1000 HD
 http://boxviptv.com:25461/Punhanx0733/66278363/145
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="121",Кинопремьера HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_566",Кинопремьера HD
 http://boxviptv.com:25461/Punhanx0733/66278363/134
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="847",Камин 4К
+#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="simpleTVFakeEpgId",Камин 4К
 https://river-3-374.rtbcdn.ru/hls-vod/JGyFrscRCQ3nFGtZ0Jk94A/1769275823/3264/0x5000c500e9ebe935/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1255",CineMan HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4682",CineMan HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11004/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="488",Радость Моя
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Радость Моя.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2287",Радость Моя
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="392",Мульт HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1332",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Japan HDV
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png" tvg-id="simpleTVFakeEpgId",Japan HDV
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6225/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Че! (Ижевск)
 http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_CHE.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="9796",Лева
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Новое Телевидение.png" tvg-id="df98917cd5efb900d61b3819f5e92b5d_7990",Лева
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Моя Удмуртия (Ижевск) HD
 https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/playlist.m3u8?utcstart=1768849200
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="740",Карусель HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20012/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="162",СТС Kids HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_740",Карусель HD
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2481",СТС Kids HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="1",Первый Канал
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_146",Первый Канал
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="923",Детский мир HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_923",Детский мир HD
 http://de.1usd.tv/ch044/mono.m3u8?token=1usdtv_sergmih.v2_xkbbwA28MmaTk6yvG_tQ-Uq3ezjOQcooh8jUiCtargZe906U6atBOCqyI9-RylMwc7_1mezh7AZ19rSpJG8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="158",Мультимузыка
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Мультимузыка.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_284",Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="144",JimJam
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Jim Jam.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_494",JimJam
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="147",Nickelodeon HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Nickelodeon HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_423",Nickelodeon HD
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="7593",Disney Cartoon
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Disney Channel.png" tvg-id="simpleTVFakeEpgId",Disney Cartoon
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15027/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="cartoon-network",Cartoon
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="simpleTVFakeEpgId",Cartoon
 http://176.118.197.101/Cartoon_Network/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="simpleTVFakeEpgId",Mr.Bean Cartoon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=1LTslXnl9vMFSgc6vXZl6g&e=2067257513&scheme=https
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="2188",СуперГерои
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Супер.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2239",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="33",Россия 1 HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_711",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="154",Мама
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Мама.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_618",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4a1
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nhl-network-us.png" tvg-id="nhl-network-us",NHL Network
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nhl-network-us.png" tvg-id="simpleTVFakeEpgId",NHL Network
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/7328/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="164",Смайлик ТВ
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2442",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="422",Дикая рыбалка HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2484.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2484",Дикая рыбалка HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9082/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="simpleTVFakeEpgId",Мамонтёнок
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Мамонтенок.png" tvg-id="simpleTVFakeEpgId",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2051",Матч ТВ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2051",Матч ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=705U9LDE5Wl08TAtVUJy8w&e=2067257541&scheme=https
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="kernel-chipndale",Чип и Дейл
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="simpleTVFakeEpgId",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/mlb-network-us.png" tvg-id="mlb-network-us",MLB Network
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/mlb-network-us.png" tvg-id="simpleTVFakeEpgId",MLB Network
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/1272
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png" tvg-id="simpleTVFakeEpgId",IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2051",Матч! FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2051",Матч! FHD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="2441",Шаян HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="../Channel/Logo/Шаян.png" tvg-id="simpleTVFakeEpgId",Шаян HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/rybalka.png" tvg-id="rybalka",Рыбалка HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/rybalka.png" tvg-id="simpleTVFakeEpgId",Рыбалка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16138/index.m3u8
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="http://epg.one/img2/9327.png" tvg-id="tooku",Тооку HD
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="http://epg.one/img2/9327.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_9327",Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="360",НТВ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_162",НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-boets",Матч! Боец HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2054",Матч! Боец HD
 http://de.1usd.tv/ch036/mono.m3u8?token=1usdtv_sergmih.v2_R05l-tiE1SEWSZIipzH10-awWjxsOSdhqdzPtzz8F0DfZMTUsA83JFe2zrN3Oo4tEYoKiyc0jnOTZ7RetJw
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2627.png" tvg-id="420",Диалоги о рыбалке HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2627.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2627",Диалоги о рыбалке HD
 http://de.1usd.tv/ch067/mono.m3u8?token=1usdtv_sergmih.v2_qZJU3W0KbZ22OM41qdAupxOcbMxfA1-BlQosl4coANiXPsm2b1ZjWtHQvsNqUAriaRHI4PeKQtZvDJzURKM
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="5kanal-ua",5 Канал HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="simpleTVFakeEpgId",5 Канал HD
 https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.hhYkKRBVIDqYNE3yTyMQJodA1Dcxhr5hzBFPla7u5pM.iAmix9GtRxajsyepGdpmb3G_NosU6LcCMTbtxU1N0ag.1769283228.5ec7c68271bf38d1ae6d58f35c15e5b5
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2044",Матч! Футбол 1 FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Футбол 1.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2044",Матч! Футбол 1 FHD
 http://de.1usd.tv/ch061/mono.m3u8?token=1usdtv_sergmih.v2_KzWwY_-_g0IVgv_MT4LPWJBsDlzj5R1IL9_7ExeQMiuMwKZwSfpv7GKhnsGuDN8BxTdnoVr2TX0RDNnrD0g
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="274",Охотник и Рыболов HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1681",Охотник и Рыболов HD
 http://de.1usd.tv/ch085/mono.m3u8?token=1usdtv_sergmih.v2_8NP0QA4-38kbZ18WAkpDJUrhj2PekIsaiuaRmbTi_KgvQFh-cvkd4Q01ecWZ7zEGwRQoKqCCttFZkvYXdAk
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="9173",Россия К HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_187",Россия К HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="1042",Матч! Футбол 2 FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Футбол 2.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1042",Матч! Футбол 2 FHD
 http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5mmFbCLvDY5x5paNwa9pLSd68bSW-f5QUFOK3mtrBvhMxyKbMCae01fSiXAnYc
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="oxota-i-rybalka",Охота и Рыбалка HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2419",Охота и Рыбалка HD
 http://178.163.34.175:81/udp/234.0.0.230:2000
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="rossia-24",Россия 24 HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1683",Россия 24 HD
 http://77.232.131.211/Rossiya24/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2005",Матч! Футбол 3 FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Футбол 3.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2005",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="421",Дикая охота HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2483",Дикая охота HD
 http://178.163.18.37:81/udp/234.0.0.11:2000
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="740",Карусель HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20012/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2250",Матч! Премьер FHD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_740",Карусель HD
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2250",Матч! Премьер FHD
 http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBdwMZoFQJSS8OMJsH9lvJ2rnXya-a2sZuALEdAa0yUOGyKviQm7lo4nMebwxwxJe
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-oxota.png" tvg-id="vf-oxota",Охота HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-oxota.png" tvg-id="simpleTVFakeEpgId",Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="otr",ОТР HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1000",ОТР HD
 https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/XCmKLuhhPT-Q7ibnY7p-uw/stream/genetta-315.m9.rutube.ru/gQiRSPr8TEGqbaU1D2sAXQ/1769834821/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="2050",Матч! Игра FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2050",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty АвтоГир
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/liberty-avtogir.png" tvg-id="simpleTVFakeEpgId",Liberty АвтоГир
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="649",ТВЦ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_649",ТВЦ HD
 https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="49",Матч! Арена FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2003",Матч! Арена FHD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/box-auttrend.png" tvg-id="8818",Автотренд HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/box-auttrend.png" tvg-id="simpleTVFakeEpgId",Автотренд HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31654/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="388",Рен ТВ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_18",Рен ТВ HD
 https://edge02d.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.g1N-pb5ddn13CoU5v8f63S4ruguFkmjcmFjdrnJR9Qg.d-yZ6inX650rTrpDyhRR3yxJSNZShrssrTadqMIQNS4.1769368976.7b87319bf3de877c31a6b26da9760c5b
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-nash-sport",Матч! Страна HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2042",Матч! Страна HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/19219/index.m3u8
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2008.png" tvg-id="265",Авто 24 HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/2008.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2008",Авто 24 HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/20033/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="12",Спас
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Спас.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2141",Спас
 http://176.118.197.125/Spas/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="2048",KHL HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2048",KHL HD
 http://de.1usd.tv/ch034/mono.m3u8?token=1usdtv_sergmih.v2_YBBuWj76J7rfWufy9VMrtN1jhlZjHig5sfyxWdvJJX4CUYgxxbJYHUs3V2uAWWZmO3O1UW6E7WT2x6ZK590
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/153.png" tvg-id="266",Авто плюс
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="http://epg.one/img2/153.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_153",Авто плюс
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/151/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="1061",СТС HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_79",СТС HD
 https://edge02r.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.0huHOizqqdPh2qBcqw8Thy354vhTcguud3xVzZ-rg14.JT7TdLFXPv2ZbcwLn6kBuNIdz2oOem6IdUcWJYxV13M.1769368455.9ea8fb76efd8599e9d47a403bc4aefff
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="12641",КХЛ Prime HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/КХЛ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1038",КХЛ Prime HD
 http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IEATDjmDzlT01RsiEwsnqAjdpOzJS099OS7nNcDhNP9hLz5RSZapv3Ni6WcCtskt
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-strojka.png" tvg-id="vf-strojka",Стройка HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://iptvx.one/picons/vf-strojka.png" tvg-id="simpleTVFakeEpgId",Стройка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="2077",Домашний HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_304",Домашний HD
 https://edge02r.mediavitrina.ru/hls-livef2/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.OvPnvixwxpiFTHxST16NlBy_U50RE1wFBgkSsDbLJBY.8HeY2QlL-mU66qB_4D1ytug0v4DrZ3MkbD7yB95kKQw.1769631853.8aa47a3c0c6f9bcbb02d95f09d64d7df
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="38",Eurosport 1 HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2052",Eurosport 1 HD
 http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVvJPRobyQyKNkM5pZqhRcRJcBbKriDx1EIcy0AHVIb6pHhYcvo_MGMPpB9VIGec
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img2/698.png" tvg-id="1036",ТВ3 HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img2/698.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_698",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=K62NzbjPvyFkKZT3VKKRXg&e=2067257508&scheme=https
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="eurosport2",Eurosport 2 HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4313",Eurosport 2 HD
 http://de.1usd.tv/ch071/mono.m3u8?token=1usdtv_sergmih.v2_2439b7bChzGtudxt_uOJQdf-YOhOm-5kvYaDy156ClnM-bQ-7MGBnRyoNdLklKedf8Cb19FjBqT6MOzPnFs
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="piatnica",Пятница HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Qf6-Va2bedvpw_TCtQgjSA&e=2067257507&scheme=https
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="412",Конный Мир
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="../Channel/Logo/Конный мир.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1679",Конный Мир
 http://de.1usd.tv/ch133/mono.m3u8?token=1usdtv_sergmih.v2_XPdfv5z6Dm4LM3W7p53D3kG17DeoscA-XEjt7vrZt9-Vv9mnBPquXPeZWu8bIdBY1iOhRrDraLFjg6b19ndO
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="1115",Звезда HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_405",Звезда HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="10921",UDAR TV HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="simpleTVFakeEpgId",UDAR TV HD
 http://de.1usd.tv/ch549/mono.m3u8?token=1usdtv_sergmih.v2_XLLcyl4gFz6YD_ZG5MqfgZlpPA5YhJBunC_9Lh4_K1QpB43pIM4DpRDCCIKgHpxBaJ2mC-C_L9uxIMp-qR7Q
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="288",Мир 24 HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2078",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="390",ТНТ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_353",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4do2MtVkLmjDpP71Z8a5bQ&e=2067257506&scheme=https
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="muztv",МузТВ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_897",МузТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="397",RU.TV HD
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/RU.TV HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2277",RU.TV HD
 http://de.1usd.tv/ch027/mono.m3u8?token=1usdtv_sergmih.v2_9qp5shG3UWTNtBZzzbbZ58-ANbYgWfIBJcIPnkFtsCpc-K59fs8gAn-__g_jV2BKTxSozoNkJ2cRdX8gaWg
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="118",Кинохит HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7250/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" tvg-id="998",Беларусь 2 HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_542",Кинохит HD
+http://195.26.83.96:7005/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2539",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="la-minor",Музыка Live
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2408",Музыка Live
 http://de.1usd.tv/ch523/mono.m3u8?token=1usdtv_sergmih.v2_GZ87mpoC_p6AEd5JAuq2vw0KZJkSuwFVoz7swSEwpAow_QGgmt8VXiiR54fcuwQmolRL64Lb79pE99kVA0US
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png" tvg-id="1000",Беларусь 3 HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2540",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" tvg-id="497",Радио Шансон
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_6012",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" tvg-id="281",Беларусь 24
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2170",Беларусь 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="2278",Шансон ТВ
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2278",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="414",Киносемья HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_987",Киносемья HD
 http://boxviptv.com:25461/Punhanx0733/66278363/141
-#EXTINF:-1 group-title="Киноканалы" tvg-id="1946",Первый информационный
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="df98917cd5efb900d61b3819f5e92b5d_11320",Первый информационный
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="120",Киномикс HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7249/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/БелРос.png" tvg-id="tro",БелРос
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_644",Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/БелРос.png" tvg-id="simpleTVFakeEpgId",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="2280",МУЗ ТВ HD
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="df98917cd5efb900d61b3819f5e92b5d_897",МУЗ ТВ HD
 http://de.1usd.tv/ch020/mono.m3u8?token=1usdtv_sergmih.v2_xGdprv7m70zyxxybMVaOEgFzsDwlK5vqMelP0s9yy4gLkH7Girr7-tou4npsI_2iB9JVGid7lDrlodLrkzk
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="https://iptvx.one/picons/ont-by.png" tvg-id="ont-by",ОНТ Беларусь HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="https://iptvx.one/picons/ont-by.png" tvg-id="df98917cd5efb900d61b3819f5e92b5d_2545",ОНТ Беларусь HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="66",Bridge TV
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_151",Bridge TV
 http://de.1usd.tv/ch490/mono.m3u8?token=1usdtv_sergmih.v2_ng66ohWWQc6wEtO8QkPyftvYuG8jFToy6yKK546M4RqBj3md9sDW8b1XEv5Aiys98Xsv7_Fevb4ldInmccT-
-#EXTINF:-1 group-title="Киноканалы" tvg-id="super",Суббота HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2288",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="muzhskoe-kino",Мужское кино HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1584",Мужское кино HD
 http://boxviptv.com:25461/Punhanx0733/66278363/245
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="2024",Bridge TV Hits HD
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2024",Bridge TV Hits HD
 http://de.1usd.tv/ch493/mono.m3u8?token=1usdtv_sergmih.v2_Yq_WfQzFU_COD4i9eIaOLtWzcxeKcI1sV5X70-ZqR973EdIxdvhLVV_ygiMZeUqXtrFd_SNgAC2OH33Xi0cN
-#EXTINF:-1 group-title="Киноканалы" tvg-id="379",Победа HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2447",Победа HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png" tvg-id="simpleTVFakeEpgId",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="122",Киносвидание HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7245/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-id="3357",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_462",Киносвидание
+http://tv.ttk.mx:9164
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_3357",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" tvg-id="simpleTVFakeEpgId",Power Dance HD
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="kino-i-zhizn",Кино и Жизнь HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="https://iptvx.one/picons/kino-i-zhizn.png" tvg-id="simpleTVFakeEpgId",Кино и Жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=N6dm9BXyQxKnApiCTNvvog&e=2067257536&scheme=https
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="nashe-novoe-kino",Наше новое кино HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_485",Наше новое кино HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529635
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="73",Mezzo Live HD
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="../Channel/Logo/Mezzo live HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_801",Mezzo Live HD
 http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2Km27rys64oRriezZ3uW9I94CMKXmpk4wPQKG26zv8RbYWC4TF_QG2ZbjWqGQV4X
-#EXTINF:-1 group-title="Киноканалы" tvg-id="simpleTVFakeEpgId",Киножелезо HD
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Классика кино.png" tvg-id="simpleTVFakeEpgId",Киножелезо HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png" tvg-id="simpleTVFakeEpgId",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-id="113",Еврокино
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_352",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png" tvg-id="simpleTVFakeEpgId",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="514",Родное кино
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9127/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-id="130",НТВ Хит
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_12",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2041",НТВ Хит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png" tvg-id="simpleTVFakeEpgId",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="119",Кинокомедия HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7248/index.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-id="129",НТВ Сериал
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_821",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/НТВ Сериал.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1754",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="simpleTVFakeEpgId",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Киноканалы" tvg-id="1108",НТВ Стиль
+#EXTINF:-1 group-title="Киноканалы" tvg-logo="../Channel/Logo/НТВ Стиль.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1755",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinoseria",Киносерия HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_799",Киносерия HD
 http://boxviptv.com:25461/Punhanx0733/66278363/137
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="115",Индийское кино
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_798",Индийское кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="509",Киноужас HD
+#EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2493",Киноужас HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529621
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1263",CineMan VHS HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4690",CineMan VHS HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11012/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="2051",Матч ТВ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2051",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1012.png" tvg-id="vip-megahit",viju+ Megahit HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1012.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1012",viju+ Megahit HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529675
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1256",CineMan Топ HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="simpleTVFakeEpgId",CineMan Топ HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11005/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="4",НТВ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_162",НТВ
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/267.png" tvg-id="tv1000-russkoe-kino",viju TV1000 русское HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9059/index.m3u8
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1257",CineMan Action HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/267.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_267",viju TV1000 русское HD
+http://193.25.8.59:8000/TV1000RU
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4684",CineMan Action HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11006/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="5",Пятый канал
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_427",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1011.png" tvg-id="vip-comedy",viju+ Comedy HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1011.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1011",viju+ Comedy HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529674
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1258",CineMan Триллер HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="simpleTVFakeEpgId",CineMan Триллер HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11007/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="6",Россия К
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_187",Россия К
 http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/125.png" tvg-id="tv1000-action",viju TV1000 action HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/125.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_125",viju TV1000 action HD
 http://boxviptv.com:25461/Punhanx0733/66278363/144
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="cineman-melodrama",CineMan Мелодрама HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="http://epg.one/img/4686.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4686",CineMan Мелодрама HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11008/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="292",РОССИЯ 24
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1683",РОССИЯ 24
 http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1013.png" tvg-id="vip-premiere",viju+ Premiere HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/1013.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1013",viju+ Premiere HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529676
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1260",CineMan Marvel HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4687",CineMan Marvel HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11009/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="8",Карусель
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_740",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/2838.png" tvg-id="vip-serial",viju+ Serial HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/2838.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2838",viju+ Serial HD
 http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529677
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1261",CineMan Ужасы HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4688",CineMan Ужасы HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11010/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="9",ОТР
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_1000",ОТР
 http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/277.png" tvg-id="viasat-history",viju History HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/277.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_277",viju History HD
 http://de.1usd.tv/ch126/mono.m3u8?token=1usdtv_sergmih.v2_uIUpLWjWRaHntUTssMlFO-ucxk7wY3qyNU5DE7LoHx5gcz051Sl885T1UVg8lKW-QFREHQb3q_1RAaJMIs5-
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1262",CineMan Комедия HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4689",CineMan Комедия HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11011/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="tvcentr",ТВЦ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_649",ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/2012.png" tvg-id="viasat-nature-history-hd",viju+ Planet HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/2012.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2012",viju+ Planet HD
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/9027/index.m3u8
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1264",CineMan РуКино
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_4691",CineMan РуКино
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11013/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="11",Рен ТВ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_18",Рен ТВ
 http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/521.png" tvg-id="viasat-explore",viju Explore HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/521.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_521",viju Explore HD
 http://de.1usd.tv/ch011/mono.m3u8?token=1usdtv_sergmih.v2_kGHmkjCYu_GOPNOUfBpCzKAQpjw2QTyQ5lawTrPF_ntjCmMvjmv779My-G0VMjTtZm_Eloqcv65-ls8pP24
-#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="1271",CineMan Катастрофы HD
+#EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-logo="http://epg.one/img/5585.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_5585",CineMan Катастрофы HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/15106/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="12",Спас
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Спас.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_2141",Спас
 http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="13",СТС
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/СТС.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_79",СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/765.png" tvg-id="viasat-nature",viju Nature HD
+#EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-logo="http://epg.one/img2/765.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_765",viju Nature HD
 http://de.1usd.tv/ch012/mono.m3u8?token=1usdtv_sergmih.v2_S1Nl9xwj-ERJxeTk-wqGMm7fpGqX8Iif-vXC1lwlJxPqWM8fCQYYEUrjH2Qo5xVLWlgfmmeZGt12ghIfQ_c
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="14",Домашний
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_304",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="http://epg.one/img2/698.png" tvg-id="15",ТВ3
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="http://epg.one/img2/698.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_698",ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="piatnica",Пятница
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="simpleTVFakeEpgId",Пятница
 http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="17",Звезда
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_405",Звезда
 http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="18",Мир
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Мир.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_726",Мир
 http://31.131.141.195:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="19",ТНТ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_353",ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="muztv",МузТВ
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="0ef5e2280d74c889a03b2c5b16b1f120_897",МузТВ
 http://31.131.141.195:8000/play/2100/index.m3u8
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="http://rafail1982.uz/logo/radio.png" tvg-id="simpleTVFakeEpgId",TRUCK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -384,5 +384,7 @@ http://radiorecord.rafail1982.uz/198096.aacp
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",SWH+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://80.232.162.149:8000/plus96mp3
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif" tvg-id="simpleTVFakeEpgId",Обновление:🎄22.01.2026
-http://s.only4.tv/5581/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png" tvg-id="simpleTVFakeEpgId",RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif" tvg-id="simpleTVFakeEpgId",Обновление:23.01.2026
+http://194.26.229.213/zastavka/index.m3u8
