@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://veranzo.ru/other/epg.xml.gz,http://epg.cdntv.online/full.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz,http://epg.it999.ru/pp.xml.gz"
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="29",Первый канал HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2402/index.m3u8
+http://smartvipserver.xyz:8080/7Z1Q9AE5/VMRLTJX5/529782
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="2",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" tvg-id="997",Беларусь 1 HD
