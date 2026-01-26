@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"
-#EXTINF:-1 group-title="" tvg-id="karusel",Карусель HD
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_noarch.xml.gz"
 #EXTINF:-1 group-title="" tvg-id="cineman-fitnes",CineMan Фитнес
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31629/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" tvg-id="gosfilmofond-mv",Госфильмофонд. Машина времени HD
