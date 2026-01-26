@@ -37,7 +37,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="solnce",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2JtygsKfuYYevz9tI2hvJw&e=2067257537&scheme=https
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nba-tv-us.png" tvg-id="nba-tv-us",NBA TV [US]
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://iptvx.one/picons/nba-tv-us.png" tvg-id="nba-tv",NBA TV [US]
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/3461
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="dikiy",Дикий
 http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJESdGNq9Kr-4tr-FANRJxLmKDpXw0EwybMZgYM7mgBfKsBDklpxWw6gD2mYpAb3E
@@ -90,7 +90,7 @@ http://109.94.1.3:8080/132/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="mama",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4a1
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="nhl-network-us",NHL Network [US]
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" tvg-id="nhl-network-us",NHL Network [US]
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/30407
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="smaylik-tv",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -104,7 +104,7 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=705U9LDE5Wl08TAtVUJy8w&e=2067257541&scheme=https
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" tvg-id="simpleTVFakeEpgId",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="mlb-network-us",MLB Network [US]
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png" tvg-id="mlb-network-us",MLB Network [US]
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/1272
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png" tvg-id="simpleTVFakeEpgId",IPTVPLAY МультСказки HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -156,7 +156,7 @@ http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUp
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tvcentr",ТВЦ HD
 https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-arena",Матч! Арена FHD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-arena",Матч! Арена HD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="box-auttrend",BOX AutoTrend HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31654/index.m3u8
@@ -185,7 +185,7 @@ http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVv
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tv3-ru",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=K62NzbjPvyFkKZT3VKKRXg&e=2067257508&scheme=https
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="eurosport2",Eurosport 2 ᴴᴰ
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="eurosport2",Eurosport 2 HD
 http://de.1usd.tv/ch071/mono.m3u8?token=1usdtv_sergmih.v2_2439b7bChzGtudxt_uOJQdf-YOhOm-5kvYaDy156ClnM-bQ-7MGBnRyoNdLklKedf8Cb19FjBqT6MOzPnFs
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="piatnica",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
