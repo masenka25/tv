@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,https://veranzo.ru/other/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 group-title="" tvg-id="cineman-fitnes",CineMan Фитнес
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31629/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" tvg-id="gosfilmofond-mv",Госфильмофонд. Машина времени HD
