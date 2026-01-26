@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,https://veranzo.ru/other/epg.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg.xml.gz"
 #EXTINF:-1 group-title="" tvg-id="karusel",Карусель HD
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="" tvg-id="cineman-fitnes",CineMan Фитнес
@@ -145,7 +145,7 @@ http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_Hnv
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="dikaya-oxota-hd",Дикая охота HD
 http://178.163.18.37:81/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="karusel",Карусель HD
-https://s17.federal.tv:8082/fed/karuseltv-hq.stream/chunks.m3u8?nimblesessionid=413405288&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDI2IDg6Mjc6MjEgUE0maGFzaF92YWx1ZT1WZml1RlBpdVVaRlJDRkpyN0xqNkxRPT0mdmFsaWRtaW51dGVzPTIwMA==
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-premier",Матч! Премьер FHD
 http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBdwMZoFQJSS8OMJsH9lvJ2rnXya-a2sZuALEdAa0yUOGyKviQm7lo4nMebwxwxJe
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="vf-oxota",VF Охота HD
