@@ -112,7 +112,7 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="shayantv",Шаян ТВ HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="rybalka",Рыбалка HD
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/rybalka.png" tvg-id="rybalka",Рыбалка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16138/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="tooku",Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
@@ -152,7 +152,7 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/XCmKLuhhPT-Q7ibnY7p-uw/stream/genetta-315.m9.rutube.ru/gQiRSPr8TEGqbaU1D2sAXQ/1769834821/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-igra",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
-#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="liberty-avtogir",Liberty АвтоГир
+#EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty Автогир
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tvcentr",ТВЦ HD
 https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
@@ -199,7 +199,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://de.1usd.tv/ch549/mono.m3u8?token=1usdtv_sergmih.v2_XLLcyl4gFz6YD_ZG5MqfgZlpPA5YhJBunC_9Lh4_K1QpB43pIM4DpRDCCIKgHpxBaJ2mC-C_L9uxIMp-qR7Q
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="mir-24",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tnt",ТНТ HD
+#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="https://epg.iptvx.one/picons/tnt.png" tvg-id="tnt",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4do2MtVkLmjDpP71Z8a5bQ&e=2067257506&scheme=https
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="muztv",Муз-ТВ HD
