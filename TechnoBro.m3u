@@ -110,7 +110,7 @@ http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/1272
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-tv",Матч! FHD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="shayantv",Шаян ТВ
+#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://epg.iptvx.one/picons/shayantv.png" tvg-id="shayantv",Шаян ТВ HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/rybalka.png" tvg-id="rybalka",Рыбалка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16138/index.m3u8
