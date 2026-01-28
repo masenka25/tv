@@ -1,0 +1,12 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
+
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
