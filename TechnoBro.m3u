@@ -29,6 +29,8 @@ https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/pla
 https://streaming102.interskytech.com/live/232.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="pervy",Первый канал HD
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/PB2P6qLtr1TtWmJAhZ1c6Q/stream/genetta-313.m9.rutube.ru/E79ekRJ7RoFTbqbn_i8OEA/1769869682/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="pervy",Первый Канал
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="rossia1",Россия 1
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" tvg-id="belarus1",Беларусь 1 HD
@@ -68,8 +70,6 @@ https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/pla
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20012/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="sts-kids-hd",СТС Kids HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
-#EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="pervy",Первый Канал
-http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="detsky-mir",Детский мир HD
 http://de.1usd.tv/ch044/mono.m3u8?token=1usdtv_sergmih.v2_xkbbwA28MmaTk6yvG_tQ-Uq3ezjOQcooh8jUiCtargZe906U6atBOCqyI9-RylMwc7_1mezh7AZ19rSpJG8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="multimuzyka",Мультимузыка
@@ -122,7 +122,7 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-boets",Матч! Боец HD
-http://de.1usd.tv/ch036/mono.m3u8?token=1usdtv_sergmih.v2_R05l-tiE1SEWSZIipzH10-awWjxsOSdhqdzPtzz8F0DfZMTUsA83JFe2zrN3Oo4tEYoKiyc0jnOTZ7RetJw
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19221/index.m3u8
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="dialogi-o-rybalke",Диалоги о рыбалке HD
 http://de.1usd.tv/ch067/mono.m3u8?token=1usdtv_sergmih.v2_qZJU3W0KbZ22OM41qdAupxOcbMxfA1-BlQosl4coANiXPsm2b1ZjWtHQvsNqUAriaRHI4PeKQtZvDJzURKM
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="5kanal-ru",Пятый Канал HD
@@ -177,7 +177,7 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/151/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="sts",СТС HD
 https://edge02d.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.s5NE7WNj06tDeUN6ei_317Ky10dzfuRecPQfPun25GA.47CqnezUqhCAJDgyW4aLCbralCDOLUp_o8Gi-UXBiJc.1769975308.f6ef57c7231e66b2c459c954971f0969
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="kxl-hd",KHL Prime HD
-http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IEATDjmDzlT01RsiEwsnqAjdpOzJS099OS7nNcDhNP9hLz5RSZapv3Ni6WcCtskt
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/19396/index.m3u8
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="vf-strojka",VF Стройка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="domashny",Домашний HD
