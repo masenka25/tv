@@ -45,8 +45,10 @@ http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJES
 http://boxviptv.com:25461/Punhanx0733/66278363/145
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinopremiera-hd",Кинопремьера HD
 http://boxviptv.com:25461/Punhanx0733/66278363/134
-#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Горящий камин
+#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Горящий камин 4K
 https://river-1.rutube.ru/hls-vod/TYvcI2lwgCiN_tcEdktZTw/1769980989/2468/0x5000c500e883f46a/666f7ce5eaf744168271d579651bbed0.mp4.m3u8?i=3840x2160_18738
+#EXTINF:-1 group-title="Пакет «Clarity4K» 🎦" tvg-logo="https://iptvx.one/picons/kamin.png" tvg-id="0x0-fireplace-hd",Горящий камин FHD
+https://river-m9-mts-393.rtbcdn.ru/hls-vod/eKaYx0wXs0Uu_V007KWHIA/1770187043/2872/0x5000c500e883b811/7bd19529507341b693200f31876354d3.mp4.m3u8?i=1920x1080_11442
 #EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="cineman",CineMan HD
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11004/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="radost-moya",Радость Моя
@@ -155,7 +157,7 @@ http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUp
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty Автогир
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tvcentr",ТВЦ HD
-https://edge03p.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.KrI7Nw4YYKBtg7-BU79p0BYpl_iPHbB6_f2aDCWP688.0bADvoLi8QC85tItHjboWK1dNUoRTlc1kWttXoIqRUA.1769487476.a5fcfc3c1ec4b90c70192912d62503c2
+https://edge03p.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.W0Y3wd9FWlumiTYqrzze2ljuF7ObiThchoelI8WybH0.jmY1fygExcTMOifI4smMIs2f76o3-TvAntrSHkYNKMs.1770186433.a60f708bb9c78ab8a30979cd0f72b6b5
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-arena",Матч! Арена HD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="box-auttrend",BOX AutoTrend HD
@@ -256,7 +258,7 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7245/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://p77-sign-va.tiktokcdn.com/tos-maliva-avt-0068/65332393a888366edb62b060050c12f6~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=e71a0ca5&x-expires=1769547600&x-signature=Q09JINeGLrdkowRmdao4PdtcP7g%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my3" tvg-id="simpleTVFakeEpgId",Power Dance HD
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271d.png" tvg-id="simpleTVFakeEpgId",Power Dance HD
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="kino-i-zhizn",Кино и Жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -268,18 +270,18 @@ http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2K
 #EXTINF:-1 group-title="Киноканалы" tvg-id="simpleTVFakeEpgId",Киножелезо HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="simpleTVFakeEpgId",PowerTürk Slow
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png" tvg-id="simpleTVFakeEpgId",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="evrokino",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="simpleTVFakeEpgId",PowerTürk Taptaze
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png" tvg-id="simpleTVFakeEpgId",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="rodnoe-kino",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-id="ntv-xit",НТВ Хит
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="simpleTVFakeEpgId",PowerTürk Akustik
+#EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png" tvg-id="simpleTVFakeEpgId",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinokomedia",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
