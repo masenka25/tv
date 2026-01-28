@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 
-#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋",CineMan ExExEx
+#EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋" tvg-id="7251",CineMan ExExEx
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20089/index.m3u8
 #EXTINF:-1 group-title="Пакет «Ночной» 18+ 💋",CineMan ExExEx TWO
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20090/index.m3u8
