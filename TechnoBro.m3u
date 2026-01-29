@@ -93,7 +93,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="mama",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4a1
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" tvg-id="nhl-network-us",NHL Network [US]
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/30407
+https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/tc4WGcdo27tggr9aF_13KQ/stream/genetta-522.ost.rutube.ru/rKZBNA4ymjFiVxEg75nVQw/1770271177/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="smaylik-tv",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
