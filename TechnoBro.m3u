@@ -264,7 +264,7 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=N6dm9BXyQxKnApiCTNvvog&e=2067257536&scheme=https
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="nashe-novoe-kino",Наше новое кино HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/517/index.m3u8
+https://nl01.plinks-pile.su/289/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="mezzo-live-hd",Mezzo Live HD
 http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2Km27rys64oRriezZ3uW9I94CMKXmpk4wPQKG26zv8RbYWC4TF_QG2ZbjWqGQV4X
 #EXTINF:-1 group-title="Киноканалы" tvg-id="simpleTVFakeEpgId",Киножелезо HD
@@ -334,7 +334,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11009/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="karusel",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 group-title="Пакет «viju+» 🎬" tvg-id="vip-serial",viju+ Serial HD
-http://smartvipserver.xyz:8080/EK41R8DC/ASJ8PEYG/529677
+https://nl01.plinks-pile.su/109/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 group-title="Видеосалон «Cineman» 📼" tvg-id="cineman-uzhasy",CineMan Ужасы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11010/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="otr",ОТР
