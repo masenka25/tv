@@ -67,7 +67,7 @@ http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Моя Удмуртия (Ижевск) HD
 https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/playlist.m3u8?utcstart=1768849200
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="karusel",Карусель HD
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+http://1.1usd.tv/ch040/mono.m3u8?token=1usdtv_mama_34394_1.v2_Ed7IRiUjIA7wEZhY1GG7rKLCsNq7hTGCwRh8DICKERMsQKLFlB6JV55e84Zyv9K0O7R88dxcNjbUtx-EAAu33K_HYw
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="sts-kids-hd",СТС Kids HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="detsky-mir",Детский мир HD
@@ -143,7 +143,7 @@ http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-football3",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="dikaya-oxota-hd",Дикая охота HD
-http://178.163.18.37:81/udp/234.0.0.11:2000
+https://nl01.plinks-pile.su/327/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="karusel",Карусель
 http://boxviptv.net:25461/9897689/5388826/166
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-premier",Матч! Премьер FHD
