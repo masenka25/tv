@@ -28,7 +28,7 @@ https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/pla
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" tvg-id="novy-kanal-ua",Новый канал
 https://streaming102.interskytech.com/live/232.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="pervy",Первый канал HD
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/PB2P6qLtr1TtWmJAhZ1c6Q/stream/genetta-313.m9.rutube.ru/E79ekRJ7RoFTbqbn_i8OEA/1769869682/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="pervy",Первый Канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="rossia1",Россия 1
@@ -67,7 +67,7 @@ http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Моя Удмуртия (Ижевск) HD
 https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/playlist.m3u8?utcstart=1768849200
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="karusel",Карусель HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20012/index.m3u8
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="sts-kids-hd",СТС Kids HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="detsky-mir",Детский мир HD
@@ -151,7 +151,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="vf-oxota",VF Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="otr",ОТР HD
-https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/XCmKLuhhPT-Q7ibnY7p-uw/stream/genetta-315.m9.rutube.ru/gQiRSPr8TEGqbaU1D2sAXQ/1769834821/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/X3klEprsjwiCt9YY7TH9cw/stream/genetta-315.m9.rutube.ru/RDYAV5fdfZ-FhIBMU5hXww/1770576405/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-igra",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty Автогир
