@@ -57,7 +57,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11004/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="mult",Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Japan HDV
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6225/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Че! (Ижевск)
@@ -73,7 +73,7 @@ http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/9063/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="detsky-mir",Детский мир HD
 http://de.1usd.tv/ch044/mono.m3u8?token=1usdtv_sergmih.v2_xkbbwA28MmaTk6yvG_tQ-Uq3ezjOQcooh8jUiCtargZe906U6atBOCqyI9-RylMwc7_1mezh7AZ19rSpJG8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="multimuzyka",Мультимузыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+http://tv.ttk.mx:9045
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="jimjam",JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="nickelodeon-ru",Nickelodeon HD
@@ -91,7 +91,7 @@ http://109.94.1.3:8080/132/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="mama",Мама
-http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4a1
+http://176.118.197.125/Mama/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png" tvg-id="nhl-network-us",NHL Network [US]
 https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/tc4WGcdo27tggr9aF_13KQ/stream/genetta-522.ost.rutube.ru/rKZBNA4ymjFiVxEg75nVQw/1770271177/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-id="smaylik-tv",Смайлик ТВ
@@ -108,8 +108,6 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=70
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png" tvg-id="mlb-network-us",MLB Network [US]
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/1272
-#EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://i.postimg.cc/Rh516HVw/1.png" tvg-id="simpleTVFakeEpgId",IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-tv",Матч! FHD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
 #EXTINF:-1 group-title="Пакет «Детский» 👶" tvg-logo="https://epg.iptvx.one/picons/shayantv.png" tvg-id="shayantv",Шаян ТВ HD
