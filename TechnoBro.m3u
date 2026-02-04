@@ -28,7 +28,7 @@ https://a3569457538-rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/pla
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/novy-kanal-ua.png" tvg-id="novy-kanal-ua",Новый канал
 https://streaming102.interskytech.com/live/232.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="pervy",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1770232182
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="pervy",Первый Канал
 http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="Общероссийские 🇷🇺 SD" tvg-id="rossia1",Россия 1
@@ -137,7 +137,7 @@ http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="oxota-i-rybalka",Охота и Рыбалка HD
 http://178.163.34.175:81/udp/234.0.0.230:2000
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="rossia-24",Россия 24 HD
-http://77.232.131.211/Rossiya24/index.m3u8
+https://edge01r.mediavitrina.ru/hls-livef5/russia24/tracks-v5a1/mono.ts.m3u8?token=v2.Pgyfu_Ol4wRXfsQtwhjVH2GeeQxRJ5_e_NllflfJYDs.tQyyWXbM2aRfsX4c-j897KqWTrINLJg4cRbvRxSyP7Y.1770836874.f78c78810dcc6a34c374a9fc9c52d884
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-football3",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="dikaya-oxota-hd",Дикая охота HD
