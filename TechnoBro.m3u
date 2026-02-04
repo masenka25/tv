@@ -208,7 +208,7 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="ru-tv",RU.TV HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/838/index.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinoxit",Кинохит HD
-http://195.26.83.96:7005/play/a00m/index.m3u8
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7250/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" tvg-id="belarus2",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
@@ -230,7 +230,7 @@ http://boxviptv.com:25461/Punhanx0733/66278363/141
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinomiks",Киномикс HD
-http://93.170.254.17/Kinomiks/index.m3u8
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7249/index.m3u8
 #EXTINF:-1 group-title="Киноканалы" tvg-logo="http://rafail1982.uz/logo/БелРос.png" tvg-id="tro",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -253,7 +253,7 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_hos
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-id="simpleTVFakeEpgId",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Пакет «Настрой Кино!» 📺" tvg-id="kinosvidanie",Киносвидание HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/7245/index.m3u8
+http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
 #EXTINF:-1 group-title="Киноканалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶" tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271d.png" tvg-id="simpleTVFakeEpgId",Power Dance HD
