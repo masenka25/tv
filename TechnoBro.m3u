@@ -155,7 +155,7 @@ http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUp
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png" tvg-id="liberty-avtogir",Liberty Автогир
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15109/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tvcentr",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef2/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.gdSaBADgwUM1GOXF4tLh8TWaGVHQoJq5uT9J84aEXEo.vBPwv4hRsFTKTUViAqf8aozKNquv6dvdKLDkFONtaTA.1770795166.ee517417c75a2501eb2c036fc468df9a
+https://edge03r.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.njEoBREv0QTSj18CZlZvf60eR-8caN0uvX0PPqafYZE.2R0IKyxHD4IOe2SDXLLTSlAhRX5ohoR67XEHGJrpE0g.1770891855.bc301045cc0e67e2f983116ddcd18921
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="match-arena",Матч! Арена HD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="box-auttrend",BOX AutoTrend HD
@@ -173,13 +173,13 @@ http://de.1usd.tv/ch034/mono.m3u8?token=1usdtv_sergmih.v2_YBBuWj76J7rfWufy9VMrtN
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="avto-plus",Авто плюс
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/151/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="sts",СТС HD
-https://edge02p.mediavitrina.ru/hls-livef2/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.qhHBrLdr0PEsOtGvHYvuJyz_oLzO3LpD60wxq9SKLfk.KDLWzdmt4BwX5Jarajrofvzqr0tkN9-UidbN91lbI7Q.1770586863.b68c5d59fbdf9850fb650729781ff9ab
+https://edge02p.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.3Q08xBeu8ji5ggiMBgA9pGr0cvPwa081FjQT2rGG7NQ.WjUwHPELat5xFdPJBRoUCSd9JtgQ8K9RslewYw6ZdyY.1770891936.c0ee39e703c4f17d4b220e8a7d153ae8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="kxl-hd",KHL Prime HD
 http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IEATDjmDzlT01RsiEwsnqAjdpOzJS099OS7nNcDhNP9hLz5RSZapv3Ni6WcCtskt
 #EXTINF:-1 group-title="Пакет «Мужская тема» 🎣" tvg-id="vf-strojka",VF Стройка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="domashny",Домашний HD
-https://edge01d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.X02Rg6mceJQzSvyHUMb93pWkSEM-FlBDLxGB3n70EqM.Qjd2FDZ0C72zhDVy2OcFdkZTqR__tEsTvXYNsJbCkr4.1770270890.8a16b3acd00664d04376047ccde7e84b
+https://edge01d.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.uXbp6R_DK1me7GJvzsKoa2rK34C3oSnwfnUdLyfFTL0.Q414W7UWLRBMVn3AFbYMupju7G1lI6prrNmKKp95m0s.1770892106.1513debdd29a3b603508dab231a348e0
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="eurosport1",Eurosport 1 HD
 http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVvJPRobyQyKNkM5pZqhRcRJcBbKriDx1EIcy0AHVIb6pHhYcvo_MGMPpB9VIGec
 #EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="tv3-ru",ТВ3 HD
