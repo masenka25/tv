@@ -34,7 +34,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31662/index.m3u8
 #EXTINF:-1 tvg-id="box-remast-plus-4k"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",BOX Remast+ 4K
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31656/index.m3u8
 #EXTINF:-1 tvg-id="eurosport-4k"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Eurosport 4K
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31475/index.m3u8
+http://srvru2.play-x.ru:7799/channel/n43037d22/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
 #EXTINF:-1 tvg-id="9301"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",BOX History 4K HDR
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31546/index.m3u8
 #EXTINF:-1 tvg-id="bcu-premium-kinozakaz-plus-4k-hdr"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",BCU Premium Kinozakaz+ 4K HDR
