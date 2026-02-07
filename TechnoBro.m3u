@@ -25,8 +25,6 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31620/index.m3u8
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31625/index.m3u8
 #EXTINF:-1 tvg-id="box-serial4k"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",BOX Serial 4K
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31657/index.m3u8
-#EXTINF:-1 tvg-id="liberty-kriminal"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Liberty Криминал 4K
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31663/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Liberty Дрим Воркс 4K
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/31661/index.m3u8
 #EXTINF:-1 tvg-id="liberty-muzikl"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Liberty Мюзикл 4K
