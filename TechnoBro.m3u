@@ -10,7 +10,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2JtygsKfuYYevz9tI2hvJw&e=2067257537&scheme=https
 #EXTINF:-1 tvg-id="nba-tv"tvg-logo="https://iptvx.one/picons/nba-tv-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",NBA TV [US]
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/3461
+http://cord-cutter.net:8080/ajE2Cx/422449/20073
 #EXTINF:-1 tvg-id="dikiy"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикий
 http://de.1usd.tv/ch069/mono.m3u8?token=1usdtv_sergmih.v2_LaqqyuLlPdrdzx3IcASJESdGNq9Kr-4tr-FANRJxLmKDpXw0EwybMZgYM7mgBfKsBDklpxWw6gD2mYpAb3E
 #EXTINF:-1 tvg-id="tv1000"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
@@ -143,7 +143,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="mama"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мама
 http://1.1usd.tv/ch082/mono.m3u8?token=1usdtv_mama_34394_1.v2_i4kXNBFgcbIW-z8Azx7BPR_8rBhZoP-PYianYl64DH5eeTD_eXYqExmsNjgh7Tz3b-vE1DlIgKcL-zEEz3mDFJe-OQ
 #EXTINF:-1 tvg-id="nhl-network-us"tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",NHL Network [US]
-https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/tc4WGcdo27tggr9aF_13KQ/stream/genetta-522.ost.rutube.ru/rKZBNA4ymjFiVxEg75nVQw/1770271177/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/7328/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
