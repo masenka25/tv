@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1770232182
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Первый Канал
-http://31.131.141.195:8000/play/1010/index.m3u8
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
@@ -108,7 +108,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20158/index.m3u8
 #EXTINF:-1 tvg-id="0x0-fireplace-hd"tvg-logo="https://iptvx.one/picons/kamin.png"group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Горящий камин 4K
 https://river-m9-mts-393.rtbcdn.ru/hls-vod/9Cnt-Oti_3WBny_qOyka4Q/1770747794/1871/0x5000c500e40b0ea8/a8c962619c854250b445ec6e16455709.mp4.m3u8?i=3840x2160_19197
 #EXTINF:-1 tvg-id="rossia1"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Россия 1
-http://31.131.141.195:8000/play/1020/index.m3u8
+http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Dalvik/2.1.0",Радость Моя
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -350,27 +350,27 @@ http://31.131.141.195:8000/play/1030/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
 http://boxviptv.net:25461/9897689/5388826/305
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Top HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11005/index.m3u8
+http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",НТВ
-http://31.131.141.195:8000/play/1040/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
 http://boxviptv.net:25461/9897689/5388826/1064
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Action HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11006/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Пятый канал
-http://31.131.141.195:8000/play/1050/index.m3u8
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Comedy HD
 http://boxviptv.net:25461/9897689/5388826/306
 #EXTINF:-1 tvg-id="cineman-thriller"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Thriller HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11007/index.m3u8
 #EXTINF:-1 tvg-id="kultura"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Россия К
-http://31.131.141.195:8000/play/1060/index.m3u8
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 action HD
 http://boxviptv.com:25461/Punhanx0733/66278363/144
 #EXTINF:-1 tvg-id="cineman-melodrama"tvg-logo="http://epg.one/img/4686.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Melodrama HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11008/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",РОССИЯ 24
-http://31.131.141.195:8000/play/1070/index.m3u8
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 tvg-id="vip-premiere"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Premiere HD
 http://boxviptv.net:25461/9897689/5388826/304
 #EXTINF:-1 tvg-id="cineman-marvel"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Marvel HD
@@ -382,41 +382,41 @@ https://nl01.plinks-pile.su/109/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Ужасы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11010/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-history"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
 http://de.1usd.tv/ch126/mono.m3u8?token=1usdtv_sergmih.v2_uIUpLWjWRaHntUTssMlFO-ucxk7wY3qyNU5DE7LoHx5gcz051Sl885T1UVg8lKW-QFREHQb3q_1RAaJMIs5-
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Комедия HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11011/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
+http://5.188.221.43:8080/play/tv-centr
 #EXTINF:-1 tvg-id="viasat-nature-history-hd"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Planet HD
 http://boxviptv.net:25461/9897689/5388826/1170
 #EXTINF:-1 tvg-id="cineman-rukino"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan РуКино
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11013/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Рен ТВ
-http://31.131.141.195:8000/play/2010/index.m3u8
+http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore HD
 http://de.1usd.tv/ch011/mono.m3u8?token=1usdtv_sergmih.v2_kGHmkjCYu_GOPNOUfBpCzKAQpjw2QTyQ5lawTrPF_ntjCmMvjmv779My-G0VMjTtZm_Eloqcv65-ls8pP24
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="http://epg.one/img/5585.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Катастрофы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15106/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Спас
-http://31.131.141.195:8000/play/2020/index.m3u8
+http://5.188.221.43:8080/play/spas
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://de.1usd.tv/ch012/mono.m3u8?token=1usdtv_sergmih.v2_S1Nl9xwj-ERJxeTk-wqGMm7fpGqX8Iif-vXC1lwlJxPqWM8fCQYYEUrjH2Qo5xVLWlgfmmeZGt12ghIfQ_c
 #EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="piatnica"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Пятница
-http://31.131.141.195:8000/play/2060/index.m3u8
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="zvezda"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Звезда
 http://31.131.141.195:8000/play/2070/index.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Мир
 http://31.131.141.195:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="tnt"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Муз-ТВ
 http://31.131.141.195:8000/play/2100/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
