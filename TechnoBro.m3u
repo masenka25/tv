@@ -197,7 +197,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
-https://bl.webcaster.pro/media/playlist/free_030c3d1f45b1baa622193d1d0e5a529a/5_2972636396/720p/55fd6b3d9c754b227ecf1dd81626c379/1770491446.m3u8?sr=65&seek=1770444600&uid=FL5VQLKW-SLM2-W2HM-54F2-FTF1TW5FC766&ref=https%3A%2F%2Fotr-online.ru%2F
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
@@ -244,7 +244,7 @@ http://de.1usd.tv/ch133/mono.m3u8?token=1usdtv_sergmih.v2_XPdfv5z6Dm4LM3W7p53D3k
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="ufc"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
-http://de.1usd.tv/ch549/mono.m3u8?token=1usdtv_sergmih.v2_XLLcyl4gFz6YD_ZG5MqfgZlpPA5YhJBunC_9Lh4_K1QpB43pIM4DpRDCCIKgHpxBaJ2mC-C_L9uxIMp-qR7Q
+https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТНТ HD
@@ -382,7 +382,7 @@ https://nl01.plinks-pile.su/109/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Ужасы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11010/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="viasat-history"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
 http://de.1usd.tv/ch126/mono.m3u8?token=1usdtv_sergmih.v2_uIUpLWjWRaHntUTssMlFO-ucxk7wY3qyNU5DE7LoHx5gcz051Sl885T1UVg8lKW-QFREHQb3q_1RAaJMIs5-
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Комедия HD
