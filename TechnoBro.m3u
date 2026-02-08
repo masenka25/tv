@@ -346,13 +346,13 @@ http://boxviptv.net:25461/9897689/5388826/1413
 #EXTINF:-1 tvg-id="cineman-vhs"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan VHS HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11012/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Матч ТВ
-http://31.131.141.195:8000/play/1030/index.m3u8
+http://95.47.156.60:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
 http://boxviptv.net:25461/9897689/5388826/305
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Top HD
 http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+http://95.47.156.60:8000/play/4/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
 http://boxviptv.net:25461/9897689/5388826/1064
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Action HD
@@ -400,13 +400,13 @@ http://de.1usd.tv/ch011/mono.m3u8?token=1usdtv_sergmih.v2_kGHmkjCYu_GOPNOUfBpCzK
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="http://epg.one/img/5585.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Катастрофы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15106/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Спас
-http://5.188.221.43:8080/play/spas
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://de.1usd.tv/ch012/mono.m3u8?token=1usdtv_sergmih.v2_S1Nl9xwj-ERJxeTk-wqGMm7fpGqX8Iif-vXC1lwlJxPqWM8fCQYYEUrjH2Qo5xVLWlgfmmeZGt12ghIfQ_c
 #EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Домашний
-http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+http://95.47.156.60:8000/play/14/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТВ3
 http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="piatnica"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Пятница
