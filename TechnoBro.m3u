@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1770232182
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/2402/index.m3u8
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Первый Канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 1 HD
@@ -197,7 +197,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
-http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20018/index.m3u8
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
