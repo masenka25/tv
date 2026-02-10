@@ -116,7 +116,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://1.1usd.tv/ch045/mono.m3u8?token=1usdtv_mama_34394_1.v2_EPPJlP7xwB0lzUMjpP7xDa10Oc1ty_5mSWNt266BMqNsVDnxG0jr88fiCbMKTjcAi4ihMNRnSfvYTt2KSN-1w5_WFQ
 #EXTINF:-1 tvg-id="liova"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Лёва HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
+#EXTINF:-1 tvg-id="karusel"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20012/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
 http://1.1usd.tv/ch483/mono.m3u8?token=1usdtv_mama_34394_1.v2_q0Pfsc6wHFikwd65rD2QS71XPLByJivWOfIr7qMcrR4VUu8Y6PFZAV_cCZW4EuEiCiodaw-rfa8I6vpKmzI3t7bfb0c
