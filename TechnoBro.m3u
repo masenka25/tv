@@ -375,8 +375,8 @@ http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 http://boxviptv.net:25461/9897689/5388826/304
 #EXTINF:-1 tvg-id="cineman-marvel"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Marvel HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11009/index.m3u8
-#EXTINF:-1 tvg-id="karusel"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Карусель
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/156/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Serial HD
 https://nl01.plinks-pile.su/109/mpegts?token=Fuf6t6qfqSA3Zk
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Ужасы HD
@@ -388,7 +388,7 @@ http://de.1usd.tv/ch126/mono.m3u8?token=1usdtv_sergmih.v2_uIUpLWjWRaHntUTssMlFO-
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Комедия HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11011/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТВЦ
-http://5.188.221.43:8080/play/tv-centr
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/520/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Planet HD
 http://boxviptv.net:25461/9897689/5388826/1170
 #EXTINF:-1 tvg-id="cineman-rukino"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan РуКино
