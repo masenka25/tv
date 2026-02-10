@@ -117,7 +117,7 @@ http://1.1usd.tv/ch045/mono.m3u8?token=1usdtv_mama_34394_1.v2_EPPJlP7xwB0lzUMjpP
 #EXTINF:-1 tvg-id="liova"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Лёва HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 tvg-id="karusel"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
-http://1.1usd.tv/ch040/mono.m3u8?token=1usdtv_mama_34394_1.v2_Ed7IRiUjIA7wEZhY1GG7rKLCsNq7hTGCwRh8DICKERMsQKLFlB6JV55e84Zyv9K0O7R88dxcNjbUtx-EAAu33K_HYw
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20012/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
 http://1.1usd.tv/ch483/mono.m3u8?token=1usdtv_mama_34394_1.v2_q0Pfsc6wHFikwd65rD2QS71XPLByJivWOfIr7qMcrR4VUu8Y6PFZAV_cCZW4EuEiCiodaw-rfa8I6vpKmzI3t7bfb0c
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
@@ -172,7 +172,7 @@ http://de.1usd.tv/ch036/mono.m3u8?token=1usdtv_sergmih.v2_R05l-tiE1SEWSZIipzH10-
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 http://de.1usd.tv/ch067/mono.m3u8?token=1usdtv_sergmih.v2_qZJU3W0KbZ22OM41qdAupxOcbMxfA1-BlQosl4coANiXPsm2b1ZjWtHQvsNqUAriaRHI4PeKQtZvDJzURKM
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Пятый Канал HD
-https://edge01d.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.jJRiihhLJSAIme0B3ILSreg4s0EuiYlhuwdEnxbnCyc.-EG4HIqzPJI1koGvuv5D3bZdDPRXWfob0nDFvNNsMpo.1770586773.6398b199729e8fc762b1239af4ad325e
+https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.oJimjjf_nzsUwIeJk0uA3d9Y-yYSKcp8AlWyG9bRROs.Ev05vdF5etOISOUA0_sqEfDI7yFyKvHTF_KPJWReVQI.1771316719.de425fdff10b10df1e924da4572a5b31
 #EXTINF:-1 tvg-id="match-football1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 FHD
 http://de.1usd.tv/ch061/mono.m3u8?token=1usdtv_sergmih.v2_KzWwY_-_g0IVgv_MT4LPWJBsDlzj5R1IL9_7ExeQMiuMwKZwSfpv7GKhnsGuDN8BxTdnoVr2TX0RDNnrD0g
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
@@ -209,7 +209,7 @@ http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8I
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Рен ТВ HD
-https://edge02r.mediavitrina.ru/hls-livef1/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.nger_DxepyM_LDuRXjdBLshb3QsH2yIxEuiJsLJmop0.LzolYOuFYGZViqhTmMp1xRCDZfkBqOgfEfUJPjo6xVU.1770586824.a43927d5aa1a127746e8c61efd076e14
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/9002/index.m3u8
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/19219/index.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто 24 HD
