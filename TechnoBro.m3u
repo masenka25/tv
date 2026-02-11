@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1770827341
+http://cdn.lamro.tv/ch73/mono.m3u8
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Первый Канал
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/2402/index.m3u8
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 1 HD
