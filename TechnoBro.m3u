@@ -185,13 +185,13 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 FHD
 http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5mmFbCLvDY5x5paNwa9pLSd68bSW-f5QUFOK3mtrBvhMxyKbMCae01fSiXAnYc
 #EXTINF:-1 tvg-id="oxota-i-rybalka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охота и Рыбалка HD
-http://178.163.34.175:81/udp/234.0.0.230:2000
+http://cdntv.online/high/mi4yzpeskn7a/272.m3u8
 #EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Россия 24 HD
 https://edge01r.mediavitrina.ru/hls-livef5/russia24/tracks-v5a1/mono.ts.m3u8?token=v2.Pgyfu_Ol4wRXfsQtwhjVH2GeeQxRJ5_e_NllflfJYDs.tQyyWXbM2aRfsX4c-j897KqWTrINLJg4cRbvRxSyP7Y.1770836874.f78c78810dcc6a34c374a9fc9c52d884
 #EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая охота HD
-https://tv.tvcdnpotok.com/5RTbC8-ZsLoWzZCzjTRjcw/2014/1770589506/index.m3u8
+http://cdntv.online/high/mi4yzpeskn7a/421.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Карусель HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20012/index.m3u8
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер FHD
