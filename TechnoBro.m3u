@@ -220,6 +220,10 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/20033/index.m3u8
 https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-4-433.rtbcdn.ru/fZdoJrmOt1UN8v7eV-cqXQ/stream/genetta-324.m9.rutube.ru/3a5hMkGFBsgPmkc03qEh1A/1771052680/2bbfa9ebf9d79ade480d7281fcef1008/576p_stream.m3u8
 #EXTINF:-1 tvg-id="kxl"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",KHL HD
 http://de.1usd.tv/ch034/mono.m3u8?token=1usdtv_sergmih.v2_YBBuWj76J7rfWufy9VMrtN1jhlZjHig5sfyxWdvJJX4CUYgxxbJYHUs3V2uAWWZmO3O1UW6E7WT2x6ZK590
+#EXTINF:-1 group-title="«Суперспорт» 🏆":http-user-agent="",Okko Спорт HD
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20138/index.m3u8
+#EXTINF:-1 group-title="«Суперспорт» 🏆":http-user-agent="",Окко Прайм Спорт HD
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто плюс
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/151/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",СТС HD
