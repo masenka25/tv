@@ -386,7 +386,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11010/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ОТР
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-history"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
-http://de.1usd.tv/ch126/mono.m3u8?token=1usdtv_sergmih.v2_uIUpLWjWRaHntUTssMlFO-ucxk7wY3qyNU5DE7LoHx5gcz051Sl885T1UVg8lKW-QFREHQb3q_1RAaJMIs5-
+http://cdntv.online/high/mi4yzpeskn7a/374.m3u8
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Комедия HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11011/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",ТВЦ
@@ -398,7 +398,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11013/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Рен ТВ
 http://89.232.68.194:8080/rentv/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore HD
-http://de.1usd.tv/ch011/mono.m3u8?token=1usdtv_sergmih.v2_kGHmkjCYu_GOPNOUfBpCzKAQpjw2QTyQ5lawTrPF_ntjCmMvjmv779My-G0VMjTtZm_Eloqcv65-ls8pP24
+http://cdntv.online/high/mi4yzpeskn7a/373.m3u8
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="http://epg.one/img/5585.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Катастрофы HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/15106/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Спас
