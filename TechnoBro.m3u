@@ -260,24 +260,33 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="ru-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",RU.TV HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/838/index.m3u8
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/19247/index.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-logo="http://epg.one/img/4037.png" tvg-id="4037",1HD Music Television HD
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/17038/index.m3u8
+#EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
+http://de.1usd.tv/ch020/mono.m3u8?token=1usdtv_sergmih.v2_xGdprv7m70zyxxybMVaOEgFzsDwlK5vqMelP0s9yy4gLkH7Girr7-tou4npsI_2iB9JVGid7lDrlodLrkzk
+#EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
+http://de.1usd.tv/ch490/mono.m3u8?token=1usdtv_sergmih.v2_ng66ohWWQc6wEtO8QkPyftvYuG8jFToy6yKK546M4RqBj3md9sDW8b1XEv5Aiys98Xsv7_Fevb4ldInmccT-
+#EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
+http://de.1usd.tv/ch493/mono.m3u8?token=1usdtv_sergmih.v2_Yq_WfQzFU_COD4i9eIaOLtWzcxeKcI1sV5X70-ZqR973EdIxdvhLVV_ygiMZeUqXtrFd_SNgAC2OH33Xi0cN
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="",Bridge Фрэш HD
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/9053/index.m3u8
+#EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
+http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16036/index.m3u8
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7250/index.m3u8
 #EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
-http://de.1usd.tv/ch523/mono.m3u8?token=1usdtv_sergmih.v2_GZ87mpoC_p6AEd5JAuq2vw0KZJkSuwFVoz7swSEwpAow_QGgmt8VXiiR54fcuwQmolRL64Lb79pE99kVA0US
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16036/index.m3u8
 #EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Беларусь 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinosemiya"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносемья HD
 http://boxviptv.com:25461/Punhanx0733/66278363/141
 #EXTINF:-1 tvg-id="pervy-info-by"tvg-logo=""group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",Первый информационный Беларусь
@@ -293,32 +302,60 @@ http://de.1usd.tv/ch020/mono.m3u8?token=1usdtv_sergmih.v2_xGdprv7m70zyxxybMVaOEg
 #EXTINF:-1 tvg-id="ont-by"tvg-logo=""group-title="Киноканалы":http-user-agent="Dalvik/2.1.0",ОНТ Беларусь
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
-http://de.1usd.tv/ch490/mono.m3u8?token=1usdtv_sergmih.v2_ng66ohWWQc6wEtO8QkPyftvYuG8jFToy6yKK546M4RqBj3md9sDW8b1XEv5Aiys98Xsv7_Fevb4ldInmccT-
 #EXTINF:-1 tvg-id="super"tvg-logo=""group-title="Киноканалы":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
 #EXTINF:-1 tvg-id="muzhskoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Мужское кино HD
 http://boxviptv.com:25461/Punhanx0733/66278363/245
-#EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
-http://de.1usd.tv/ch493/mono.m3u8?token=1usdtv_sergmih.v2_Yq_WfQzFU_COD4i9eIaOLtWzcxeKcI1sV5X70-ZqR973EdIxdvhLVV_ygiMZeUqXtrFd_SNgAC2OH33Xi0cN
 #EXTINF:-1 tvg-id="pobeda"tvg-logo=""group-title="Киноканалы":http-user-agent="",Победа HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
 #EXTINF:-1 tvg-id="mosfilm"tvg-logo=""group-title="Киноканалы":http-user-agent="",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="681",Europa Plus TV HD
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20029/index.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",BOOM TV
+http://89.38.8.130:39450
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271d.png"group-title="«Музыкальный» 🎶":http-user-agent="",Power Dance HD
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",DANCE TV TECHNO
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-logo="http://epg.one/img/4673.png" tvg-id="4673",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="2628",Clubbing TV HD
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",CLUB4 YOU TV
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" tvg-id="retro-music-cz",Retro Music
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" tvg-id="retro-music-cz",RETRO MUSIC TV
+https://live20.bozztv.com/akamaissh101/ssh101/506retromusictv/chunks.m3u8
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",VB Greatest Hits
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/31622/index.m3u8
+#EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
+http://de.1usd.tv/ch523/mono.m3u8?token=1usdtv_sergmih.v2_GZ87mpoC_p6AEd5JAuq2vw0KZJkSuwFVoz7swSEwpAow_QGgmt8VXiiR54fcuwQmolRL64Lb79pE99kVA0US
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Concert Channel
+http://fastream.xyz:8080/EtbmFQWPkvNR/ExkJNJC8bAcu/47270
+#EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="simpleTVFakeEpgId",Classical Harmony
+https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
+http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2Km27rys64oRriezZ3uW9I94CMKXmpk4wPQKG26zv8RbYWC4TF_QG2ZbjWqGQV4X
 #EXTINF:-1 tvg-id="kino-i-zhizn"tvg-logo=""group-title="Киноканалы":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Кино и Жизнь HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=N6dm9BXyQxKnApiCTNvvog&e=2067257536&scheme=https
 #EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
 http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/19231/index.m3u8
-#EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
-http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2Km27rys64oRriezZ3uW9I94CMKXmpk4wPQKG26zv8RbYWC4TF_QG2ZbjWqGQV4X
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="Киноканалы":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
