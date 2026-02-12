@@ -185,7 +185,7 @@ http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5
 #EXTINF:-1 tvg-id="oxota-i-rybalka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охота и Рыбалка HD
 http://cdntv.online/high/mi4yzpeskn7a/272.m3u8
 #EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Россия 24 HD
-https://edge01r.mediavitrina.ru/hls-livef5/russia24/tracks-v5a1/mono.ts.m3u8?token=v2.Pgyfu_Ol4wRXfsQtwhjVH2GeeQxRJ5_e_NllflfJYDs.tQyyWXbM2aRfsX4c-j897KqWTrINLJg4cRbvRxSyP7Y.1770836874.f78c78810dcc6a34c374a9fc9c52d884
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая охота HD
@@ -203,7 +203,7 @@ http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUp
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/15109/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.njEoBREv0QTSj18CZlZvf60eR-8caN0uvX0PPqafYZE.2R0IKyxHD4IOe2SDXLLTSlAhRX5ohoR67XEHGJrpE0g.1770891855.bc301045cc0e67e2f983116ddcd18921
+https://edge03p.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.tAPMg7nDn_POPfKsMjYHRljXa4qmfdddRexFZJ4wssg.LLaq_xkxHzKjnSq0HJSiP9fdaUylgdOZWF7yJYHS6e0.1771502176.5da558cf54c6f9854ed07c0da2ff6205
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
