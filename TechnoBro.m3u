@@ -389,7 +389,7 @@ http://95.47.156.60:8000/play/3/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
 http://boxviptv.net:25461/9897689/5388826/305
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Top HD
-http://89.232.68.194:8080/ntv/tracks-v3a1/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11005/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",НТВ
 http://95.47.156.60:8000/play/4/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
