@@ -197,7 +197,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20018/index.m3u8
+https://bl.webcaster.pro/media/playlist/free_030c3d1f45b1baa622193d1d0e5a529a/5_2972636396/720p/a02cade90d1c3a357dd2dd040265af9d/1771091526.m3u8?sr=65&seek=1771044600&uid=FL5VQLKW-SLM2-W2HM-54F2-FTF1TW5FC766&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
@@ -209,7 +209,7 @@ http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8I
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Рен ТВ HD
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/9002/index.m3u8
+https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.FgUrUcmguOfnJkzXVhHKZtvxs21TW3bhR90ObEk6CWc.Y-DasEKwlklyecyr1SYSL2VdJTuuPk91yhHrx8aZhek.1771654563.0b0ef030dd31a5130ed2d83b385cfcbb
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/19219/index.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто 24
