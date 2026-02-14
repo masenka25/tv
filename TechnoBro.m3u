@@ -148,7 +148,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7328/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая рыбалка HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9082/index.m3u8
+http://cdntv.online/high/mi4yzpeskn7a/422.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://www.cableman.ru/sites/default/files/mamontenok.png"group-title="Пакет «Детский» 👶":http-user-agent="",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Матч ТВ HD
@@ -189,7 +189,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая охота HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9081/index.m3u8
+http://cdntv.online/high/mi4yzpeskn7a/421.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Карусель HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20012/index.m3u8
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер FHD
