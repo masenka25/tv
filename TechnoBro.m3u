@@ -163,7 +163,7 @@ http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg
 #EXTINF:-1 tvg-id="shayantv"tvg-logo="https://epg.iptvx.one/picons/shayantv.png"group-title="Пакет «Детский» 👶":http-user-agent="",Шаян ТВ HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rybalka"tvg-logo="https://epg.iptvx.one/picons/rybalka.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Рыбалка HD
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/16138/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16138/index.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
@@ -182,26 +182,26 @@ http://de.1usd.tv/ch085/mono.m3u8?token=1usdtv_sergmih.v2_8NP0QA4-38kbZ18WAkpDJU
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 FHD
 http://de.1usd.tv/ch062/mono.m3u8?token=1usdtv_sergmih.v2_x02QhlAegl2TXG7EMwxXv5mmFbCLvDY5x5paNwa9pLSd68bSW-f5QUFOK3mtrBvhMxyKbMCae01fSiXAnYc
-#EXTINF:-1 tvg-id="oxota-i-rybalka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охота и Рыбалка HD
-http://cdntv.online/high/mi4yzpeskn7a/272.m3u8
+#EXTINF:-1 tvg-id="oxota-i-rybalka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охота и Рыбалка
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9284/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 FHD
 http://de.1usd.tv/ch063/mono.m3u8?token=1usdtv_sergmih.v2_g4DJ11eoHx5KT5z6Yi_HnvKHv1xbH7VK_LpGiwsFEUTrer6b0PDNb-4X4i7hnbG1iS3nWgmzLWSJR5JoVzs
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая охота HD
-http://cdntv.online/high/mi4yzpeskn7a/421.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9081/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Карусель HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20012/index.m3u8
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер FHD
 http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBdwMZoFQJSS8OMJsH9lvJ2rnXya-a2sZuALEdAa0yUOGyKviQm7lo4nMebwxwxJe
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/15513/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
 https://bl.webcaster.pro/media/playlist/free_030c3d1f45b1baa622193d1d0e5a529a/5_2972636396/720p/a02cade90d1c3a357dd2dd040265af9d/1771091526.m3u8?sr=65&seek=1771044600&uid=FL5VQLKW-SLM2-W2HM-54F2-FTF1TW5FC766&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/15109/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15109/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ТВЦ HD
 https://edge03p.mediavitrina.ru/hls-livef1/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.tAPMg7nDn_POPfKsMjYHRljXa4qmfdddRexFZJ4wssg.LLaq_xkxHzKjnSq0HJSiP9fdaUylgdOZWF7yJYHS6e0.1771502176.5da558cf54c6f9854ed07c0da2ff6205
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
@@ -212,8 +212,8 @@ http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/31654/index.m3u8
 https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.FgUrUcmguOfnJkzXVhHKZtvxs21TW3bhR90ObEk6CWc.Y-DasEKwlklyecyr1SYSL2VdJTuuPk91yhHrx8aZhek.1771654563.0b0ef030dd31a5130ed2d83b385cfcbb
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/19219/index.m3u8
-#EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто 24
-http://cdntv.online/high/mi4yzpeskn7a/265.m3u8
+#EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто 24 HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20033/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Спас
 https://salam-smr-mfon-d139.rtbcdn.ru/dive/river-4-433.rtbcdn.ru/fZdoJrmOt1UN8v7eV-cqXQ/stream/genetta-324.m9.rutube.ru/3a5hMkGFBsgPmkc03qEh1A/1771052680/2bbfa9ebf9d79ade480d7281fcef1008/576p_stream.m3u8
 #EXTINF:-1 tvg-id="kxl"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",KHL HD
@@ -225,7 +225,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20138/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="" group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Прайм Спорт HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто плюс HD
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/6369/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",СТС HD
 https://edge02p.mediavitrina.ru/hls-livef1/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.3Q08xBeu8ji5ggiMBgA9pGr0cvPwa081FjQT2rGG7NQ.WjUwHPELat5xFdPJBRoUCSd9JtgQ8K9RslewYw6ZdyY.1770891936.c0ee39e703c4f17d4b220e8a7d153ae8
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Стройка HD
