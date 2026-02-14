@@ -310,7 +310,7 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_hos
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
 #EXTINF:-1 tvg-id="mosfilm"tvg-logo=""group-title="Киноканалы":http-user-agent="",Мосфильм. Золотая коллекция HD
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/17022/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-id="681",Europa Plus TV HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20029/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKLAtVDm8uioL5EEZCn9qx8bkT2U01L4TvA&s" tvg-id="simpleTVFakeEpgId",BOOM TV
