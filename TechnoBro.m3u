@@ -104,7 +104,7 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20157/index.m3u8
 #EXTINF:-1 tvg-id="box-remast-4k"tvg-logo=""group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",BOX Remast 4K
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20158/index.m3u8
 #EXTINF:-1 tvg-id="0x0-fireplace-hd"tvg-logo="https://iptvx.one/picons/kamin.png"group-title="Пакет каналов в UHD «4K» 🎦":http-user-agent="",Горящий камин 4K
-https://river-m9-rtk-390.rtbcdn.ru/hls-vod/DJzHtpcCVzPHe9KY9RNzJw/1771491446/2217/0x5000c500e63e1cfc/051ba70cba534292a0a598686436cbf6.mp4.m3u8?i=2560x1440_25627
+https://river-1.rutube.ru/hls-vod/lLQbXRwGAaSaK553tsqgag/1771742476/2508/0x5000039ce86869e1/051ba70cba534292a0a598686436cbf6.mp4.m3u8?i=2560x1440_25627
 #EXTINF:-1 tvg-id="rossia1"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Россия 1
 http://89.232.68.194:8080/rossiya1/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Dalvik/2.1.0",Радость Моя
