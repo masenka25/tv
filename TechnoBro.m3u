@@ -224,10 +224,10 @@ http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IE
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20138/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" tvg-logo="" group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Прайм Спорт HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/20135/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yakutia-daily.ru/wp-content/uploads/2026/01/kortina-360x400.jpg" group-title="«Суперспорт» 🏆":http-user-agent="",Олимпиада 2026 1 4K
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/19431/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yakutia-daily.ru/wp-content/uploads/2026/01/kortina-360x400.jpg" group-title="«Суперспорт» 🏆":http-user-agent="",Олимпиада 2026 2 4K
-http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/19373/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yakutia-daily.ru/wp-content/uploads/2026/01/kortina-360x400.jpg" group-title="«Суперспорт» 🏆":http-user-agent="",Олимпиада 2026 1 HD
+http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/20138/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yakutia-daily.ru/wp-content/uploads/2026/01/kortina-360x400.jpg" group-title="«Суперспорт» 🏆":http-user-agent="",Олимпиада 2026 2 HD
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/14186/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yakutia-daily.ru/wp-content/uploads/2026/01/kortina-360x400.jpg" group-title="«Суперспорт» 🏆":http-user-agent="",Олимпиада 2026 3 4K
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/19373/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто плюс HD
@@ -817,9 +817,6 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 #EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Область 45 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="objektiv-59",Объектив 59 HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBJECTIVE59/variant.m3u8
 #EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/ort-planeta-orenburg.png" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
