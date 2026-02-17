@@ -387,13 +387,13 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/955/index.m3u8
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2478.png" tvg-id="xuzur-tv",Хузур ТВ HD
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/9121/index.m3u8
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2476.png" tvg-id="krasnaya-linia",Красная линия
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2147/index.m3u8
-#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2464.png" tvg-id="bst",БСТ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2108/index.m3u8
-#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/1732.png" tvg-id="nadezhda",Надежда
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2116/index.m3u8
-#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2455.png" tvg-id="uspex",Успех
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2041/index.m3u8
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2464.png" tvg-id="bst",БСТ HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2115/index.m3u8
+#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/1732.png" tvg-id="nadezhda",Надежда HD
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2455.png" tvg-id="uspex" aspect-ratio="16:9",Успех
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2041/index.m3u8
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2450.png" tvg-id="1:477",Психология
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2025/index.m3u8
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2142.png" tvg-id="nastoyaschee-vremia",Настоящее время
