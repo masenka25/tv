@@ -158,7 +158,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=70
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us"tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",MLB Network [US]
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/6512/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! FHD
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! HD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
 #EXTINF:-1 tvg-id="shayantv"tvg-logo="https://epg.iptvx.one/picons/shayantv.png"group-title="Пакет «Детский» 👶":http-user-agent="",Шаян ТВ HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
@@ -197,7 +197,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
-https://nea-live-mirror-06.ott.tricolor.tv/live/live/otr/hls_enc/otr-avc1_6000000=10004.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3NzE5MTE0NjYsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc3MTMwNjY2Niwic2Vzc2lvbl9pZCI6IjE2M2YyYjQ3OTU3MWVkYTI4N2NiMjhjMGU4NTM3YTM5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.xBMLnHH0lY59BaMBIeuYhJZldUGxqjRKl0u2mr6xH8A
+https://bl.webcaster.pro/media/playlist/free_030c3d1f45b1baa622193d1d0e5a529a/5_2972636396/720p/44f6825562795e0ca08cdb472f2eeb74/1771350973.m3u8?sr=65&seek=1771303800&uid=5D5FG0KE-30NN-OH9L-GRSZ-DGFB7WHPWVOG&ref=https%3A%2F%2Fonline-red.com%2F
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
