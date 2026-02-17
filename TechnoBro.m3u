@@ -1037,43 +1037,43 @@ http://185.46.16.239:8000/Mir
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Муз-ТВ
 http://95.47.156.60:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Радио ENERGY HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://api.radioplayer.ru/images/mjr4hg6a_colored_png.png"tvg-id="simpleTVFakeEpgId",Радио ENERGY HD
 http://109.127.148.63:81/udp/225.33.23.245:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Авторадио HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png"tvg-id="simpleTVFakeEpgId",Авторадио HD
 http://109.127.148.63:81/udp/225.33.23.246:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Радио Romantika HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radioromantika.ru/vardata/cache/resized/design/images/new_romantika_images/img_for_design/new2021/png/logo/W216_H85_Ocenter.png"tvg-id="simpleTVFakeEpgId",Радио Romantika HD
 http://109.127.148.63:81/udp/225.33.23.247:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Юмор FM HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo(1).png"tvg-id="simpleTVFakeEpgId",Юмор FM HD
 http://109.127.148.63:81/udp/225.33.23.248:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Relax FM HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.relax-fm.ru/design/images/img_for_design/re_design/main_logo.svg"tvg-id="simpleTVFakeEpgId",Relax FM HD
 http://109.127.148.63:81/udp/225.33.23.249:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Детское радио HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"tvg-id="simpleTVFakeEpgId",Детское радио HD
 http://109.127.148.63:81/udp/225.33.23.250:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Comedy Radio HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://comedy-radio.ru/design/images/logo/Logo_ComedyRadio.svg"tvg-id="simpleTVFakeEpgId",Comedy Radio HD
 http://109.127.148.63:81/udp/225.33.23.251:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Радио Гордость HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radiopotok.ru/f/station/512/2398.png"tvg-id="simpleTVFakeEpgId",Радио Гордость HD
 http://109.127.148.63:81/udp/225.33.23.252:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Радио Sputnik HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://submarinersclub.ru/Pictures/newslent/big/1675753980radio-sputnik-logotip.jpg"tvg-id="simpleTVFakeEpgId",Радио Sputnik HD
 http://109.127.148.63:81/udp/225.33.23.120:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Девяностые HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://pcradio.ru/images/stations/61b09d2b14694.jpg"tvg-id="simpleTVFakeEpgId",Девяностые HD
 http://109.127.148.63:81/udp/225.33.23.124:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Нулевые HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/dynamics/personal/168/1684944.jpg?w=300&h=300&pos=center&q=100&t=1695975058"tvg-id="simpleTVFakeEpgId",Нулевые HD
 http://109.127.148.63:81/udp/225.33.23.125:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Музыка для детей HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/b0c5fae9a166532376af30969c6834c1/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Музыка для детей HD
 http://109.127.148.63:81/udp/225.33.23.126:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Русская популярная музыка HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/a8c46789383d815ff837a76131a1846b/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Русская популярная музыка HD
 http://109.127.148.63:81/udp/225.33.23.127:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Погружение в себя HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/3b544ca5427239040c8324730a0bbfb6/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Погружение в себя HD
 http://109.127.148.63:81/udp/225.33.23.128:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Отдых и расслабление HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/33ae47bfdd9ef4df334821486bb04610/500x500.jpg"tvg-id="simpleTVFakeEpgId",Отдых и расслабление HD
 http://109.127.148.63:81/udp/225.33.23.130:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Музыка без слов HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e7a3e7bec3a5f8ef0f9e0c4e2046768e/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Музыка без слов HD
 http://109.127.148.63:81/udp/225.33.23.131:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Зарубежная поп-музыка HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40-c65b3bd84e81056e060be144381c06c8-8c4fb793cfedbb94d6e8926f3647eb8b-b226578077b444ccab0e5075497e2102/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Зарубежная поп-музыка HD
 http://109.127.148.63:81/udp/225.33.23.133:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Советская классика HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/4b63bbe3690d226c54b86ffd7919d5b3-10a5342d426eb66c00f51f6e1b71eaca-36c57d99cd35b0bfa9802bc4a0bc18e6-1bf0e48377a75de0f14de06297cd5c73/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Советская классика HD
 http://109.127.148.63:81/udp/225.33.23.137:5000
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-id="simpleTVFakeEpgId",Хорошее настроение HD
+#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/705fc3d5099c6c3e05cb402a1e1be742/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Хорошее настроение HD
 http://109.127.148.63:81/udp/225.33.23.139:5000
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
