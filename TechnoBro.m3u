@@ -600,352 +600,352 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY
 http://109.127.148.63:81/udp/225.33.23.20:5000
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/1598.png" tvg-id="che",Че!
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/513/index.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="7kanal-krasnoyarsk",7 канал Красноярск
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="7kanal-krasnoyarsk",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="8vladik",8 канал (Владивосток)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="8vladik",8 канал (Владивосток)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="8kanal-krasnoyarsk",8 канал (Красноярский край)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="8kanal-novosibirsk",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="12-omsk",12 канал HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="12-omsk",12 канал HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="31-kanal-chelyabinsk",31 канал Челябинск
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="31-kanal-chelyabinsk",31 канал Челябинск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",41 Регион
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/6tv.png" tvg-id="6tv",6 ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/6tv.png" tvg-id="6tv",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/tmtv.png" tvg-id="tmtv",TMTV
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/tmtv.png" tvg-id="tmtv",TMTV
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/ugra-travel.png" tvg-id="ugra-travel",UGRA TRAVEL
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/ugra-travel.png" tvg-id="ugra-travel",UGRA TRAVEL
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="aist",АИСТ HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="aist",АИСТ HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/1obl-blagoveschensk.png" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/1obl-blagoveschensk.png" tvg-id="1obl-blagoveschensk",Амурское областное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="arig-us-24",Ариг Ус
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="arig-us-24",Ариг Ус
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/arktik-tv.png" tvg-id="arktik-tv",Арктик-ТВ HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/arktik-tv.png" tvg-id="arktik-tv",Арктик-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/vremia-arktiki.png" tvg-id="vremia-arktiki",Арктика 24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/vremia-arktiki.png" tvg-id="vremia-arktiki",Арктика 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="arxyz24",Архыз-24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="arxyz24",Архыз-24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="astraxan24",Астрахань 24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="astraxan24",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="atv-media",АТВ-Медиа
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="atv-media",АТВ-Медиа
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",АТВ-Ставрополь
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",АТВ-Ставрополь
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="bars",Барс плюс
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="bars",Барс плюс
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="bashkortostan24",Башкортостан 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="bashkortostan24",Башкортостан 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="belgorod24",Белгород 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="belgorod24",Белгород 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="brianskaya-gubernia",Брянская Губерния HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="brianskaya-gubernia",Брянская Губерния HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="bst",БСТ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="bst",БСТ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="tk-variant",Вариант V
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="tk-variant",Вариант V
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg",Вектор 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg",Вектор 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/vetta24.png" tvg-id="vetta24",Ветта 24 Пермь
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/vetta24.png" tvg-id="vetta24",Ветта 24 Пермь
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="volga",Волга
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="volga",Волга
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/volgograd-1.png" tvg-id="volgograd-1",Волгоград 1 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/volgograd-1.png" tvg-id="volgograd-1",Волгоград 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/volgograd-24.png" tvg-id="volgograd-24",Волгоград-24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/volgograd-24.png" tvg-id="volgograd-24",Волгоград-24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="vostok-24",Восток 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="vostok-24",Восток 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="vot-tv",ВОТтв HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="vot-tv",ВОТтв HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="volga-24",Волга 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="volga-24",Волга 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",ВТК «Аргус» HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",ВТК «Аргус» HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="gorodskoy-yaroslavl",Городской телеканал Ярославль
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="gorodskoy-yaroslavl",Городской телеканал Ярославль
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="gubernia-33",Губерния 33 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="gubernia-33",Губерния 33 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="gubernia-samara",Губерния Самара
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="gubernia-samara",Губерния Самара
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="gubernia",Губерния
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="gubernia",Губерния
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/deviatka.png" tvg-id="deviatka",Девятка ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/deviatka.png" tvg-id="deviatka",Девятка ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/dzenzhinsk-tv.png" tvg-id="dzenzhinsk-tv",Дзержинск ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/dzenzhinsk-tv.png" tvg-id="dzenzhinsk-tv",Дзержинск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="don-24",ДОН 24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="don-24",ДОН 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="evrasia",Евразия
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="evrasia",Евразия
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="enisey-region",Енисей HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="enisey-region",Енисей HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",Импульс HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",Импульс HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",Инфо 24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",Инфо 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/kavkaz24.png" tvg-id="kavkaz24",Кавказ 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/kavkaz24.png" tvg-id="kavkaz24",Кавказ 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Камчатка HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Камчатка HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="kaskad24",Каскад
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="kaskad24",Каскад
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="katun-24",Катунь 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="katun-24",Катунь 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="krasnodar",Краснодар HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="krasnodar",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",Кузбасс 1
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",Кузбасс 1
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="lot-47",Лен ТВ 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="lot-47",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="lipeckoe-vremia",Липецкое время HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="lipeckoe-vremia",Липецкое время HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="maydan",Майдан
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="maydan",Майдан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" tvg-id="mig-tv-noyabrsk",Миг ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png" tvg-id="mig-tv-noyabrsk",Миг ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="mir-belogoria",Мир Белогорья
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="mir-belogoria",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/metr.png" tvg-id="metr",МЭТР
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/metr.png" tvg-id="metr",МЭТР
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="chavash-en",Национальное ТВ Чувашии
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="chavash-en",Национальное ТВ Чувашии
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="nash-dom",Наш дом
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="nash-dom",Наш дом
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg",Наши города
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg",Наши города
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="saxa",НВК (Саха)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="saxa",НВК (Саха)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="nika-tv",Ника-ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="nika-tv",Ника-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="nntv",ННТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="nntv",ННТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" tvg-id="novgorodskoe-obl-tv",Новгородское областное телевидение
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/novgorodskoe-obl-tv.png" tvg-id="novgorodskoe-obl-tv",Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Новое время (Радужный)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Новое время (Радужный)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="novy-vek-tambov",Новый век (Тамбов)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="novy-vek-tambov",Новый век (Тамбов)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="49kanal",НСК 49
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="49kanal",НСК 49
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="nts-irkutsk",НТС Иркутск
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="nts-irkutsk",НТС Иркутск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/nts-irbit.png" tvg-id="nts-irbit",НТС-Ирбит (Екатеринбург)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/nts-irbit.png" tvg-id="nts-irbit",НТС-Ирбит (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Область 45 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",Область 45 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/ort-planeta-orenburg.png" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/ort-planeta-orenburg.png" tvg-id="ort-planeta-orenburg",ОРТ-Планета (Оренбург)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="osetia-iryston",Осетия-Ирыстон HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="osetia-iryston",Осетия-Ирыстон HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="otv-eburg",ОТВ Екатеринбург HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="otv-eburg",ОТВ Екатеринбург HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/otv-primorie.png" tvg-id="otv-primorie",ОТВ-Владивосток
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/otv-primorie.png" tvg-id="otv-primorie",ОТВ-Владивосток
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/otv-saxalin.png" tvg-id="otv-saxalin",ОТВ-Сахалин
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/otv-saxalin.png" tvg-id="otv-saxalin",ОТВ-Сахалин
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="ots",ОТС HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="ots",ОТС HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="pervy-gorodskoy-kirov",Первый городской (Киров)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="pervy-gorodskoy-kirov",Первый городской (Киров)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="pervy-oblastnoy-orel",Первый областной
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="pervy-oblastnoy-orel",Первый областной
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="pervy-tulsky",Первый Тульский HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="pervy-tulsky",Первый Тульский HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="pervy-yaroslavsky",Первый Ярославский HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="pervy-yaroslavsky",Первый Ярославский HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="prima",Прима-ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="prima",Прима-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" tvg-id="rgvk-dagestan",РГВК Дагестан
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/rgvk-dagestan.png" tvg-id="rgvk-dagestan",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="region29",Регион 29
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="region29",Регион 29
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/rifey-tv.png" tvg-id="rifey-tv",Рифей-ТВ
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/rifey-tv.png" tvg-id="rifey-tv",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="rts-abakan",РТС-Абакан
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="rts-abakan",РТС-Абакан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="russky-sever",Русский Север
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="russky-sever",Русский Север
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg",Русь (Кострома)
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg",Русь (Кострома)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="rybinsk40",Рыбинск-40
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="rybinsk40",Рыбинск-40
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/s1-surgut.png" tvg-id="s1-surgut",С1 Сургут HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/s1-surgut.png" tvg-id="s1-surgut",С1 Сургут HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="samara24",Самара-24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="samara24",Самара-24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="gis-samara",Самара-Гис
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="gis-samara",Самара-Гис
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="saratov-24",Саратов-24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="saratov-24",Саратов-24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="svoyo-tv-stavropol",Своё ТВ Ставрополь HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="sochi24",Сочи24 HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="sochi24",Сочи24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="surgut-24",Сургут 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="surgut-24",Сургут 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="tatarstan24",Татарстан-24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="tatarstan24",Татарстан-24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",ТВ-7 Абакан
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/iptvxone.png" tvg-id="no_epg_news",ТВ-7 Абакан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/tv-guberniya.png" tvg-id="tv-guberniya",ТВ-Губерния
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/tv-guberniya.png" tvg-id="tv-guberniya",ТВ-Губерния
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/tv-in.png" tvg-id="tv-in",ТВ-ИН-Магнитогорск HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/tv-in.png" tvg-id="tv-in",ТВ-ИН-Магнитогорск HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" tvg-id="kolyma-plus",ТВ-Колыма-Плюс HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/kolyma-plus.png" tvg-id="kolyma-plus",ТВ-Колыма-Плюс HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="tivikom",Тивиком HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="tivikom",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="trk-ryazan",ТКР Рязань
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="trk-ryazan",ТКР Рязань
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",ТНР24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",ТНР24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="no_epg_news",Толк
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="no_epg_news",Толк
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/tolyatti24.png" tvg-id="tolyatti24",Тольятти-24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/tolyatti24.png" tvg-id="tolyatti24",Тольятти-24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="tomskoe-vremia",Томское время HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="tomskoe-vremia",Томское время HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="tumenskoe-vremia",Тюменское время
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="tumenskoe-vremia",Тюменское время
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/udmurtia.png" tvg-id="udmurtia",Удмуртия
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/udmurtia.png" tvg-id="udmurtia",Удмуртия
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/xamdan-kalm24.png" tvg-id="xamdan-kalm24",Хамдан-Калмыкия 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/xamdan-kalm24.png" tvg-id="xamdan-kalm24",Хамдан-Калмыкия 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/express.png" tvg-id="express",Экспресс HD
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/express.png" tvg-id="express",Экспресс HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="efir24-relax",Эфир
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="efir24-relax",Эфир
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="yugra",Югра
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="yugra",Югра
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="yurgan",Юрган
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="yurgan",Юрган
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" tvg-id="utv-cheboxary",ЮТВ Чебоксары
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-logo="https://iptvx.one/picons/utv-cheboxary.png" tvg-id="utv-cheboxary",ЮТВ Чебоксары
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="yakutia24",Якутия 24
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="yakutia24",Якутия 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 group-title="Региональные каналы 🌐" tvg-id="yamal-region",Ямал-Регион
+#EXTINF:-1 group-title="Региональные каналы 🌍" tvg-id="yamal-region",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="kinoseria"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносерия HD
