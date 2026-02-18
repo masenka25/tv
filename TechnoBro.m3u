@@ -1138,7 +1138,7 @@ http://radiorecord.rafail1982.uz/sd9096.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",1980 FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://radiorecord.rafail1982.uz/198096.aacp
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://80.232.162.149:8000/plus96mp3
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif"group-title="🔺 INFO 🔺Добавлен пакет каналов в 4К ":http-user-agent="",Обновление:05.02.2026
