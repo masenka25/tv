@@ -149,7 +149,7 @@ http://1.1usd.tv/ch045/mono.m3u8?token=1usdtv_mama_34394_1.v2_EPPJlP7xwB0lzUMjpP
 #EXTINF:-1 tvg-id="liova"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Лёва HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 tvg-id="karusel"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20012/index.m3u8
+http://1.1usd.tv/ch040/mono.m3u8?token=1usdtv_mama_34394_1.v2_Ed7IRiUjIA7wEZhY1GG7rKLCsNq7hTGCwRh8DICKERMsQKLFlB6JV55e84Zyv9K0O7R88dxcNjbUtx-EAAu33K_HYw
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
 http://1.1usd.tv/ch483/mono.m3u8?token=1usdtv_mama_34394_1.v2_q0Pfsc6wHFikwd65rD2QS71XPLByJivWOfIr7qMcrR4VUu8Y6PFZAV_cCZW4EuEiCiodaw-rfa8I6vpKmzI3t7bfb0c
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
@@ -159,9 +159,9 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/749/index.m3u8
 #EXTINF:-1 tvg-id="jimjam"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nickelodeon HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9015/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",NickToons
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/849/index.m3u8
+http://1.1usd.tv/ch479/mono.m3u8?token=1usdtv_mama_34394_1.v2_cRDgkjG8HB2zSic_EGdTd73hWilIM8vs6i6ei25jSq6d34npbTs2kdvStrYCyydk_Uh387FmgMtiQ0YzsrSXeYlcMHU
+#EXTINF:-1 tvg-id="nick-jr"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nick Jr
+http://1.1usd.tv/ch379/mono.m3u8?token=1usdtv_mama_34394_1.v2_J09YGRDC2Ns4DZ-broqFSf_4tzi6VZl8DF4nH
 #EXTINF:-1 tvg-id="vf-disney-cartoon"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",VF Disney Cartoon
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15027/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Cartoon Network HD
