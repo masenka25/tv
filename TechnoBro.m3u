@@ -297,10 +297,6 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4d
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Муз-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-id="che",Че!
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/513/index.m3u8
-#EXTINF:-1 group-title="Общероссийские каналы 🇷🇺 HD" tvg-logo="http://epg.one/img/1322.png" tvg-id="sts-love",СТС Love
-http://de.1usd.tv/ch111/mono.m3u8?token=1usdtv_sergmih.v2_n98KBRfjoYjXDE5_h-1TObLVnUt2h7WsVSWGKbVgY598lVgayPto73S-kbHb7RDR_srIQXnAhqmf6qLaHSoX
 #EXTINF:-1 tvg-id="ru-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",RU.TV HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19247/index.m3u8
 #EXTINF:-1 group-title="«Музыкальный» 🎶":http-user-agent="" tvg-logo="http://epg.one/img/4037.png" tvg-id="1hd",1HD Music
@@ -415,6 +411,10 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-id="che",Че!
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/513/index.m3u8
+#EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/1322.png" tvg-id="sts-love",СТС Love
+http://de.1usd.tv/ch111/mono.m3u8?token=1usdtv_sergmih.v2_n98KBRfjoYjXDE5_h-1TObLVnUt2h7WsVSWGKbVgY598lVgayPto73S-kbHb7RDR_srIQXnAhqmf6qLaHSoX
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2770.png" tvg-id="gametoon",Gametoon HD [ENG]
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5049/index.m3u8
 #EXTINF:-1 group-title="Пакет «Единый Ultra» 📡" tvg-logo="http://epg.one/img/2130.png" tvg-id="cnl-eu",GNC HD
