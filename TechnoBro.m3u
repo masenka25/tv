@@ -177,7 +177,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="mama"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мама
 http://1.1usd.tv/ch082/mono.m3u8?token=1usdtv_mama_34394_1.v2_i4kXNBFgcbIW-z8Azx7BPR_8rBhZoP-PYianYl64DH5eeTD_eXYqExmsNjgh7Tz3b-vE1DlIgKcL-zEEz3mDFJe-OQ
 #EXTINF:-1 tvg-id="nhl-network-us"tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",NHL Network [US]
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7328/index.m3u8
+http://cdn.olsibtv.org:9999/channel/732e6e56/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
 #EXTINF:-1 tvg-id="smaylik-tv"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=GRD6E5lpGB8tZzRBDM7CTQ&e=2067257536&scheme=https
