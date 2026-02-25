@@ -1069,11 +1069,11 @@ https://pub0102.101.ru:8443/stream/air/aac/64/99
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png"tvg-id="simpleTVFakeEpgId",Авторадио HD
 https://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radioromantika.ru/vardata/cache/resized/design/images/new_romantika_images/img_for_design/new2021/png/logo/W216_H85_Ocenter.png"tvg-id="simpleTVFakeEpgId",Радио Romantika HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vplscnxa3egyrwoz7rnx/ysign1=0b3d6e89b35d85f8f6cdee582448bcd7d4398da8a2a18d89623bde9409be96a7,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplewy4z55hddjhyidhn,pfx,sfx,start=1771397405,ts=699c6c27/index-a1.m3u8?packman=1&source_index=1&vsid=q9z99hd27yw0upb
+https://hls-01-gpm.hostingradio.ru/romantika495/128/playlist.m3u8?hlssid=955c3379a8af4451b925f503993b6de7
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo(1).png"tvg-id="simpleTVFakeEpgId",Юмор FM HD
 https://pub0301.101.ru:8443/stream/air/mp3/256/102?4764
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.relax-fm.ru/design/images/img_for_design/re_design/main_logo.svg"tvg-id="simpleTVFakeEpgId",Relax FM HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vpls33e3rfqlx3mxxrni/ysign1=9032f1aa56c6aef0302fb5bb52cf58f988ba82a93407f9b9863377a46c4a6b91,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplejdbatoq2zcct3luq,pfx,sfx,start=1771486370,ts=699a6227/index-a1.m3u8?packman=1&source_index=1&vsid=1g4416x1b7jog7b
+https://hls-01-gpm.hostingradio.ru/relaxfm342/128/playlist.m3u8?hlssid=3aa3a4c01d5b4fb48725f4d2bbb0f3d2
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"tvg-id="simpleTVFakeEpgId",Детское радио HD
 http://ic6.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radiopotok.ru/f/station/512/2398.png"tvg-id="simpleTVFakeEpgId",Радио Гордость HD
