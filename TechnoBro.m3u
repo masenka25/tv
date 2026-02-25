@@ -1065,29 +1065,23 @@ http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Муз-ТВ
 http://95.47.156.60:8000/play/20/index.m3u8
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://api.radioplayer.ru/images/mjr4hg6a_colored_png.png"tvg-id="simpleTVFakeEpgId",Радио ENERGY HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vplsyiv3xnu7gef3indh/ysign1=96dadcff0511f937fb6273cc46f654c4340e551c4e9312fcde5fbcb1b5425b4e,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vpleowgc5j4j2p75cb5r,pfx,sfx,start=1771486340,ts=699c7972/index-a1.m3u8?packman=1&redundant=1&source_index=1&vsid=m1ks1uimyfyl707
+https://pub0102.101.ru:8443/stream/air/aac/64/99
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png"tvg-id="simpleTVFakeEpgId",Авторадио HD
-https://strm.yandex.ru/live/2/vh-muz-converted/vplstq522zlgusisnlsc/ysign1=b02ca021827aa05f62a58545c2a334bd9821273efb354bb31e71510674af2157,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vpleom7xzpaiuenni7av,pfx,sfx,start=1771406715,ts=699b7760/index-a1.m3u8?packman=1&source_index=1&vsid=ic4s3tb64kjfzzg
+https://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radioromantika.ru/vardata/cache/resized/design/images/new_romantika_images/img_for_design/new2021/png/logo/W216_H85_Ocenter.png"tvg-id="simpleTVFakeEpgId",Радио Romantika HD
 https://strm.yandex.ru/live/1/vh-muz-converted/vplscnxa3egyrwoz7rnx/ysign1=0b3d6e89b35d85f8f6cdee582448bcd7d4398da8a2a18d89623bde9409be96a7,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplewy4z55hddjhyidhn,pfx,sfx,start=1771397405,ts=699c6c27/index-a1.m3u8?packman=1&source_index=1&vsid=q9z99hd27yw0upb
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo(1).png"tvg-id="simpleTVFakeEpgId",Юмор FM HD
-https://strm.yandex.ru/live/2/vh-muz-converted/vplsyye33uidqac5t557/ysign1=ebbf58afa0dedb3aad27b7ca57d4faf77651ad927258300a88c5e7759699956c,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplewpt3lykgt5l27jnn,pfx,sfx,start=1771420005,ts=699ca327/index-a1.m3u8?packman=1&source_index=1&vsid=zdlbeh2mw5znk02
+https://pub0301.101.ru:8443/stream/air/mp3/256/102?4764
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.relax-fm.ru/design/images/img_for_design/re_design/main_logo.svg"tvg-id="simpleTVFakeEpgId",Relax FM HD
 https://strm.yandex.ru/live/1/vh-muz-converted/vpls33e3rfqlx3mxxrni/ysign1=9032f1aa56c6aef0302fb5bb52cf58f988ba82a93407f9b9863377a46c4a6b91,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplejdbatoq2zcct3luq,pfx,sfx,start=1771486370,ts=699a6227/index-a1.m3u8?packman=1&source_index=1&vsid=1g4416x1b7jog7b
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"tvg-id="simpleTVFakeEpgId",Детское радио HD
 http://ic6.101.ru:8000/stream/air/aac/64/199
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://comedy-radio.ru/design/images/logo/Logo_ComedyRadio.svg"tvg-id="simpleTVFakeEpgId",Comedy Radio HD
-https://strm.yandex.ru/live/2/vh-muz-converted/vpls4g5kqxo5xygq2vbc/ysign1=a01cb21966ce947bbe2e42de8982f416e9c2c438b98fcf54234a303659f080f9,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vpleoyco7us7vjrltjc7,pfx,sfx,start=1771504220,ts=699bdb1c/index-a1.m3u8?packman=1&source_index=1&vsid=9mxqx7y9jb8asq1
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radiopotok.ru/f/station/512/2398.png"tvg-id="simpleTVFakeEpgId",Радио Гордость HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vplserdwvsbpylvvxezt/ysign1=e9d20949ee2f13f11c2f058879ff2ca30112fcb673a33de4d499665648b6b7cb,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vpler5ofwby4ow3om3lh,pfx,sfx,start=1771422235,ts=699a1976/index-a1.m3u8?packman=1&source_index=1&vsid=56g1xatladv0ktf
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://submarinersclub.ru/Pictures/newslent/big/1675753980radio-sputnik-logotip.jpg"tvg-id="simpleTVFakeEpgId",Радио Sputnik HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vplswy3bys7tunpm552r/ysign1=729887460b893012045c65173e82fc92f610e3c7b7aef71f038e6694d656f4a9,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vplejbu4usv3dnpgfplh,pfx,sfx,start=1771424430,ts=699c5ec9/index-a1.m3u8?packman=1&source_index=1&vsid=sov277we8fhdc8d
+https://rgordost.hostingradio.ru/rgordost64.aacp
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://pcradio.ru/images/stations/61b09d2b14694.jpg"tvg-id="simpleTVFakeEpgId",Девяностые HD
 https://stream04.pcradio.ru/e_90-med
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/dynamics/personal/168/1684944.jpg?w=300&h=300&pos=center&q=100&t=1695975058"tvg-id="simpleTVFakeEpgId",Нулевые HD
 https://stream02.pcradio.ru/rus_rodnye00-med
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/b0c5fae9a166532376af30969c6834c1/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Музыка для детей HD
-https://strm.yandex.ru/live/1/vh-muz-converted/vplsdizzoiqjz7plsqdn/ysign1=0e2eda354f8cc8a040839108c4dd103362db66fd09843997c0860f16e07b4d8a,abcID=94,chID=vplcfwoexccy6ypesl33,dvr=300,episode=vpleod2y5zut3tk6i4za,pfx,sfx,start=1771312880,ts=699c8b0f/index-a1.m3u8?packman=1&source_index=1&vsid=uv2bfpmi49p56yt
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/e7a3e7bec3a5f8ef0f9e0c4e2046768e/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Музыка без слов HD
 https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40-c65b3bd84e81056e060be144381c06c8-8c4fb793cfedbb94d6e8926f3647eb8b-b226578077b444ccab0e5075497e2102/500x500-000000-80-0-0.jpg"tvg-id="simpleTVFakeEpgId",Зарубежная поп-музыка HD
