@@ -7,14 +7,18 @@ http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/2402/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="http://rodnoetv.ru/sites/default/files/2025-02/comedy-ussr-logo.png" tvg-id="",Комедии СССР 4K
 http://89.23.113.170:8081/iptv/nasha-comediya-channel-r/chunks.m3u8?nimblesessionid=11072&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6MTk6NTYgUE0maGFzaF92YWx1ZT1pcSs2SEF4NTRTbWxUUVRsTEczREhRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png" tvg-id="",Наше Детское HD
+http://45.151.62.193:8081/iptv/kids-movie-ussr/chunks.m3u8?nimblesessionid=33005&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6Mjg6MzYgUE0maGFzaF92YWx1ZT05N2cybEwrc0k1RTQ5dTFEZ0EvQWZRPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="",Top USSR HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13005/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="ussr-premieregroup",USSR HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11102/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="bcu-sssr",BCU СССР HD
 http://boxviptv.com:25461/Punhanx0733/66278363/897
-#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="veles-sssr",VeleS СССР
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31643/index.m3u8
+#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="veles-sssr",VeleS СССР HD
+http://89.23.113.176:8081/iptv/movie-ussr-channel/chunks.m3u8?nimblesessionid=59514&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6MjY6NTggUE0maGFzaF92YWx1ZT1yNko5aVcvSzJ5OHBEUGR0bmw1eHJRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="https://epg.iptvx.one/picons/retro-tv.png" tvg-id="retro-tv",Ретро ТВ
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6NDU6MDMgUE0maGFzaF92YWx1ZT1GbW5EKzFvNnRnY1lUS2FBVS9ydmJnPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="",StrahTV СССР
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11061/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="",VB Назад в СССР HD
