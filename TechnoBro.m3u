@@ -231,7 +231,7 @@ http://de.1usd.tv/ch135/mono.m3u8?token=1usdtv_sergmih.v2_FLTwKKizVQcVMg8qVMiIBd
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
-https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-378.rtbcdn.ru/Uird5uPjvWN3U4Jn-sxp4g/stream/genetta-316.m9.rutube.ru/2XVIFl4RvW_WmckGOrjooQ/1771999444/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+http://de.1usd.tv/ch405/mono.m3u8?token=1usdtv_sergmih.v2_PLYS69K4doqopECUIHxcwdqakPCu9DNMWU7NgSpAjwy7H3D5roAKS50Mr7s5KVr2jK1JKSfBTbpoSsf60P2l
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
 http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUpvPmKJk_ZAdzHyJak4c-wW2pGAvwF4dD4AbbNjVxfigD1lzZobI4usxKzTYnXA
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
@@ -1003,7 +1003,7 @@ http://boxviptv.net:25461/9897689/5388826/1064
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Action HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/11006/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Пятый канал
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.aQg2hf4OMaamv4o99Frdy44KST1UGaKHjIN_0BVw3Ng.39CLN-E_KIYC0qFMMeWOg0V86DAXOsnvIHHZVGgVBTY.1772633414.e85b136230c6daae944dbf4dfe7766ac
 #EXTINF:-1 tvg-id="vip-comedy"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Comedy HD
 http://boxviptv.net:25461/9897689/5388826/306
 #EXTINF:-1 tvg-id="cineman-thriller"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Thriller HD
