@@ -1064,16 +1064,6 @@ http://185.46.16.239:8000/Mir
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="Общероссийские 🇷🇺 SD":http-user-agent="",Муз-ТВ
 http://95.47.156.60:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://api.radioplayer.ru/images/mjr4hg6a_colored_png.png"tvg-id="simpleTVFakeEpgId",Радио ENERGY HD
-https://pub0102.101.ru:8443/stream/air/aac/64/99
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.avtoradio.ru/design/images/site-design/avtoradio-logo.png"tvg-id="simpleTVFakeEpgId",Авторадио HD
-https://ic7.101.ru:8000/v3_1
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radioromantika.ru/vardata/cache/resized/design/images/new_romantika_images/img_for_design/new2021/png/logo/W216_H85_Ocenter.png"tvg-id="simpleTVFakeEpgId",Радио Romantika HD
-https://hls-01-gpm.hostingradio.ru/romantika495/128/playlist.m3u8?hlssid=955c3379a8af4451b925f503993b6de7
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://www.veseloeradio.ru/design/images/assets/img/logo(1).png"tvg-id="simpleTVFakeEpgId",Юмор FM HD
-https://pub0301.101.ru:8443/stream/air/mp3/256/102?4764
-#EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.relax-fm.ru/design/images/img_for_design/re_design/main_logo.svg"tvg-id="simpleTVFakeEpgId",Relax FM HD
-https://hls-01-gpm.hostingradio.ru/relaxfm342/128/playlist.m3u8?hlssid=3aa3a4c01d5b4fb48725f4d2bbb0f3d2
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"tvg-id="simpleTVFakeEpgId",Детское радио HD
 http://ic6.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1 group-title="Радиостанции 📻" tvg-logo="https://radiopotok.ru/f/station/512/2398.png"tvg-id="simpleTVFakeEpgId",Радио Гордость HD
