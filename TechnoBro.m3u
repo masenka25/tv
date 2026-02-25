@@ -5,6 +5,8 @@ http://178.163.5.96:4022/udp/234.0.0.172:2000
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/2402/index.m3u8
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="http://rodnoetv.ru/sites/default/files/2025-02/comedy-ussr-logo.png" tvg-id="",Комедии СССР
+http://89.23.113.170:8081/iptv/nasha-comediya-channel-r/chunks.m3u8?nimblesessionid=11027&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6MDc6MTcgUE0maGFzaF92YWx1ZT1INDhzWC93bGhzYkQvbDBFaGtaU0dnPT0mdmFsaWRtaW51dGVzPTU=
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="",Top USSR HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13005/index.m3u8
