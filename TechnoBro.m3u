@@ -5,10 +5,10 @@ http://178.163.5.96:4022/udp/234.0.0.172:2000
 http://d3b3b3a8.edemist.com/iptv/RY2QGKZ8P5FFU2W7UV7G68BS/2402/index.m3u8
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="http://rodnoetv.ru/sites/default/files/2025-02/comedy-ussr-logo.png" tvg-id="",Комедии СССР 4K
-http://89.23.113.170:8081/iptv/nasha-comediya-channel-r/chunks.m3u8?nimblesessionid=11072&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6MTk6NTYgUE0maGFzaF92YWx1ZT1pcSs2SEF4NTRTbWxUUVRsTEczREhRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png" tvg-id="nashe-nasledie",Наше Наследие HD
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png" tvg-id="",Наше Детское HD
-http://45.151.62.193:8081/iptv/kids-movie-ussr/chunks.m3u8?nimblesessionid=33005&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6Mjg6MzYgUE0maGFzaF92YWx1ZT05N2cybEwrc0k1RTQ5dTFEZ0EvQWZRPT0mdmFsaWRtaW51dGVzPTU=
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19433/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="",Top USSR HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13005/index.m3u8
 #EXTINF:-1 group-title="Пакет «СССР» ☭" tvg-id="ussr-premieregroup",USSR HD
