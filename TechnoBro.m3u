@@ -276,7 +276,7 @@ https://edge01r.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Домашний HD
-https://edge01r.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.CQmWNnsTIBY_eW8ku22sMRaW7wylfStuMb_ZhDDqpog.Bxa7swnySAzG7OWySOLdzoxQDW6l6jbzU_xNDvpfGRs.1772123779.703eb28f4b15d21a96bf4eb13513aa3b
+https://edge02d.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.BEWM-ZSeNS6JxA8A07-wEdwv0s3HJRBW807tuI2xQfM.Qx1ieAcNJ0oakCrnFjjl0l1z1cwwn0sEfvX5ldKWv7U.1772739066.0a5756fe7d440f73e503c25787d04fee
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVvJPRobyQyKNkM5pZqhRcRJcBbKriDx1EIcy0AHVIb6pHhYcvo_MGMPpB9VIGec
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
