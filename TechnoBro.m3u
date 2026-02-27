@@ -197,7 +197,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=70
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 tvg-id="mlb-network-us"tvg-logo="https://epg.iptvx.one/picons/mlb-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",MLB Network [US]
 http://cord-cutter.net:8080/jfbachert3@gmail.com/jfbachert3@2024/21360
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="box-sportcast",BOX SportCast HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-sportcast",BOX SportCast HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31650/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! HD
 http://de.1usd.tv/ch057/mono.m3u8?token=1usdtv_sergmih.v2_mGTnKt0ZRvWMgkj0DbDAGg9xEiCVExbGV0tqPLQy6PMBU-ApDpMsk09SHZCTo8TQpP6Da71YSRxe09ermI0
@@ -261,23 +261,23 @@ https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 http://de.1usd.tv/ch034/mono.m3u8?token=1usdtv_sergmih.v2_YBBuWj76J7rfWufy9VMrtN1jhlZjHig5sfyxWdvJJX4CUYgxxbJYHUs3V2uAWWZmO3O1UW6E7WT2x6ZK590
 #EXTINF:-1 tvg-id="kxl-hd"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",KHL Prime HD
 http://de.1usd.tv/ch138/mono.m3u8?token=1usdtv_sergmih.v2_Rk_IusuXI0ue_-0viqp-IEATDjmDzlT01RsiEwsnqAjdpOzJS099OS7nNcDhNP9hLz5RSZapv3Ni6WcCtskt
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/6511.png" tvg-id="4605",Хоккей ТВ HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/6511.png" tvg-id="4605",Хоккей ТВ HD
 http://185.234.59.200:9090/channel/n1125e8c6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
 http://de.1usd.tv/ch037/mono.m3u8?token=1usdtv_sergmih.v2_-6Y4EHR9lU99d5btsZ4r2__6NmcoUDpcHkKQge0swTyHiBwBL7W-GKMtWD9G3XFN0j-d8MRqeIMHXqN0YI8
 #EXTINF:-1 tvg-id="ufc"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
 http://178.163.5.96:4022/udp/234.0.0.6:2000
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="start",Старт HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start",Старт HD
 http://178.163.5.96:4022/udp/234.0.0.113:2000
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="start-triumf",Старт Триумф
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start-triumf",Старт Триумф
 http://178.163.5.96:4022/udp/234.0.0.14:2000
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/9664.png" tvg-id="4629",Мир Баскетбола HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/9664.png" tvg-id="4629",Мир Баскетбола HD
 http://185.234.59.200:8080/mir_basketbola_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="voleybol",Волейбол HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="voleybol",Волейбол HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31920/index.m3u8
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/5568.png" tvg-id="viasat-sport",Viju+ Sport HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/5568.png" tvg-id="viasat-sport",Viju+ Sport HD
 http://185.234.59.200:8080/viju_plus_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="okko-sport"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Спорт HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/20138/index.m3u8
@@ -300,9 +300,9 @@ http://de.1usd.tv/ch039/mono.m3u8?token=1usdtv_sergmih.v2_9oFKK2UFnaT4GG06URkuVv
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=K62NzbjPvyFkKZT3VKKRXg&e=2067257508&scheme=https
 #EXTINF:-1 tvg-id="eurosport2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 2 HD
 http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/282284
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="trace-sport-stars",Trace Sport Stars
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="trace-sport-stars",Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 group-title="Суперспорт» 🏆" tvg-id="extreme-sports",Extreme Sports HD
+#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="extreme-sports",Extreme Sports HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20028/index.m3u8
 #EXTINF:-1 tvg-id="piatnica"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
