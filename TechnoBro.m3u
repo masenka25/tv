@@ -270,7 +270,7 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
 http://178.163.5.96:4022/udp/234.0.0.6:2000
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start",Старт HD
-http://178.163.12.208:4022/udp/234.0.0.113:2000
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2154/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start-triumf",Старт Триумф
 http://178.163.5.96:4022/udp/234.0.0.14:2000
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/9664.png" tvg-id="4629",Мир Баскетбола HD
