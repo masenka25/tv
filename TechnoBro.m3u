@@ -4,6 +4,9 @@ http://178.163.5.96:4022/udp/234.0.0.172:2000
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные каналы 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="nashe-nasledie"tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
@@ -317,9 +320,6 @@ http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/16036/index.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
 http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7250/index.m3u8
-#EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
