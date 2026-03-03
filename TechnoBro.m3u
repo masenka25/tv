@@ -288,7 +288,7 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/14186/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто плюс HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",СТС HD
-https://edge01r.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.J8dJRaeQUI8wuSrNXvth7AwEmbdkWxJMTTemtSuRBj0.7ZxCcQFqrt75wPfGyA3M_H_nhFvSMhTo_zG-FNywB3w.1772535582.5e22d2bfa6844a7771a23968cc84ab77
+https://edge03r.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.wq3FlCgTvyp34gJ78fs1Ij4UqxbEwKOqCGimkTlEYHQ.gYDGJQYEnO_rLano-44ncQU-4KlddzY6HGrx5cYlsNA.1773159451.c0f237233107ed54283f5f7c0a25d3d5
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Домашний HD
@@ -312,7 +312,7 @@ http://185.234.59.200:8080/konnyy_mir_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="zvezda"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",Звезда HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="mir-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Мир 24 HD
+#EXTINF:-1 tvg-id="mir"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
