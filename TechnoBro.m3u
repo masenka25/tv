@@ -71,7 +71,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="3357"tvg-logo="http://epg.one/img/3357.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мосфильм. Золотая коллекция HD
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7347/index.m3u8
+https://telluri.ru/video/1124.m3u8
 #EXTINF:-1 tvg-id="khit-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Хит HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2438/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Блокбастер HD
