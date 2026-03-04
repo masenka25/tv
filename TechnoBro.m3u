@@ -9,7 +9,7 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="nashe-nasledie"tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
+#EXTINF:-1 tvg-id="yosso-ndetskoe" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19433/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",Top USSR HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13005/index.m3u8
