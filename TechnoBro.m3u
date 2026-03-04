@@ -15,6 +15,9 @@ http://de.1usd.tv/ch111/mono.m3u8?token=1usdtv_sergmih.v2_n98KBRfjoYjXDE5_h-1TOb
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/5054/index.m3u8
 #EXTINF:-1 tvg-id="pobeda"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Победа HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTINF:-1 tvg-id=""tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/39f68fec-88c2-4401-8e22-02a74fe06f3b.jpg"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
 #EXTINF:-1 tvg-id="sapfir"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Сапфир HD
 http://thelegend.life:8080/qETqP77XZUGKfrh/fSXffFbydM1cKTb/369720
 #EXTINF:-1 tvg-id="kion-xit"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",KION Хит HD
@@ -63,6 +66,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/7261/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="texno-24"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 tvg-id="vremia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Время
+http://193.25.8.59:8000/vremya
 #EXTINF:-1 tvg-id="russkaya-komedia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Комедия
 http://thelegend.life:8080/qETqP77XZUGKfrh/fSXffFbydM1cKTb/369709
 #EXTINF:-1 tvg-id="feniks-plus-kino"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Феникс+Кино
@@ -70,6 +77,9 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="ntv-serial"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-xit"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Хит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="khit-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Хит HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2438/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Блокбастер HD
@@ -100,6 +110,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2076/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller"tvg-logo="http://epg.one/img/994.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Русский бестселлер
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/905/index.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion"tvg-logo="http://epg.one/img/53.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Русский иллюзион HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2114/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Советская киноклассика HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2146/index.m3u8
 #EXTINF:-1 tvg-id="nst"tvg-logo="http://epg.one/img/518.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НСТ
@@ -511,18 +523,12 @@ https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 http://de.1usd.tv/ch130/mono.m3u8?token=1usdtv_sergmih.v2_k0vnELTwcOUsJ9FvmaWq2Km27rys64oRriezZ3uW9I94CMKXmpk4wPQKG26zv8RbYWC4TF_QG2ZbjWqGQV4X
 #EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19231/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.pinimg.com/474x/da/1e/81/da1e81ce299a900b720cf1006bada3df.jpg"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="ntv-xit"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Хит
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinokomedia"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинокомедия
@@ -623,16 +629,12 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2119/index.m3u8
 #EXTINF:-1 tvg-id="poexali"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Поехали! HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/14020/index.m3u8
 
-#EXTINF:-1 tvg-id="vremia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Время
-http://193.25.8.59:8000/vremya
 #EXTINF:-1 tvg-id="nauka-20"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Наука 2.0 HD
 http://cdntv.online/high/mi4yzpeskn7a/343.m3u8
 #EXTINF:-1 tvg-id="istoria"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",История
 http://cdntv.online/high/mi4yzpeskn7a/334.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Живая планета
 http://cdntv.online/high/mi4yzpeskn7a/329.m3u8
-#EXTINF:-1 tvg-id="texno-24"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Т24
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/5047/index.m3u8
 #EXTINF:-1 tvg-id="pervy-vegetariansky"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Первый вегетарианский
 http://cdntv.online/high/mi4yzpeskn7a/345.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Моя Планета HD
@@ -670,8 +672,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/6009/index.m3u8
 #EXTINF:-1 tvg-id="7635"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",FoodTime HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/918/index.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion"tvg-logo="http://epg.one/img/53.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Русский иллюзион HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2114/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Первый космический HD
 http://cdntv.online/high/mi4yzpeskn7a/1062.m3u8
 #EXTINF:-1 tvg-id="2na2"tvg-logo="http://epg.one/img/323.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",2x2 HD
