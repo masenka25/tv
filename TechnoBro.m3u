@@ -338,7 +338,7 @@ http://de.1usd.tv/ch036/mono.m3u8?token=1usdtv_sergmih.v2_R05l-tiE1SEWSZIipzH10-
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 http://de.1usd.tv/ch067/mono.m3u8?token=1usdtv_sergmih.v2_qZJU3W0KbZ22OM41qdAupxOcbMxfA1-BlQosl4coANiXPsm2b1ZjWtHQvsNqUAriaRHI4PeKQtZvDJzURKM
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Пятый Канал HD
-https://edge02p.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.5J_v0gVWOe7V23Ykae_KKlPvyyEtOMexlo6zP-I1Ngc.cVNxY3JzV--YjuH5Vq1mMJYhKIho6EMSAZXWKBVQ_Vg.1772633997.85a187e8426604ed21ce37f50502c518
+https://edge02r.mediavitrina.ru/hls-livef7/5tv/tracks-v4a1/mono.m3u8?token=v2.CRzJy2hMmbFT4GcRTLfC-PWyPbWa3RUI3YhPJEUR7Mk.6U2QnwmJAP9_B3LsLqVIJKipklExVhbT4QfsfDpFrMk.1773261479.00ea28a249698d9c8cb65b36c87fc8be
 #EXTINF:-1 tvg-id="match-football1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 FHD
 http://de.1usd.tv/ch061/mono.m3u8?token=1usdtv_sergmih.v2_KzWwY_-_g0IVgv_MT4LPWJBsDlzj5R1IL9_7ExeQMiuMwKZwSfpv7GKhnsGuDN8BxTdnoVr2TX0RDNnrD0g
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
