@@ -562,8 +562,8 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9053/index.m3u8
 http://cdntv.online/high/mi4yzpeskn7a/497.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
-https://mhd128.iptv2022.com/p/4qjZ27MrVE6BJxiBb1q8qw,1772783588/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
