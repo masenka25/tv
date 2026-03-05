@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
 http://178.163.5.96:4022/udp/234.0.0.172:2000
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masenka25/tv/blob/4e239cd0f547160e502c9c6738bb406641721e7a/Techno.JPG" group-title="🔺INFO🔺ТехноБро Электроника ",Будем рады видеть вас вновь..!
-http://dineritocashero.ottct.pro:80/MRHQMOEOH1/W5ZZLVAKHI/1495312
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif"group-title="🔺 INFO 🔺Обновлены многие категории каналов ":http-user-agent="",Обновление:28.02.2026
-http://dineritocashero.ottct.pro:80/MRHQMOEOH1/W5ZZLVAKHI/1495312
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные каналы 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="super"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Суббота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
