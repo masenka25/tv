@@ -1,3 +1,7 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
+#EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
+http://178.163.5.96:4022/udp/234.0.0.172:2000
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/masenka25/tv/blob/4e239cd0f547160e502c9c6738bb406641721e7a/Techno.JPG" group-title="🔺INFO🔺ТехноБро Электроника ",Будем рады видеть вас вновь..!
+http://dineritocashero.ottct.pro:80/MRHQMOEOH1/W5ZZLVAKHI/1495312
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif"group-title="🔺 INFO 🔺Обновлены многие категории каналов ":http-user-agent="",Обновление:28.02.2026
 http://dineritocashero.ottct.pro:80/MRHQMOEOH1/W5ZZLVAKHI/1495312
