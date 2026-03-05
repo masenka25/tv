@@ -563,7 +563,7 @@ http://cdntv.online/high/mi4yzpeskn7a/497.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/7250/index.m3u8
+https://mhd128.iptv2022.com/p/4qjZ27MrVE6BJxiBb1q8qw,1772783588/streaming/film-hit/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
