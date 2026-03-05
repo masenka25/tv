@@ -229,8 +229,6 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 https://mhd128.iptv2022.com/p/XBAIRkB0ADNFgzzWwgMt-Q,1772783592/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="womens-magazine"tvg-logo="http://epg.one/img/9040.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Женский Журнал HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20010/index.m3u8
-#EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
-http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
 
 #EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -590,6 +588,8 @@ http://boxviptv.com:25461/Punhanx0733/66278363/245
 http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
+#EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
+http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKLAtVDm8uioL5EEZCn9qx8bkT2U01L4TvA&s"group-title="«Музыкальный» 🎶":http-user-agent="",BOOM TV
 http://89.38.8.130:39450
 #EXTINF:-1 tvg-id="kiss-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Kiss TV RO
