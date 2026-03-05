@@ -94,8 +94,8 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/6010/index.m3u8
 http://srv87286.srvtwol.ink:80/ejcfrmjd/mUl1xv264Y/634209
 #EXTINF:-1 tvg-id="bollywood-hd"tvg-logo="http://epg.one/img/1395.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Bollywood HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/239/index.m3u8
-#EXTINF:-1 tvg-id="3357"tvg-logo="http://epg.one/img/3357.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мосфильм. Золотая коллекция HD
-https://telluri.ru/video/1124.m3u8
+#EXTINF:-1 tvg-id="3357"tvg-logo="http://epg.one/img/3357.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мосфильм. Золотая коллекция
+http://31.210.208.171:8080/mosfilm/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd"tvg-logo="http://epg.one/img/2835.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Наше Мужское HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2440/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd"tvg-logo="http://epg.one/img/2831.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Наш Кинопоказ HD
