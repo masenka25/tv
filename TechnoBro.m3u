@@ -454,13 +454,13 @@ http://1.1usd.tv/ch483/mono.m3u8?token=1usdtv_mama_34394_1.v2_q0Pfsc6wHFikwd65rD
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
 http://1.1usd.tv/ch044/mono.m3u8?token=1usdtv_mama_34394_1.v2_craYPk58OcEu2SufHkBMxX0tPtgwmGfsxqO9H2kHvBwKtPlLpAE9dFc4_YPeqlf8-4kwOehkTQtETjnZBFl7V5GtSA
 #EXTINF:-1 tvg-id="multimuzyka"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мультимузыка
-http://cfvdtk.cbilant.com/iptv/H66B8AGXR3NSAL/749/index.m3u8
+http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="jimjam"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nickelodeon HD
-http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/9015/index.m3u8
+http://marveltv.info:80/owtt4805/msv402906/264268
 #EXTINF:-1 tvg-id="nick-jr"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nick Jr
-http://de.1usd.tv/ch379/mono.m3u8?token=1usdtv_sergmih.v2_HVQNHIjc-fXz5_6qBEB_CZBCwHIABWMkGpGjkvKYRtkZKVyRX8agyROFo0NPRW5D1qgxGLlAkZR0QgPF1SSs
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/114/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-cartoon"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",VF Disney Cartoon
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15027/index.m3u8
 #EXTINF:-1 tvg-id="cartoon-network"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Cartoon Network HD
