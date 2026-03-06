@@ -538,7 +538,7 @@ http://de.1usd.tv/ch056/mono.m3u8?token=1usdtv_sergmih.v2_XuKmyqD1OvVSzvd63T0XUp
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15109/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.GufXF_HdtfrmNZvJlfSjU7Ca7pg366cYVacfSsMexy4.UFTpaD5s4xqX15NfBcam7Ub7c1fUoLW07TeV35ors7k.1772779651.afc75933046cd82d987b74db72efa0f7
+https://edge03d.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.2msT3q_iyrxxgb6VVPxVEdhGyoDHEbMvq2U-TeWFSZg.LWMfQLtjO3IAVHdakzc6lwpjeiO4-44sCD_S8StHEA0.1773418909.ddce5f7f501000e0e958c426a54ccb98
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://de.1usd.tv/ch055/mono.m3u8?token=1usdtv_sergmih.v2_I19_nDtJiiG1kv0b9LTk8IvIyXZWRQUU8DyknUw7WXiKtEGD_VcqnKyAlDZW5IWXGExSGPm5mtqoC7FVfGQ
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
