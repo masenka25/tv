@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://programtv.ru/xmltv.xml.gz,https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Первый канал HD
 http://178.163.5.96:4022/udp/234.0.0.172:2000
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные каналы 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
