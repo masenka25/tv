@@ -1074,7 +1074,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11009/index.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2443/index.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Ужасы HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11010/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ History HD
+#EXTINF:-1 tvg-id="viasat-history"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
 http://cdntv.online/high/mi4yzpeskn7a/374.m3u8
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Комедия HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11011/index.m3u8
@@ -1082,11 +1082,11 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11011/index.m3u8
 http://boxviptv.net:25461/9897689/5388826/1170
 #EXTINF:-1 tvg-id="cineman-rukino"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan РуКино
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11013/index.m3u8
-#EXTINF:-1 tvg-id="viasat-explore"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Explore HD
+#EXTINF:-1 tvg-id="viasat-explore"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore HD
 http://cdntv.online/high/mi4yzpeskn7a/373.m3u8
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="http://epg.one/img/5585.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Катастрофы HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15106/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Nature HD
+#EXTINF:-1 tvg-id="viasat-nature"tvg-logo=""group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://cdn.kubteltv.workers.dev/?ID=262
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"group-title="Радиостанции 📻":http-user-agent="",Детское радио HD
 http://ic6.101.ru:8000/stream/air/aac/64/199
