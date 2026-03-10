@@ -258,7 +258,7 @@ http://158.101.222.193:88/georgia_play.php?id=kvntv
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31913/index.m3u8
 #EXTINF:-1 tvg-id="epic" tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Ep!c HD
 http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/2054/index.m3u8
-#EXTINF:-1 tvg-id="2383"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Fashion & Lifestyle FHD
+#EXTINF:-1 tvg-id="2383"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Fashion & Lifestyle HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/1010/index.m3u8
 #EXTINF:-1 tvg-id="mir-vokrug"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мир Вокруг HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15219/index.m3u8
@@ -412,11 +412,11 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19282/index.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19283/index.m3u8
 #EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6727",Liberty Турк Фильм 4K
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19303/index.m3u8
-#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6728",Liberty Сказки FHD
+#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6728",Liberty Сказки HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19304/index.m3u8
-#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6739",Liberty Наука FHD
+#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6739",Liberty Наука HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19305/index.m3u8
-#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6729",Liberty МиМ FHD
+#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6729",Liberty МиМ HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19306/index.m3u8
 #EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="liberty-soyuz",Liberty Союз 4K
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19307/index.m3u8
@@ -424,7 +424,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19307/index.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19308/index.m3u8
 #EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6855",Liberty Нетфликс 4K
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19402/index.m3u8
-#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6856",Liberty Фантастика FHD
+#EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="6856",Liberty Фантастика HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19403/index.m3u8
 #EXTINF:-1 group-title="Каналы в UHD «4K» 🎦" tvg-id="liberty-xxvek",Liberty XX Век 4K
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20173/index.m3u8
@@ -504,31 +504,31 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19221/index.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2394/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Пятый Канал HD
 https://edge02d.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.pdws-SvaO1z2Rnvx4RXzMyatOW08aEUl-7j8xW64KWk._v745NXkhzNEyWqqF7CdACwj6c6420Pepw8_l-_t8lk.1773261724.46fb68b6d1f49e1ec5292112dfccd920
-#EXTINF:-1 tvg-id="match-football1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 FHD
+#EXTINF:-1 tvg-id="match-football1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/222/index.m3u
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
 http://cdn.kubteltv.workers.dev/?ID=259
 #EXTINF:-1 tvg-id="kultura"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",Россия К HD
 https://edge01p.mediavitrina.ru/hls-livef8/russiak/tracks-v5a1/mono.ts.m3u8?token=v2.f8WGlewAdYbKyQSn5lXi7V-f6D-xykOp2t-u4CxSRds.wI-tflFcCblmYI0rG5Joiq40j6IONdNBmMsHMK6t9uA.1773563577.75f6cbe4d92b5aa8c6c5f10242d39f29
-#EXTINF:-1 tvg-id="match-football2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 FHD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/211/index.m3u8
+#EXTINF:-1 tvg-id="match-football2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 HD
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/10027/index.m3u
 #EXTINF:-1 tvg-id="oxota-i-rybalka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охота и Рыбалка
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9284/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Россия 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 FHD
+#EXTINF:-1 tvg-id="match-football3"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 3 HD
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/10016/index.m3u
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Дикая охота HD
 http://cdntv.online/high/mi4yzpeskn7a/421.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Карусель HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20012/index.m3u8
-#EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер FHD
+#EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/220/index.m3u8
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",ОТР HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20018/index.m3u8
-#EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра FHD
+#EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/225/index.m3u8
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Liberty Автогир
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15109/index.m3u8
