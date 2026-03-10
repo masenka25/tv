@@ -239,7 +239,7 @@ http://178.163.5.96:4022/udp/234.0.0.12:2000
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Silk Way HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20044/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/282377
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Оружие
 http://cdntv.online/high/mi4yzpeskn7a/271.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir"tvg-logo="http://epg.one/img/2462.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Открытый мир
@@ -279,17 +279,17 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/748/index.m3u8
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="anekdottv"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Анекдот ТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://mhd128.iptv2022.com/p/XBAIRkB0ADNFgzzWwgMt-Q,1772783592/streaming/anekdot/324/1/tracks-v5a1/mono.m3u8
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/5034/index.m3u8
 #EXTINF:-1 tvg-id="womens-magazine"tvg-logo="http://epg.one/img/9040.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Женский Журнал HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20010/index.m3u8
 #EXTINF:-1 tvg-id="743"tvg-logo="http://epg.one/img/743.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",РБК HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/10029/index.m3u8
+http://178.163.5.96:4022/udp/234.0.0.151:2000
 #EXTINF:-1 tvg-id="rtd-ru"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="2268"tvg-logo="http://epg.one/img/2268.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",CGTN Русский HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/9223/index.m3u8
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf"tvg-logo="http://epg.one/img/2398.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Вместе-РФ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2073/index.m3u8
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro"tvg-logo="http://rafail1982.uz/logo/БелРос.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
