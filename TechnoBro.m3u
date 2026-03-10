@@ -123,7 +123,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2114/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Советская киноклассика HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2146/index.m3u8
 #EXTINF:-1 tvg-id="nst"tvg-logo="http://epg.one/img/518.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НСТ
-http://vod.tuva.ru/nst/index.m3u8
+http://87.76.32.36:8001/nstv
 #EXTINF:-1 tvg-id="flixsnip"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",FlixSnip HD
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 tvg-id="1330"tvg-logo="http://epg.one/img/3361.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Trash HD
