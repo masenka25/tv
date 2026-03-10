@@ -8,7 +8,7 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
 #EXTINF:-1 tvg-id="che"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Че!
-http://178.163.5.96:4022/udp/234.0.0.218:2000
+http://193.25.8.59:8000/perec
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
