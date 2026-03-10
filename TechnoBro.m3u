@@ -594,8 +594,8 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20028/index.m3u8
 #EXTINF:-1 tvg-id="piatnica"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Qf6-Va2bedvpw_TCtQgjSA&e=2067257507&scheme=https
-#EXTINF:-1 tvg-id="konny-mir"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Конный Мир HD
-http://de.1usd.tv/ch133/mono.m3u8?token=1usdtv_sergmih.v2_XPdfv5z6Dm4LM3W7p53D3kG17DeoscA-XEjt7vrZt9-Vv9mnBPquXPeZWu8bIdBY1iOhRrDraLFjg6b19ndO
+#EXTINF:-1 tvg-id="konny-mir"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Конный Мир
+http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/9055/index.m3u
 #EXTINF:-1 tvg-id="zvezda"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",Звезда HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
