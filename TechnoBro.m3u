@@ -123,7 +123,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2114/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Советская киноклассика HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2146/index.m3u8
 #EXTINF:-1 tvg-id="nst"tvg-logo="http://epg.one/img/518.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НСТ
-http://87.76.32.36:8001/nstv
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/726/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",FlixSnip HD
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 tvg-id="1330"tvg-logo="http://epg.one/img/3361.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Trash HD
@@ -159,17 +159,17 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/738/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno"tvg-logo="http://epg.one/img/5881.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Живи Активно HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15143/index.m3u8
 #EXTINF:-1 tvg-id="bobior"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Бобёр
-http://cdntv.online/high/mi4yzpeskn7a/322.m3u8
+http://193.25.8.59:8000/bober
 #EXTINF:-1 tvg-id="rtvi"tvg-logo="http://epg.one/img/2401.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",RTVi HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9102/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Приключения HD
 http://cdntv.online/high/mi4yzpeskn7a/347.m3u8
-#EXTINF:-1 tvg-id="teleputeshestvia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Телепутешествия HD
-https://mhd128.iptv2022.com/p/asG5rjrjB2J3qpPY2XTJ8A,1772783591/streaming/adventure/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="teleputeshestvia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Телепутешествия
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2051/index.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",В мире животных HD
-http://cdntv.online/high/mi4yzpeskn7a/324.m3u8
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2089/index.m3u8
 #EXTINF:-1 tvg-id="zootv"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Зоо ТВ HD
-https://mhd128.iptv2022.com/p/RtdO7aVfvjfEY6NV18iRUw,1772783591/streaming/zoo/324/1/tracks-v5a1/mono.m3u8
+http://193.25.8.59:8000/zoo
 #EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
