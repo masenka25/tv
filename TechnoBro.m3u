@@ -639,8 +639,8 @@ http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
 #EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
 http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKLAtVDm8uioL5EEZCn9qx8bkT2U01L4TvA&s"group-title="«Музыкальный» 🎶":http-user-agent="",BOOM TV
-http://89.38.8.130:39450
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
+http://178.163.5.96:4022/udp/234.0.0.150:2000
 #EXTINF:-1 tvg-id="kiss-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Kiss TV RO
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="rock-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Rock TV RO
