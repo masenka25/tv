@@ -235,7 +235,7 @@ http://cdntv.online/high/mi4yzpeskn7a/349.m3u8
 #EXTINF:-1 tvg-id="uspex"tvg-logo="http://epg.one/img/2455.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Успех
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2041/index.m3u8
 #EXTINF:-1 tvg-id="tonus-tv"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Тонус ТВ HD
-https://mhd128.iptv2022.com/p/OfT1cdM7NL5GRGSATocN2g,1772783590/streaming/tonus/324/1/tracks-v5a1/mono.m3u8
+http://178.163.5.96:4022/udp/234.0.0.12:2000
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Silk Way HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20044/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НТВ Право HD
