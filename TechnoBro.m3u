@@ -238,12 +238,12 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2041/index.m3u8
 http://178.163.5.96:4022/udp/234.0.0.12:2000
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Silk Way HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20044/index.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НТВ Право HD
-https://mhd128.iptv2022.com/p/bHuKBgVKU559mtPMW90KaA,1772783592/streaming/ntvpravo/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Оружие
 http://cdntv.online/high/mi4yzpeskn7a/271.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir"tvg-logo="http://epg.one/img/2462.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Открытый мир
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2078/index.m3u8
+http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мир 24 HD
@@ -251,13 +251,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Плюс/Минус 16 HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31916/index.m3u8
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="http://epg.one/img/1649.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",ТНТ4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/104/index.m3u8
+http://193.25.8.59:8000/tntcomedy
 #EXTINF:-1 tvg-id="kvn-tv"tvg-logo="http://epg.one/img/1700.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 tvg-id="2na2"tvg-logo="http://epg.one/img/323.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",2x2 HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31913/index.m3u8
 #EXTINF:-1 tvg-id="epic" tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Ep!c HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2054/index.m3u8
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/2054/index.m3u8
 #EXTINF:-1 tvg-id="2383"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Fashion & Lifestyle FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/1010/index.m3u8
 #EXTINF:-1 tvg-id="mir-vokrug"tvg-logo=""group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Мир Вокруг HD
