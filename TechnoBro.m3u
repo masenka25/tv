@@ -299,6 +299,8 @@ http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 tvg-id="gosfilmofond-mv"tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png"group-title="Пакет «СССР» ☭":http-user-agent=""ГосФильмоФонд HD
+http://178.163.5.96:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-id="nashe-nasledie"tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
 #EXTINF:-1 tvg-id="yosso-ndetskoe" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
