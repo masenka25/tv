@@ -688,7 +688,7 @@ http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://maidan.tv/images/1maidan/logo-new.png"group-title="«Музыкальный» 🎶":http-user-agent="",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="soyuz"tvg-logo="http://epg.one/img/2448.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Союз
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E7FL2MCG8MWSVEZRNQDS37UY/2016/index.m3u8
+http://178.163.5.96:4022/udp/234.0.0.196:2000
 #EXTINF:-1 tvg-id="xuzur-tv"tvg-logo="http://epg.one/img/2478.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Хузур ТВ HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9121/index.m3u8
 #EXTINF:-1 tvg-id="nadezhda"tvg-logo="http://epg.one/img/1732.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="",Надежда HD
