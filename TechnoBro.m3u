@@ -611,8 +611,8 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19247/index.m3u8
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/17038/index.m3u8
-#EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ
-http://178.163.5.96:4022/udp/234.0.0.96:2000
+#EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
+http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
 http://cdn.kubteltv.workers.dev/?ID=67
 #EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
@@ -629,8 +629,6 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7250/index.m3u8
 http://boxviptv.com:25461/Punhanx0733/66278363/141
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киномикс HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7249/index.m3u8
-#EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
-http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Мужское кино HD
 http://boxviptv.com:25461/Punhanx0733/66278363/245
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
