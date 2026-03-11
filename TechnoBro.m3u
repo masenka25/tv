@@ -1080,7 +1080,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11013/index.m3u8
 http://cdntv.online/high/mi4yzpeskn7a/373.m3u8
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="http://epg.one/img/5585.png"group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan Катастрофы HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15106/index.m3u8
-#EXTINF:-1 tvg-id="viasat-nature"tvg-logo="https://epg.iptvx.one/picons/viasat-nature.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
+#EXTINF:-1 tvg-id="viasat-nature"tvg-logo="https://iptv-play.ru/channels/all_icons/6458.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://cdn.kubteltv.workers.dev/?ID=262
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"group-title="Радиостанции 📻":http-user-agent="",Детское радио HD
 http://ic6.101.ru:8000/stream/air/aac/64/199
