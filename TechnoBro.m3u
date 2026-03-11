@@ -348,7 +348,7 @@ http://cord-cutter.net:8080/ajE2Cx/422449/20073
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/847/index.m3u8
 #EXTINF:-1 tvg-id="tv1000"tvg-logo="https://epg.iptvx.one/picons/tv1000.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
 http://boxviptv.com:25461/Punhanx0733/66278363/145
-#EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
+#EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
 http://boxviptv.com:25461/Punhanx0733/66278363/134
 #EXTINF:-1 tvg-id="cineman"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11004/index.m3u8
@@ -623,15 +623,15 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9053/index.m3u8
 http://cdntv.online/high/mi4yzpeskn7a/497.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="kinoxit"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
+#EXTINF:-1 tvg-id="kinoxit"tvg-logo="https://epg.iptvx.one/picons/kinoxit.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинохит HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7250/index.m3u8
-#EXTINF:-1 tvg-id="kinosemiya"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносемья HD
+#EXTINF:-1 tvg-id="kinosemiya"tvg-logo="https://epg.iptvx.one/picons/kinosemia.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносемья HD
 http://boxviptv.com:25461/Punhanx0733/66278363/141
-#EXTINF:-1 tvg-id="kinomiks"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киномикс HD
+#EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://epg.iptvx.one/picons/kinomiks.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киномикс HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7249/index.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Мужское кино HD
+#EXTINF:-1 tvg-id="muzhskoe-kino"tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Мужское кино HD
 http://boxviptv.com:25461/Punhanx0733/66278363/245
-#EXTINF:-1 tvg-id="kinosvidanie"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
+#EXTINF:-1 tvg-id="kinosvidanie"tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
@@ -669,17 +669,17 @@ http://fastream.xyz:8080/EtbmFQWPkvNR/ExkJNJC8bAcu/47270
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
 http://srv87286.srvtwol.ink:80/ejcfrmjd/mUl1xv264Y/634242
-#EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
+#EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19231/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Taptaze
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Родное кино
+#EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://epg.iptvx.one/picons/rodnoe-kino.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="kinokomedia"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинокомедия
+#EXTINF:-1 tvg-id="kinokomedia"tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://maidan.tv/images/1maidan/logo-new.png"group-title="«Музыкальный» 🎶":http-user-agent="",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
@@ -1036,11 +1036,11 @@ https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTINF:-1 tvg-id="yamal-region"tvg-logo=""group-title="Региональные каналы 🌍":http-user-agent="Mozilla 5.0",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-id="kinoseria"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносерия HD
+#EXTINF:-1 tvg-id="kinoseria"tvg-logo="https://epg.iptvx.one/picons/kinoseria.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киносерия HD
 http://boxviptv.com:25461/Punhanx0733/66278363/137
-#EXTINF:-1 tvg-id="indiyskoe-kino"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Индийское кино
+#EXTINF:-1 tvg-id="indiyskoe-kino"tvg-logo="https://epg.iptvx.one/picons/indijskoe-kino.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Индийское кино
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 tvg-id="kinouzhas"tvg-logo=""group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киноужас HD
+#EXTINF:-1 tvg-id="kinouzhas"tvg-logo="https://epg.iptvx.one/picons/kinouzhas.png"group-title="Пакет «Настрой Кино!» 📺":http-user-agent="",Киноужас HD
 http://boxviptv.net:25461/9897689/5388826/1413
 #EXTINF:-1 tvg-id="cineman-vhs"tvg-logo=""group-title="Видеосалон «Cineman» 📼":http-user-agent="",CineMan VHS HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11012/index.m3u8
