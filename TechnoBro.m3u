@@ -299,7 +299,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="Пакет «Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 tvg-id="gosfilmofond-mv"tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png"group-title="Пакет «СССР» ☭":http-user-agent=""ГосФильмоФонд HD
+#EXTINF:-1 tvg-id="gosfilmofond-mv"tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png"group-title="Пакет «СССР» ☭":http-user-agent="",ГосФильмоФонд HD
 http://178.163.5.96:4022/udp/234.0.0.190:2000
 #EXTINF:-1 tvg-id="nashe-nasledie"tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
@@ -315,8 +315,6 @@ http://boxviptv.com:25461/Punhanx0733/66278363/897
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31643/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv"tvg-logo="https://epg.iptvx.one/picons/retro-tv.png"group-title="Пакет «СССР» ☭":http-user-agent="",Ретро ТВ
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6NDU6MDMgUE0maGFzaF92YWx1ZT1GbW5EKzFvNnRnY1lUS2FBVS9ydmJnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",StrahTV СССР
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11061/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",VB Назад в СССР HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20175/index.m3u8
 #EXTINF:-1 tvg-id="yosso-sovfilm"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",YOSSO Советские фильмы HD
