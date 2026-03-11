@@ -502,13 +502,13 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19221/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2394/index.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Пятый Канал HD
+#EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Пятый Канал HD
 https://edge02d.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.pdws-SvaO1z2Rnvx4RXzMyatOW08aEUl-7j8xW64KWk._v745NXkhzNEyWqqF7CdACwj6c6420Pepw8_l-_t8lk.1773261724.46fb68b6d1f49e1ec5292112dfccd920
 #EXTINF:-1 tvg-id="match-football1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/222/index.m3u
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
 http://cdn.kubteltv.workers.dev/?ID=259
-#EXTINF:-1 tvg-id="kultura"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",Россия К HD
+#EXTINF:-1 tvg-id="kultura"tvg-logo="https://epg.iptvx.one/picons/kultura.png"group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="Dalvik/2.1.0",Россия К HD
 https://edge01p.mediavitrina.ru/hls-livef8/russiak/tracks-v5a1/mono.ts.m3u8?token=v2.f8WGlewAdYbKyQSn5lXi7V-f6D-xykOp2t-u4CxSRds.wI-tflFcCblmYI0rG5Joiq40j6IONdNBmMsHMK6t9uA.1773563577.75f6cbe4d92b5aa8c6c5f10242d39f29
 #EXTINF:-1 tvg-id="match-football2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 HD
 http://2477fd5f.cbilant.com/iptv/WCSZMUM84X4689VHGC7UDAQQ/10027/index.m3u
