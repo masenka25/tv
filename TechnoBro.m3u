@@ -305,39 +305,39 @@ http://178.163.5.96:4022/udp/234.0.0.190:2000
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31934/index.m3u8
 #EXTINF:-1 tvg-id="yosso-ndetskoe" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/19433/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",Top USSR HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv-play.ru/channels/all_icons/6805.png"group-title="Пакет «СССР» ☭":http-user-agent="",Top USSR HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13005/index.m3u8
-#EXTINF:-1 tvg-id="ussr-premieregroup"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",USSR HD
+#EXTINF:-1 tvg-id="ussr-premieregroup"tvg-logo="https://epg.iptvx.one/picons/ussr-premieregroup.png"group-title="Пакет «СССР» ☭":http-user-agent="",USSR HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/11102/index.m3u8
-#EXTINF:-1 tvg-id="bcu-sssr"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",BCU СССР HD
+#EXTINF:-1 tvg-id="bcu-sssr"tvg-logo="https://epg.iptvx.one/picons/bcu-sssr-hdr.png"group-title="Пакет «СССР» ☭":http-user-agent="",BCU СССР HD
 http://boxviptv.com:25461/Punhanx0733/66278363/897
-#EXTINF:-1 tvg-id="veles-sssr" tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",VeleS СССР HD
+#EXTINF:-1 tvg-id="veles-sssr" tvg-logo="https://epg.iptvx.one/picons/veles-sssr.png"group-title="Пакет «СССР» ☭":http-user-agent="",VeleS СССР HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/31643/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv"tvg-logo="https://epg.iptvx.one/picons/retro-tv.png"group-title="Пакет «СССР» ☭":http-user-agent="",Ретро ТВ
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNS8yMDI2IDM6NDU6MDMgUE0maGFzaF92YWx1ZT1GbW5EKzFvNnRnY1lUS2FBVS9ydmJnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",VB Назад в СССР HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptv-play.ru/channels/all_icons/8742.png"group-title="Пакет «СССР» ☭":http-user-agent="",VB Назад в СССР HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20175/index.m3u8
-#EXTINF:-1 tvg-id="yosso-sovfilm"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",YOSSO Советские фильмы HD
+#EXTINF:-1 tvg-id="yosso-sovfilm"tvg-logo="https://epg.iptvx.one/picons/yosso-sovfilm.png"group-title="Пакет «СССР» ☭":http-user-agent="",YOSSO Советские фильмы HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/14175/index.m3u8
-#EXTINF:-1 tvg-id="vf-filmy-sssr"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",VF Фильмы СССР HD
+#EXTINF:-1 tvg-id="vf-filmy-sssr"tvg-logo="https://epg.iptvx.one/picons/vf-filmy-sssr.png"group-title="Пакет «СССР» ☭":http-user-agent="",VF Фильмы СССР HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/10085/index.m3u8
-#EXTINF:-1 tvg-id="vf-multfilmy-sssr"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",VF Мультфильмы СССР
+#EXTINF:-1 tvg-id="vf-multfilmy-sssr"tvg-logo="https://epg.iptvx.one/picons/vf-multfilmy-sssr.png"group-title="Пакет «СССР» ☭":http-user-agent="",VF Мультфильмы СССР
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/10086/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-1941-1945"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR 1941-1945 HD
+#EXTINF:-1 tvg-id="minimax-ussr-1941-1945"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-1941-1945.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR 1941-1945 HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/13018/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-komedija"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Комедия HD
+#EXTINF:-1 tvg-id="minimax-ussr-komedija"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-komedija.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Комедия HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13019/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-detektiv"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Детектив HD
+#EXTINF:-1 tvg-id="minimax-ussr-detektiv"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-detektiv.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Детектив HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13096/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-prikluchenija"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Приключения HD
+#EXTINF:-1 tvg-id="minimax-ussr-prikluchenija"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-prikluchenija.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Приключения HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13060/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-fantastika"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Драма HD
+#EXTINF:-1 tvg-id="minimax-ussr-fantastika"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-fantastika.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Драма HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13022/index.m3u8
-#EXTINF:-1 tvg-id="minimax-ussr-skazki"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Сказки HD
+#EXTINF:-1 tvg-id="minimax-ussr-skazki"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-skazki.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Сказки HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13021/index.m3u8
-#EXTINF:-1 tvg-id="minimax-mult"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Мультфильм HD
+#EXTINF:-1 tvg-id="minimax-mult"tvg-logo="https://epg.iptvx.one/picons/minimax-mult.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Мультфильм HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/13020/index.m3u8
-#EXTINF:-1 tvg-id="box-sssr-4k"tvg-logo=""group-title="Пакет «СССР» ☭":http-user-agent="",BOX СССР 4K
+#EXTINF:-1 tvg-id="box-sssr-4k"tvg-logo="https://epg.iptvx.one/picons/box-sssr-4k.png"group-title="Пакет «СССР» ☭":http-user-agent="",BOX СССР 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31625/index.m3u8
 #EXTINF:-1 tvg-id="solnce"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
