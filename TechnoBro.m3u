@@ -577,7 +577,7 @@ http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",Авто плюс HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",СТС HD
-https://edge03r.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.wq3FlCgTvyp34gJ78fs1Ij4UqxbEwKOqCGimkTlEYHQ.gYDGJQYEnO_rLano-44ncQU-4KlddzY6HGrx5cYlsNA.1773159451.c0f237233107ed54283f5f7c0a25d3d5
+https://edge04p.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.grFr5lRlpK78zmwMwgkNhgPFY9iqR7gmagUNi1Y_qhs.voYuPWyppoZCPwedCCHC5rAzJS9SOiiPyf0trP3Jp0c.1773814696.8f02ce7aadfb8b2ffc8a8d199331a039
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo=""group-title="Пакет «Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo=""group-title="Общероссийские каналы 🇷🇺 HD":http-user-agent="",Домашний HD
