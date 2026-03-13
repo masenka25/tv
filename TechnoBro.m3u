@@ -569,7 +569,7 @@ https://edge04p.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
-https://edge02r.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.sryD9WUA_9pYh3ldDk-qbRTO074q5WjKYxcPOAJQvsU.-HB5AaxpTHc4srD_TIQQEFBFhL71erlUVj6W329MMxc.1773381913.1bbf75b99674a95f1d06073c981ecb14
+https://edge02r.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.9NLbM0-x43vU9u29l5sRUfUSUaHS_uiDD8M-bObLUEE.o0ebtvbZvjvcwHdM0MR9ukDIDaKs2be8rCDyoi02ttk.1773987958.e076b32ac581f81746983510836c3a5d
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/284160
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
