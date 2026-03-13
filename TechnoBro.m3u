@@ -362,45 +362,37 @@ http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/11114/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-soyuz.png" tvg-id="liberty-soyuz",Liberty Союз 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19307/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-uzhasy.png" tvg-id="liberty-uzhasy",Liberty Ужасы 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/15088/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15088/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="2804",Кино UHD 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/5004/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="6727",Liberty Турк Фильм 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/19303/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19303/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-trillery.png" tvg-id="liberty-trillery",Liberty Триллеры 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15089/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-skazki.png" tvg-id="6728",Liberty Сказки FHD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19304/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-serialy.png" tvg-id="liberty-serialy",Liberty Сериалы 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31665/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-semejny.png" tvg-id="liberty-semejny",Liberty Семейный 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/18178/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/18178/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-kinomiks.png" tvg-id="liberty-kinomiks",Liberty Кино Микс 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15110/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="liberty-serialy",Liberty Сериалы 4K
-http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31665/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="6855",Liberty Нетфликс 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19402/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-mult.png" tvg-id="liberty-mult",Liberty Мульт 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/18051/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/18051/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="liberty-muzikl",Liberty Мюзикл 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31662/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-legenda.png" tvg-id="liberty-legenda",Liberty Легенда 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/19308/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-kub.png" tvg-id="liberty-kub",Liberty Куб 4K
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/18161/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19308/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="liberty-kriminal",Liberty Криминал 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31663/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-india.png" tvg-id="liberty-india",Liberty Индия 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/18160/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="8924",Liberty Дрим Воркс 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/31661/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31661/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="liberty-xxvek",Liberty XX Век 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/20173/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-avanpost.png" tvg-id="liberty-avanpost",Liberty Аванпост 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31664/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="https://iptvx.one/picons/liberty-xxvek.png" tvg-id="liberty-xxvek",Liberty XX Век 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20173/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="box-serial4k",BOX Serial 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31657/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="bcu-premium-premiere-plus-4k-hdr",BOX Premiere 4K
@@ -416,17 +408,17 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31625/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="nasha-sibir-4k",Наша Сибирь 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9330/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="glazami-turista-4k",Глазами Туриста 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/15191/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="9301",BOX History 4K HDR
-http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31546/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15191/index.m3u8
+#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="9301",BOX History 4K
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31546/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="9303",BOX Kosmo 4K HDR
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31548/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="eurosport-4k",Eurosport 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31475/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="love-nature-4k",Love Nature 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/5001/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5001/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="http://epg.one/img/2802.png" tvg-id="2802",MyZen 4K
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/5002/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5002/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="http://epg.one/img/6695.png" tvg-id="quadro4k",Quadro 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19262/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="travel-xp-4k",TravelXP 4K
