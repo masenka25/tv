@@ -602,7 +602,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19247/index.m3u8
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/17038/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
-http://radio.tvs.by:8088/MuzTV/index.m3u8
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
 http://cdn.kubteltv.workers.dev/?ID=67
 #EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
