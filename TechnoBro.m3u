@@ -629,6 +629,8 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
 http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
 http://178.163.5.96:4022/udp/234.0.0.150:2000
+#EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=XS-D_uidgEJ2IIZtqH6Pag&e=2072697320&scheme=https
 #EXTINF:-1 tvg-id="kiss-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Kiss TV RO
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="rock-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Rock TV RO
@@ -649,8 +651,6 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz"tvg-logo="https://iptvx.one/picons/retro-music-cz.png"group-title="«Музыкальный» 🎶":http-user-agent="",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 tvg-id="retro-music-cz"tvg-logo="https://iptvx.one/picons/retro-music-cz.png"group-title="«Музыкальный» 🎶":http-user-agent="",RETRO MUSIC TV
-https://live20.bozztv.com/akamaissh101/ssh101/506retromusictv/chunks.m3u8
 #EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2043/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgRGbpDLpwjW1VkdvOUW-JlLfN1OoPakjwaw&s"group-title="«Музыкальный» 🎶":http-user-agent="",Concert Channel
