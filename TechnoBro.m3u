@@ -601,6 +601,8 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19247/index.m3u8
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/17038/index.m3u8
+#EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
+http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
@@ -609,6 +611,10 @@ http://cdn.kubteltv.workers.dev/?ID=67
 http://cdn.kubteltv.workers.dev/?ID=64
 #EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge Фрэш HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9053/index.m3u8
+#EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
+#EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
+http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
 #EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
 http://cdntv.online/high/mi4yzpeskn7a/497.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
@@ -623,10 +629,6 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7249/index.m3u8
 http://boxviptv.com:25461/Punhanx0733/66278363/245
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
-#EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20029/index.m3u8
-#EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
-http://cdntv.online/high/mi4yzpeskn7a/399.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
 http://178.163.5.96:4022/udp/234.0.0.150:2000
 #EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
@@ -651,10 +653,8 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz"tvg-logo="https://iptvx.one/picons/retro-music-cz.png"group-title="«Музыкальный» 🎶":http-user-agent="",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2043/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgRGbpDLpwjW1VkdvOUW-JlLfN1OoPakjwaw&s"group-title="«Музыкальный» 🎶":http-user-agent="",Concert Channel
-http://fastream.xyz:8080/EtbmFQWPkvNR/ExkJNJC8bAcu/47270
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png"group-title="«Музыкальный» 🎶":http-user-agent="",Сити Эдем
+https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/c5/95/4fc595c1-f5f1-7b92-3747-3d66c84d6ded/App_Icon-marketing.lsr/1200x630bb.png"group-title="«Музыкальный» 🎶":http-user-agent="",Classical Harmony
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
