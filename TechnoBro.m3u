@@ -31,7 +31,7 @@ http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="kion-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",KION Хит HD
 http://178.163.5.96:4022/udp/234.0.0.213:2000
 #EXTINF:-1 tvg-id="1226"tvg-logo="http://epg.one/img/7314.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинеко HD
-http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/282454
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/9135/index.m3u8
 #EXTINF:-1 tvg-id="1288"tvg-logo="http://epg.one/img/7901.png"group-title="«Единый Ultra» 📡":http-user-agent="",DetectiveJam HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20209/index.m3u8
 #EXTINF:-1 tvg-id="1293"tvg-logo="http://epg.one/img/6241.png"group-title="«Единый Ultra» 📡":http-user-agent="",START Air HD
@@ -117,7 +117,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/907/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman"tvg-logo="http://epg.one/img/401.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский роман HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2076/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller"tvg-logo="http://epg.one/img/994.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский бестселлер
-http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/282385
+http://178.163.5.96:4022/udp/234.0.0.250:2000
 #EXTINF:-1 tvg-id="russky-illuzion"tvg-logo="http://epg.one/img/53.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский иллюзион HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2114/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="«Единый Ultra» 📡":http-user-agent="",Советская киноклассика HD
@@ -239,7 +239,7 @@ http://178.163.5.96:4022/udp/234.0.0.12:2000
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Silk Way HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/20044/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",НТВ Право
-http://smart.serranotv.online:8080/JoaoSilva2/Hse738463i/282377
+http://cdntv.online/high/mi4yzpeskn7a/340.m3u8
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Оружие
 http://cdntv.online/high/mi4yzpeskn7a/271.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir"tvg-logo="http://epg.one/img/2462.png"group-title="«Единый Ultra» 📡":http-user-agent="",Открытый мир
