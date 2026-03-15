@@ -423,8 +423,6 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5002/index.m3u8
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/19262/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="travel-xp-4k",TravelXP 4K
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20031/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="simpleTVFakeEpgId",TRT 4K TR
-http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/4001/index.m3u8
 
 #EXTINF:-1 tvg-id="radost-moya"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Dalvik/2.1.0",Радость Моя
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
