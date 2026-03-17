@@ -45,7 +45,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/7222/index.m3u8
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd"tvg-logo="http://epg.one/img/1588.png"group-title="«Единый Ultra» 📡":http-user-agent="",Остросюжетное HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/904/index.m3u8
 #EXTINF:-1 tvg-id="shokiruyushchee-hd"tvg-logo="http://epg.one/img/2309.png"group-title="«Единый Ultra» 📡":http-user-agent="",Шокирующее HD
-http://1.1usd.tv/ch134/mono.m3u8?token=1usdtv_mama_34394_1.v2_5T7aBxG_srB7cJ2AO9DfHrR0EdBL1OddDTrIdjGAEPFFlgYH1xIMz18QLssuApXd1RIGRndF2o76Dz5ziSEPGfPgGOA
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682634
 #EXTINF:-1 tvg-id="komedijnoe-hd"tvg-logo="http://epg.one/img/138.png"group-title="«Единый Ultra» 📡":http-user-agent="",Комедийное HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/912/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd"tvg-logo="http://epg.one/img/2772.png"group-title="«Единый Ultra» 📡":http-user-agent="",Романтичное HD
@@ -53,7 +53,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/5053/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd"tvg-logo="http://epg.one/img/2019.png"group-title="«Единый Ultra» 📡":http-user-agent="",Душевное HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/914/index.m3u8
 #EXTINF:-1 tvg-id="nashehd"tvg-logo="http://epg.one/img/2018.png"group-title="«Единый Ultra» 📡":http-user-agent="",Наше HD
-http://1.1usd.tv/ch131/mono.m3u8?token=1usdtv_mama_34394_1.v2_PzYyMcINRLt6TTbvvnnnyjZkUv7NYdtLweueeF73Z0xT1L1RRyo6Lks18eoQvTy2FqBgF9gJUeOomAs7zSuOgL22FwY
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/9046/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd"tvg-logo="http://epg.one/img/2509.png"group-title="«Единый Ultra» 📡":http-user-agent="",Любимое HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2106/index.m3u8
 #EXTINF:-1 tvg-id="kriminalnoe-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Криминальное HD
@@ -428,13 +428,13 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20031/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="mult"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мульт HD
-http://1.1usd.tv/ch045/mono.m3u8?token=1usdtv_mama_34394_1.v2_EPPJlP7xwB0lzUMjpP7xDa10Oc1ty_5mSWNt266BMqNsVDnxG0jr88fiCbMKTjcAi4ihMNRnSfvYTt2KSN-1w5_WFQ
+http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 tvg-id="liova"tvg-logo="https://epg.iptvx.one/picons/liova.png"group-title="Пакет «Детский» 👶":http-user-agent="",Лёва HD
 http://khalid.ottrast.com/iptv/Z36T44BY6MQQ7S/15098/index.m3u8
 #EXTINF:-1 tvg-id="karusel"tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
 http://135f1043.ottolok.net/iptv/BGMVL9WVMVRS45/20012/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
-http://1.1usd.tv/ch483/mono.m3u8?token=1usdtv_mama_34394_1.v2_q0Pfsc6wHFikwd65rD2QS71XPLByJivWOfIr7qMcrR4VUu8Y6PFZAV_cCZW4EuEiCiodaw-rfa8I6vpKmzI3t7bfb0c
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2001/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png"group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/9192/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мультимузыка
@@ -453,12 +453,12 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9261/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=1LTslXnl9vMFSgc6vXZl6g&e=2067257513&scheme=https
 #EXTINF:-1 tvg-id="malysh"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Супергерои
-http://1.1usd.tv/ch617/mono.m3u8?token=1usdtv_mama_34394_1.v2_3XECAcyPlgAFGrxVzsTuGntF5ydukV0JybWiucvuH_NDBG-6vSJbOooeWc7O5BBAq1L2HD902pcUDRRIIGI8A_9Te9k
+http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png"group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="mama"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мама
-http://1.1usd.tv/ch082/mono.m3u8?token=1usdtv_mama_34394_1.v2_i4kXNBFgcbIW-z8Azx7BPR_8rBhZoP-PYianYl64DH5eeTD_eXYqExmsNjgh7Tz3b-vE1DlIgKcL-zEEz3mDFJe-OQ
+http://178.163.5.96:4022/udp/234.0.0.101:2000
 #EXTINF:-1 tvg-id="nhl-network-us"tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",NHL Network [US]
 http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7328/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Смайлик ТВ
@@ -626,7 +626,7 @@ http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/7249/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino"tvg-logo="https://epg.iptvx.one/picons/muzhskoe-kino.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Мужское кино HD
 http://boxviptv.com:25461/Punhanx0733/66278363/245
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
-http://1.1usd.tv/ch010/mono.m3u8?token=1usdtv_mama_34394_1.v2_dfEHEXb3Mt_ZnYFvv6GlxaZj1ZCDyqCvKoM1gi6pLceX8AuqBScvBvafeWYQ_Q7EXi8rrQOa4hfgyrOTaTaDTvoy-w
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682642
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
 http://178.163.5.96:4022/udp/234.0.0.150:2000
 #EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
