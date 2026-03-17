@@ -170,6 +170,8 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2051/index.m3u8
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2089/index.m3u8
 #EXTINF:-1 tvg-id="zootv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Зоо ТВ HD
 http://193.25.8.59:8000/zoo
+#EXTINF:-1 tvg-id="lapki-live"tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"group-title="«Единый Ultra» 📡":http-user-agent="",Лапки Live HD
+http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2028/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -262,8 +264,6 @@ http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/2054/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/1010/index.m3u8
 #EXTINF:-1 tvg-id="mir-vokrug"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Мир Вокруг HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/15219/index.m3u8
-#EXTINF:-1 tvg-id="lapki-live"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Лапки Live HD
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/2028/index.m3u8
 #EXTINF:-1 tvg-id="898"tvg-logo="http://epg.one/img/898.png"group-title="«Единый Ultra» 📡":http-user-agent="",Ю ТВ
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=k6kW8fat516l0J_TEQ8U8A&e=2069025310&scheme=https
 #EXTINF:-1 tvg-id="360-podmoskovie"tvg-logo="http://epg.one/img/2265.png"group-title="«Единый Ultra» 📡":http-user-agent="",360 HD
