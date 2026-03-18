@@ -541,7 +541,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/6511.png" tvg-id="4605",Хоккей ТВ HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/10039/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ufc"tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
