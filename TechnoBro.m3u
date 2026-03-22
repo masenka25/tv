@@ -521,13 +521,13 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682679
 #EXTINF:-1 tvg-id="liberty-avtogir"tvg-logo="https://epg.iptvx.one/picons/liberty-avtogir.png"group-title="«Мужская тема» 🎣":http-user-agent="",Liberty Автогир
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/15109/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
-https://user85726.clients-cdnnow.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.BbRu0YyN8mkLaMxfxZqh_xMsE3ncWLWYB1GH6n-6APU.Scwy_EHjJMicRBzUH0B-0RLdFeEWvNiW4uGt0wYf5Bg.1774115787.df8ff2ae980ebebb4a534d98f2bda1b2
+https://vitrina-live-cdnnow.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.jfhI3y3ClQTi81s2dqker4sKtSbk2UImBJMpONrYFCQ.c7ySGNftEwEfIgii2zhrqUs2Z11-vWb0Iyw4-6lwAN8.1774791391.6a71173a261b63a6e1d6666ba2858cbf
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/207/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Рен ТВ HD
-https://edge02d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.xbmYMvwmy-L0qn7DjhBwGc2Ww2Sv_U9qzw_zklvE5fo.bMClOs_ni3o_x3BydLnoITpllSPkl15NHWiTVFA_-wI.1774162636.c01627aa5ad0ed5bc698b323f8812107
+https://edge01r.mediavitrina.ru/hls-livef5/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.LOXA12JqQakedB-WXfOJ4GLuCnKj0R86FeHv95XOTqE.TO7t_IJNMvXn6c3HvtebluyChpHF_tL6xuttu2AMcpc.1774791463.d7d62df7e366795b316a261ef7cd78d3
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
