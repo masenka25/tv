@@ -634,7 +634,7 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/19255/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=XS-D_uidgEJ2IIZtqH6Pag&e=2072697320&scheme=https
 #EXTINF:-1 tvg-id="kiss-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Kiss TV HD
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+http://livestream.siliconweb.com:80/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="rock-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Rock TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271d.png"group-title="«Музыкальный» 🎶":http-user-agent="",Power Dance HD
