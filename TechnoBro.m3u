@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682729
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2402/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
@@ -140,7 +140,7 @@ http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/5044/index.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/5049/index.m3u8
-#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Первый космический HD
+#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="", космический HD
 http://cdntv.online/high/mi4yzpeskn7a/1062.m3u8
 #EXTINF:-1 tvg-id="morskoy"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Моя Стихия HD
 http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/7349/index.m3u8
