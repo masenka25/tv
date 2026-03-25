@@ -497,7 +497,7 @@ https://edge02p.mediavitrina.ru/hls-livef8/5tv/tracks-v5a1/mono.ts.m3u8?token=v2
 #EXTINF:-1 tvg-id="match-football1"tvg-logo="https://epg.iptvx.one/picons/match-football1.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/10015/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
-http://cdn.kubteltv.workers.dev/?ID=259
+http://83.222.91.180:4022/udp/238.1.1.89:1234
 #EXTINF:-1 tvg-id="kultura"tvg-logo="https://epg.iptvx.one/picons/kultura.png"group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",Россия К HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 #EXTINF:-1 tvg-id="match-football2"tvg-logo="https://epg.iptvx.one/picons/match-football2.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 2 HD
