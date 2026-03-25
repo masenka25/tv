@@ -510,8 +510,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/5071/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Дикая охота HD
 http://cdntv.online/high/mi4yzpeskn7a/421.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Карусель
-http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Карусель HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:F8:19:75&stream=132538&extension=ts
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682677
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
