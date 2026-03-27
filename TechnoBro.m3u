@@ -277,7 +277,7 @@ https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Стиль HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20037/index.m3u8
-#EXTINF:-1 tvg-id="anekdottv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Анекдот ТВ HD
+#EXTINF:-1 tvg-id="anekdottv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Анекдот ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/5034/index.m3u8
 #EXTINF:-1 tvg-id="womens-magazine"tvg-logo="http://epg.one/img/9040.png"group-title="«Единый Ultra» 📡":http-user-agent="",Женский Журнал HD
@@ -296,7 +296,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-info-by"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Первый информационный Беларусь
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/31912/index.m3u8
-#EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24
+#EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="gosfilmofond-mv"tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png"group-title="Пакет «СССР» ☭":http-user-agent="",ГосФильмоФонд HD
