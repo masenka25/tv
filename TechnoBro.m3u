@@ -65,13 +65,13 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/911/index.m3u8
 #EXTINF:-1 tvg-id="fanhd"tvg-logo="http://epg.one/img/2359.png"group-title="«Единый Ultra» 📡":http-user-agent="",FAN HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/16021/index.m3u8
 #EXTINF:-1 tvg-id="lavstori-hd"tvg-logo="http://epg.one/img/9001.png"group-title="«Единый Ultra» 📡":http-user-agent="",Лавстори HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2034/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2034/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv"tvg-logo="http://epg.one/img/1037.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кино ТВ HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2097/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2097/index.m3u8
 #EXTINF:-1 tvg-id="kinojam1"tvg-logo="http://epg.one/img/4466.png"group-title="«Единый Ultra» 📡":http-user-agent="",KinoJam 1 HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/7260/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7260/index.m3u8
 #EXTINF:-1 tvg-id="kinojam2"tvg-logo="http://epg.one/img/4467.png"group-title="«Единый Ultra» 📡":http-user-agent="",KinoJam 2 HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/7261/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7261/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Т24
@@ -85,21 +85,21 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="ntv-serial"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Хит
+#EXTINF:-1 tvg-id="ntv-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",НТВ Хит HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/16062/index.m3u8
 #EXTINF:-1 tvg-id="khit-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Хит HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2438/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2438/index.m3u8
 #EXTINF:-1 tvg-id="blokbaster-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Блокбастер HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2436/index.m3u8
-#EXTINF:-1 tvg-id="amedia1"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2436/index.m3u8
+#EXTINF:-1 tvg-id="amedia1"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Amedia 1 HD
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567391
 #EXTINF:-1 tvg-id="amedia2"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Amedia 2 HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2046/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2046/index.m3u8
 #EXTINF:-1 tvg-id="amedia-hit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Amedia Hit HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/6010/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/6010/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Amedia Premium HD
-http://srv87286.srvtwol.ink:80/ejcfrmjd/mUl1xv264Y/634209
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/229/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd"tvg-logo="http://epg.one/img/1395.png"group-title="«Единый Ultra» 📡":http-user-agent="",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="3357"tvg-logo="http://epg.one/img/3357.png"group-title="«Единый Ultra» 📡":http-user-agent="",Мосфильм. Золотая коллекция
