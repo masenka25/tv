@@ -11,11 +11,11 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG
 http://193.25.8.59:8000/perec
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="http://epg.one/img/1322.png"group-title="«Единый Ultra» 📡":http-user-agent="",СТС Love
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/103/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9099/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy"tvg-logo="http://epg.one/img/2773.png"group-title="«Единый Ultra» 📡":http-user-agent="",День Победы HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/5054/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/5054/index.m3u8
 #EXTINF:-1 tvg-id="pobeda"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Победа HD
 https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
 #EXTINF:-1 tvg-id=""tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/39f68fec-88c2-4401-8e22-02a74fe06f3b.jpg"group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
@@ -27,13 +27,13 @@ http://cdntv.online/high/mi4yzpeskn7a/172.m3u8
 http://thelegend.life:8080/qETqP77XZUGKfrh/fSXffFbydM1cKTb/369720
 #EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="kion-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",KION Хит HD
-http://178.163.5.96:4022/udp/234.0.0.213:2000
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20211/index.m3u8
 #EXTINF:-1 tvg-id="1226"tvg-logo="http://epg.one/img/7314.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинеко HD
-http://35740e68.amazzin.pw/iptv/6Q6T9WP87RP3A97AFM7LB8QF/9135/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9135/index.m3u8
 #EXTINF:-1 tvg-id="1288"tvg-logo="http://epg.one/img/7901.png"group-title="«Единый Ultra» 📡":http-user-agent="",DetectiveJam HD
-http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/20209/index.m3u8
+http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20209/index.m3u8
 #EXTINF:-1 tvg-id="1293"tvg-logo="http://epg.one/img/6241.png"group-title="«Единый Ultra» 📡":http-user-agent="",START Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="1294"tvg-logo="http://epg.one/img/6240.png"group-title="«Единый Ultra» 📡":http-user-agent="",START World HD
