@@ -117,7 +117,7 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/907/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman"tvg-logo="http://epg.one/img/401.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский роман HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:F8:19:75&stream=132686&extension=ts
 #EXTINF:-1 tvg-id="russky-bestseller"tvg-logo="http://epg.one/img/994.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский бестселлер
-http://178.163.5.96:4022/udp/234.0.0.250:2000
+http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion"tvg-logo="http://epg.one/img/53.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский иллюзион HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2114/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="«Единый Ultra» 📡":http-user-agent="",Советская киноклассика HD
