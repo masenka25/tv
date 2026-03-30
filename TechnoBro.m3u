@@ -397,7 +397,7 @@ http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/31657/index.m3u8
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/20157/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-logo="http://epg.one/img/6185.png" tvg-id="bcu-kids-4k",BCU Kids 4K
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/17023/index.m3u8
-#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="box-remast-plus-4k",BOX Remast+ 4K
+#EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="box-remast-4k",BOX Remast 4K
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20158/index.m3u8
 #EXTINF:-1 group-title="Каналы в «4K» 🎦" tvg-id="bcu-premiere-4k",BCU Premiere Ultra 4K
 http://130102fb.russtv.net/iptv/U6MHN4KTLTAZ8X/15023/index.m3u8
