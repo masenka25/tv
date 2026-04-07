@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/1dhVhsDgUj8W6wGOYogHwA/stream/genetta-313.m9.rutube.ru/aYBlcyVD9F1_3sgcl-fpIw/1776061707/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/204/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
