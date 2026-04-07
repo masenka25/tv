@@ -33,7 +33,7 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20211/index.m3u8
 #EXTINF:-1 tvg-id="1226"tvg-logo="http://epg.one/img/7314.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинеко HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9135/index.m3u8
 #EXTINF:-1 tvg-id="1288"tvg-logo="http://epg.one/img/7901.png"group-title="«Единый Ultra» 📡":http-user-agent="",DetectiveJam HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20209/index.m3u8
+https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="1293"tvg-logo="http://epg.one/img/6241.png"group-title="«Единый Ultra» 📡":http-user-agent="",START Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="1294"tvg-logo="http://epg.one/img/6240.png"group-title="«Единый Ultra» 📡":http-user-agent="",START World HD
@@ -41,13 +41,13 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd"tvg-logo="http://epg.one/img/2834.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd"tvg-logo="http://epg.one/img/2732.png"group-title="«Единый Ultra» 📡":http-user-agent="",Премиальное HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/10017/index.m3u8
+http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd"tvg-logo="http://epg.one/img/1588.png"group-title="«Единый Ultra» 📡":http-user-agent="",Остросюжетное HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/904/index.m3u8
+https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?dr
 #EXTINF:-1 tvg-id="shokiruyushchee-hd"tvg-logo="http://epg.one/img/2309.png"group-title="«Единый Ultra» 📡":http-user-agent="",Шокирующее HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682634
 #EXTINF:-1 tvg-id="komedijnoe-hd"tvg-logo="http://epg.one/img/138.png"group-title="«Единый Ultra» 📡":http-user-agent="",Комедийное HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/912/index.m3u8
+http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="romantichnoe-hd"tvg-logo="http://epg.one/img/2772.png"group-title="«Единый Ultra» 📡":http-user-agent="",Романтичное HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/5053/index.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd"tvg-logo="http://epg.one/img/2019.png"group-title="«Единый Ultra» 📡":http-user-agent="",Душевное HD
@@ -55,9 +55,9 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682620
 #EXTINF:-1 tvg-id="nashehd"tvg-logo="http://epg.one/img/2018.png"group-title="«Единый Ultra» 📡":http-user-agent="",Наше HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9046/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd"tvg-logo="http://epg.one/img/2509.png"group-title="«Единый Ultra» 📡":http-user-agent="",Любимое HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2106/index.m3u8
+https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="kriminalnoe-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Криминальное HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/14033/index.m3u8
+https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="domkino"tvg-logo="http://epg.one/img/834.png"group-title="«Единый Ultra» 📡":http-user-agent="",Дом Кино
 http://193.25.8.59:8000/domkino
 #EXTINF:-1 tvg-id="domkino-premium"tvg-logo="http://epg.one/img/2020.png"group-title="«Единый Ultra» 📡":http-user-agent="",Дом Кино Премиум HD
@@ -69,9 +69,9 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2034/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv"tvg-logo="http://epg.one/img/1037.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кино ТВ HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2097/index.m3u8
 #EXTINF:-1 tvg-id="kinojam1"tvg-logo="http://epg.one/img/4466.png"group-title="«Единый Ultra» 📡":http-user-agent="",KinoJam 1 HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7260/index.m3u8
+http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="kinojam2"tvg-logo="http://epg.one/img/4467.png"group-title="«Единый Ultra» 📡":http-user-agent="",KinoJam 2 HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7261/index.m3u8
+http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="cinema-ru"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Т24
