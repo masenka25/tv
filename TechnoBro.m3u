@@ -511,7 +511,7 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682677
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682711
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682679
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
