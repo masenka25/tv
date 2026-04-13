@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/qZSK_U-C8prINrGeE3Z32g/stream/genetta-313.m9.rutube.ru/L0jIrmebm8VOq0OAZ-W7kQ/1776172074/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://live-stream-02.ottgoods.ru/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10002.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3NzY2NjYwMDAsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc3NjA2MTIwMCwic2Vzc2lvbl9pZCI6ImFhMGYxZTg2YTE5NDFhNzcyNzQ2ZDA2NTM5YzAwM2Y3IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.i1MFVuKj_uPYJQ99zWisufnUsuxFiqbJEjUEIvfbv_U
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
