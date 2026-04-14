@@ -602,7 +602,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682647
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo="https://epg.iptvx.one/picons/kinoxit.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинохит HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7250/index.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/7250/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya"tvg-logo="https://epg.iptvx.one/picons/kinosemia.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносемья HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7244/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://epg.iptvx.one/picons/kinomiks.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киномикс HD
