@@ -642,7 +642,7 @@ https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/208/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/19231/index.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/19231/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Slow
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Taptaze
@@ -652,7 +652,7 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Akustik
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinokomedia"tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинокомедия HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/7248/index.m3u8
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682641
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://maidan.tv/images/1maidan/logo-new.png"group-title="«Музыкальный» 🎶":http-user-agent="",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="soyuz"tvg-logo="http://epg.one/img/2448.png"group-title="«Единый Ultra» 📡":http-user-agent="",Союз
