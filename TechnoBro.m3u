@@ -529,7 +529,7 @@ http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ufc"tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
-https://stream-msk-05.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3NzY2Njg5MzMsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc3NjA2NDEzMywic2Vzc2lvbl9pZCI6ImVlZGZkZWZkYTBiMDgyZDdlZTY0MzM4NzIwNGE2YmM2IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.tqr88cjFa9Y16HUFW-GS39jJ2YqdmVa8llqutmhr7QA
+https://stream-msk-05.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3NzY4NjQzNzgsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc3NjI1OTU3OCwic2Vzc2lvbl9pZCI6Ijk1MDQzMjlmMzE4ZmY1OWQ4OWQ5ZGZkZTg2NjQ5NTM1IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.66zxAlvcTI9Vqf-M3xD11_1mIRdBTIk-XkDyr1DMW5A
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start",Старт HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/6384/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="start-triumf",Старт Триумф
