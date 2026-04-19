@@ -478,7 +478,7 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/19221/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"group-title="«Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:33:23:00&stream=1148935&extension=ts
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал HD
-https://vitrina-live-cdnnow.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.HyJDZveoSZWfyj2lJ5YscNNYezDKrdWimIbMItQp9vs.df5GVWNCv9s7ztmfEiFrOnf224U0Z5E7uCyRfobUaVE.1776526464.9754496f3d0e5bb3eb44c700a61ffea1
+https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.WuxHkB7UnipBnGo3aq-vYSRRPMcqYzbZ8iBtnuItzSI.FVxr9XuzCJxD3bpGZuuqHpak1bkCZfO4IzaJJhcHYw8.1777183017.f62dbde4ee169b2a0fe57f00f97f776e
 #EXTINF:-1 tvg-id="match-football1"tvg-logo="https://epg.iptvx.one/picons/match-football1.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/5072/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
