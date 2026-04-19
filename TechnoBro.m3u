@@ -1057,8 +1057,6 @@ https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/15106/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature"tvg-logo="https://iptv-play.ru/channels/all_icons/6458.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://cdn.kubteltv.workers.dev/?ID=262
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn1.detifm.ru/design/images/img_for_design/logos/dr_logo_svg.svg"group-title="Радиостанции 📻":http-user-agent="",Детское радио HD
-http://ic6.101.ru:8000/stream/air/aac/64/199
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://radiopotok.ru/f/station/512/2398.png"group-title="Радиостанции 📻":http-user-agent="",Радио Гордость HD
 https://rgordost.hostingradio.ru/rgordost64.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://pcradio.ru/images/stations/61b09d2b14694.jpg"group-title="Радиостанции 📻":http-user-agent="",Девяностые HD
@@ -1067,8 +1065,6 @@ https://stream04.pcradio.ru/e_90-med
 https://stream02.pcradio.ru/rus_rodnye00-med
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-images.dzcdn.net/images/cover/e7a3e7bec3a5f8ef0f9e0c4e2046768e/500x500-000000-80-0-0.jpg"group-title="Радиостанции 📻":http-user-agent="",Музыка без слов HD
 https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-images.dzcdn.net/images/cover/7a6c7b49cfdaf4ee233f66c3070d2f40-c65b3bd84e81056e060be144381c06c8-8c4fb793cfedbb94d6e8926f3647eb8b-b226578077b444ccab0e5075497e2102/500x500-000000-80-0-0.jpg"group-title="Радиостанции 📻":http-user-agent="",Зарубежная поп-музыка HD
-http://cord-cutter.net:8080/jfbachert3@gmail.com/jfbachert3@2024/16259
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://truckfm.rafail1982.uz:8000/64
