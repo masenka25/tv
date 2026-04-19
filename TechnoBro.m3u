@@ -592,6 +592,8 @@ http://31.148.48.15/La-Minor_TV/index.m3u8
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
 http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
 http://cdn.kubteltv.workers.dev/?ID=64
 #EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge Фрэш HD
@@ -599,7 +601,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9053/inde
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:03:17:77&stream=132476&extension=ts
 #EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:33:23:00&stream=1148927&extension=ts
+http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2129/index.m3u8
 #EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
@@ -634,12 +636,10 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Clubbing TV HD
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://www.club4you.net/ckfinder8d6h5TgH3/userfiles/Images/c4y-logo-png.png"group-title="«Музыкальный» 🎶":http-user-agent="",CLUB4 YOU TV
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz"tvg-logo="https://iptvx.one/picons/retro-music-cz.png"group-title="«Музыкальный» 🎶":http-user-agent="",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png"group-title="«Музыкальный» 🎶":http-user-agent="",Сити Эдем
-https://cityeden.catcast.tv/content/47400/index.m3u8
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/c5/95/4fc595c1-f5f1-7b92-3747-3d66c84d6ded/App_Icon-marketing.lsr/1200x630bb.png"group-title="«Музыкальный» 🎶":http-user-agent="",Classical Harmony
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
