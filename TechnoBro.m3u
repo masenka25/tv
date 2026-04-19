@@ -591,15 +591,15 @@ http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
-http://cdn.kubteltv.workers.dev/?ID=67
+https://mhd.iptv2022.com/x/ZMmU90MFRXxU_UzjvTfaOw,1776686839/streaming/bridgetv/324/5/tracks-v5/mono.ts.m3u8?e=1776686841&md5=w0-_z3YkDicknwS925Qo1Q
 #EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Classic
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9259/index.m3u8
+https://mhd128.iptv2022.com/x/8PmjbDhxQ23OQltPsez4og,1776686785/streaming/br_classic/324/5/tracks-v4a1/tracks-v5/mono.ts.m3u8?e=1776686794&md5=BuVNNGn2u1w644SaRkeEqQ
 #EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits HD
-http://cdn.kubteltv.workers.dev/?ID=64
+https://mhd.iptv2022.com/x/LZqCS75pgOw7trPTzcktfQ,1776686876/streaming/br_dance/324/5/tracks-v5/mono.ts.m3u8?e=1776686877&md5=IWVqtS6XHLp1NbybCNh2Dg
 #EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge Фрэш HD
 https://rec102.24h.tv/hlsjwt/ba602a3f0c60b893bbc75c69af6d5841a000d5fe-7426-0-24h1288298079-1-1314206034-1776591710-e128-TIYU7dLjK_3BAIVFbosQwLcwMrO0L5rPDMfGsvchyWw/index.m3u8?ml=true
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:03:17:77&stream=132476&extension=ts
+https://mhd.iptv2022.com/x/qj5qbbldBgimH5qwpjojKw,1776686900/streaming/br_classic/324/5/tracks-v5/mono.ts.m3u8?e=1776686905&md5=YXA03nJgCpD55ap_8IjPCA
 #EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
 http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2129/index.m3u8
 #EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
