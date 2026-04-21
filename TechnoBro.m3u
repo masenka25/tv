@@ -1028,9 +1028,9 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11005/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo="https://iptv-play.ru/channels/all_icons/6324.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo="https://epg.iptvx.one/picons/cineman-action.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Action HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11006/index.m3u8
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy"tvg-logo="https://iptv-play.ru/channels/all_icons/17102.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Comedy HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:03:17:77&stream=132785&extension=ts
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 tvg-id="cineman-thriller"tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Thriller HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11007/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action"tvg-logo="https://iptv-play.ru/channels/all_icons/6450.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 action HD
