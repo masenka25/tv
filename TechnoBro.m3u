@@ -504,7 +504,7 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682677
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 https://tinyurl.com/aleks-u-romki-40/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-https://salam-smr-bln-d150.rtbcdn.ru/dive/river-6-601.rtbcdn.ru/kGf2HLFzJVVEmdZAxeHeXA/stream/genetta-316.m9.rutube.ru/h7MbjQ-4VIl60kFCez78GQ/1777267417/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=bYPSCPenRyxLjWtKRxZflw&e=2072697303&scheme=https
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682679
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
@@ -522,7 +522,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682673
 #EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Спас
-https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=APGXU7Qgr_EiDpU7YEjWGw&e=2072697305&scheme=https
 #EXTINF:-1 tvg-id="kxl"tvg-logo="https://epg.iptvx.one/picons/kxl.png"group-title="«Суперспорт» 🏆":http-user-agent="",KHL HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/215/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd"tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="«Суперспорт» 🏆":http-user-agent="",KHL Prime HD
