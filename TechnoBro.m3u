@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-370.rtbcdn.ru/sUfJoHw9ivo1pvpUOMsfNg/stream/genetta-313.m9.rutube.ru/55Ydp1CGJJyt0KXn6KW6_g/1776961983/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
@@ -177,7 +177,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 http://cdntv.online/high/mi4yzpeskn7a/954.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Моя Планета HD
 http://cdntv.online/high/mi4yzpeskn7a/378.m3u8
-#EXTINF:-1 tvg-id="pervy-vegetariansky"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Первый вегетарианский
+#EXTINF:-1 tvg-id="pervy-vegetariansky"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="", вегетарианский
 http://cdntv.online/high/mi4yzpeskn7a/345.m3u8
 #EXTINF:-1 tvg-id="usadba"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Усадьба HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9071/index.m3u8
@@ -289,7 +289,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 #EXTINF:-1 tvg-id="tro"tvg-logo="http://rafail1982.uz/logo/БелРос.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy-info-by"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Первый информационный Беларусь
+#EXTINF:-1 tvg-id="pervy-info-by"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0", информационный Беларусь
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/31912/index.m3u8
 #EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24 HD
@@ -552,11 +552,11 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
-https://edge01d.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2._JERjNaa3fIViCt4ad5Khk_ZuQkS-KMsospxHoQznMw.FyPTflSuwDDoOw-HCjMmfi7JqrH2SZNEbDUqwnxuHOg.1776962326.6c4f423d0167b722c3d14189729836c8
+https://edge02d.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.BWf-WSUbf6UokgqOwiGKaNnzej1AJyQJdzbANjg0dfA.7cBVVGhBipOqw6oRl2qrOGLJdEeVhC3XjmWewmhfRUY.1777612578.b878693c7836ef84106d0cce403b777d
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 https://tinyurl.com/aleks-u-romki-40/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
-https://vitrina-live-cdnnow.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.gL3_djbKHevTW2nVCCknlnAYU9JiUxZfzhtft9WUDCE.WP-QmZUXOFlgd34AKqll59uugzjgCQc-obqTcloN52U.1776962395.4bc1f6fe87621e71ecf35e8ab627f7d6
+https://edge01p.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.QFXY5RdVLYzcH2eLztHXodLEiBF1L1QoIi-IGfUu6Mo.bSSrpp_-BaJkhuWvCYuyB05nyCAxDwUeF5SvqgEvS6E.1777612783.c9fc2a46caac14ad05b59b68fb1a2255
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567481
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
