@@ -480,7 +480,7 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="match-boets"tvg-logo="https://epg.iptvx.one/picons/match-boec.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Боец HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682671
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"group-title="«Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:33:23:00&stream=1148935&extension=ts
+http://cdntv.online/high/mi4yzpeskn7a/420.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал HD
 https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.2RA-uSp_xHDoZhL_a-tzYaDKGuNjVWjNCsRfsuDFMqQ.Bl7dYXAVhZAtdMBVr-XCMdU_-lWlqOM3Bs0kJmqdbxg.1777960486.82eed643b5a28fa6dfd84502578f4ddd
 #EXTINF:-1 tvg-id="match-football1"tvg-logo="https://epg.iptvx.one/picons/match-football1.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
