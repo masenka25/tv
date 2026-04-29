@@ -205,6 +205,8 @@ http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/20036/index.m3u8
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2102/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Discovery HD
 http://cdntv.online/high/mi4yzpeskn7a/300.m3u8
+#EXTINF:-1 tvg-id="the-explorers"tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" group-title="«Единый Ultra» 📡":http-user-agent="",The Explorers HD
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/16035/index.m3u8
 #EXTINF:-1 tvg-id="da-vinci"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Da Vinci learning
 http://cdntv.online/high/mi4yzpeskn7a/298.m3u8
 #EXTINF:-1 tvg-id="7632"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Terra HD
