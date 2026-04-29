@@ -215,7 +215,6 @@ http://cdntv.online/high/mi4yzpeskn7a/1486.m3u8
 http://cdntv.online/high/mi4yzpeskn7a/1974.m3u8
 #EXTINF:-1 tvg-id="rtg-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",RTG HD
 http://cdntv.online/high/mi4yzpeskn7a/311.m3u8
-
 #EXTINF:-1 tvg-id="poexali"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Поехали!
 http://193.25.8.59:8000/360
 #EXTINF:-1 tvg-id="2470"tvg-logo="http://epg.one/img/2470.png"group-title="«Единый Ultra» 📡":http-user-agent="",Ратник HD
@@ -346,6 +345,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/13021/ind
 https://tinyurl.com/aleks-u-romki-57/13020/index.m3u8
 #EXTINF:-1 tvg-id="box-sssr-4k"tvg-logo="https://epg.iptvx.one/picons/box-sssr-4k.png"group-title="Пакет «СССР» ☭":http-user-agent="",BOX СССР 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/31625/index.m3u8
+
 #EXTINF:-1 tvg-id="solnce"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2JtygsKfuYYevz9tI2hvJw&e=2067257537&scheme=https
@@ -358,7 +358,7 @@ http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cineman"tvg-logo="https://epg.iptvx.one/picons/cineman.png"group-title="Видеосалон 📼":http-user-agent="",CineMan HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11004/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11004/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Каналы в «4K» 🎦":http-user-agent="",Первый канал 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/19241/index.m3u8
@@ -1026,39 +1026,39 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11012/ind
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo="https://iptv-play.ru/channels/all_icons/17103.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo="https://epg.iptvx.one/picons/cineman-top.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Top HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11005/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11005/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo="https://iptv-play.ru/channels/all_icons/6324.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo="https://epg.iptvx.one/picons/cineman-action.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Action HD
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/11006/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy"tvg-logo="https://iptv-play.ru/channels/all_icons/17102.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Comedy HD
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 tvg-id="cineman-thriller"tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Thriller HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11007/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action"tvg-logo="https://iptv-play.ru/channels/all_icons/6450.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 action HD
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama"tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Melodrama HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11008/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11008/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere"tvg-logo="https://iptv-play.ru/channels/all_icons/17104.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Premiere HD
 http://46.53.208.4:80/live/6001.m3u8
 #EXTINF:-1 tvg-id="cineman-marvel"tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Marvel HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11009/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11009/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial"tvg-logo="https://iptv-play.ru/channels/all_icons/0109.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Serial HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/2443/index.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Ужасы HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11010/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11010/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history"tvg-logo="https://iptv-play.ru/channels/all_icons/19106.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
 http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/203/index.m3u8
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Комедия HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11011/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11011/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd"tvg-logo="https://iptv-play.ru/channels/all_icons/17105.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Planet HD
 http://46.53.208.4:80/live/6006.m3u8
 #EXTINF:-1 tvg-id="cineman-rukino"tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png"group-title="Видеосалон 📼":http-user-agent="",CineMan РуКино
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/11013/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/11013/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore"tvg-logo="https://iptv-play.ru/channels/all_icons/6460.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore HD
 http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/6381/index.m3u8
 #EXTINF:-1 tvg-id="cineman-katastrofy"tvg-logo="https://epg.iptvx.one/picons/cineman-katastrofy.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Катастрофы HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/15106/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15106/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature"tvg-logo="https://iptv-play.ru/channels/all_icons/6458.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://cdn.kubteltv.workers.dev/?ID=262
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://radiopotok.ru/f/station/512/2398.png"group-title="Радиостанции 📻":http-user-agent="",Радио Гордость HD
