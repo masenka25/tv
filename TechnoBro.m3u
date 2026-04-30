@@ -512,7 +512,7 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682679
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15511/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
-https://edge03r.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.br-8jCdIKopdPdjA0htssQKaotpz2IvRK5zsidGjAzI.-cFFRpR-HOap5B8w3x0gw4J0XKmeVyRe3dg8IqIBe88.1777531473.764b5b82b4961eda71d2563317a00a51
+https://edge03d.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.Rs8ViY5IyshvztStEMXAO5TpCnRjVXuCAw0rVnRRb4g.2S4ev-aN2q3pEmAWMTgGuSDgqZzBF2SpTkgwg4Hm3PQ.1778142849.822955a6fcece7bc0513b2f592cfdfc2
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9010/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
@@ -577,7 +577,7 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682674
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://epg.iptvx.one/picons/mir.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Мир HD
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-5-558.rtbcdn.ru/7JgdYvv-SDXwIt7km4U2zw/stream/genetta-323.m9.rutube.ru/VCNnen3bmtKc9XMNjeYNqw/1777531583/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+https://live-mirror-06.ottgoods.ru/live/live/Mir_HD/hls_enc/Mir_HD-avc1_6000000=10004.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3NzgxNDI5MDMsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc3NzUzODEwMywic2Vzc2lvbl9pZCI6IjVhNWY2ZjJiZTdmNmU0OGUwN2UzZThlODBiMzIyNzNiIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.7A816jed69-VH4pdB_m-kA7gTTv9Xd_PbtbwvFvO6MU
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=dRIbLei1sbE27lfmuqi1Hw&e=2066303667&scheme=https
