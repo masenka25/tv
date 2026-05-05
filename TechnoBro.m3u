@@ -660,8 +660,7 @@ http://193.25.8.59:8000/soyuz
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nadezhda"tvg-logo="http://epg.one/img/1732.png"group-title="«Единый Ultra» 📡":http-user-agent="",Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="cnl-eu"tvg-logo="http://epg.one/img/2130.png"group-title="«Единый Ultra» 📡":http-user-agent="",GNC HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/955/index.m3u8
+
 #EXTINF:-1 tvg-id="8vladik"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",8 канал (Владивосток)
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
