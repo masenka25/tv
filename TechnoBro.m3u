@@ -287,7 +287,7 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro"tvg-logo="http://rafail1982.uz/logo/БелРос.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",БелРос
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=Lyzk-o5saKmpLTtBgeFHug&e=2066303683&scheme=https
 #EXTINF:-1 tvg-id="belarus24"tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 24 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
