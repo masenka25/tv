@@ -113,7 +113,7 @@ https://tinyurl.com/aleks-u-romki-40/2430/index.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv"tvg-logo="http://epg.one/img/1570.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский детектив
 http://83.222.91.180:4022/udp/238.1.1.171:1234
 #EXTINF:-1 tvg-id="russky-roman"tvg-logo="http://epg.one/img/401.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский роман HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:F8:19:75&stream=132686&extension=ts
+http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2076/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller"tvg-logo="http://epg.one/img/994.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский бестселлер
 http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion"tvg-logo="http://epg.one/img/53.png"group-title="«Единый Ultra» 📡":http-user-agent="",Русский иллюзион HD
