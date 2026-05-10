@@ -571,7 +571,7 @@ https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Qf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://epg.iptvx.one/picons/mir.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Мир HD
-https://salam-smr-rtk-d141.rtbcdn.ru/dive/river-3-336.rtbcdn.ru/rsIgPbTE42wbXv8w_oSDpA/stream/genetta-323.m9.rutube.ru/sUDsdsjpvGV6cfzXKT8cnQ/1778143284/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
+https://salam-smr-rtk-d141.rtbcdn.ru/dive/river-5-558.rtbcdn.ru/JEaXe6Lw_iXl8Ror6ZwXYg/stream/genetta-323.m9.rutube.ru/Et0sgcak_62bZM4zZK9r9w/1779002253/afef67d151b5a607dee1ef0aa299a52c/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=dRIbLei1sbE27lfmuqi1Hw&e=2066303667&scheme=https
