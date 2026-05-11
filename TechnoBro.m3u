@@ -164,8 +164,6 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682702
 http://cdntv.online/high/mi4yzpeskn7a/324.m3u8
 #EXTINF:-1 tvg-id="zootv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Зоо ТВ
 http://193.25.8.59:8000/zoo
-#EXTINF:-1 tvg-id="lapki-live"tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"group-title="«Единый Ultra» 📡":http-user-agent="",Лапки Live HD
-https://tinyurl.com/aleks-u-romki-40/2028/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
@@ -419,6 +417,8 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682611
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15098/index.m3u8
 #EXTINF:-1 tvg-id="karusel"tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/20012/index.m3u8
+#EXTINF:-1 tvg-id="lapki-live"tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"group-title="Пакет «Детский» 👶":http-user-agent="",Лапки Live HD
+https://tinyurl.com/aleks-u-romki-40/2028/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
 https://tinyurl.com/aleks-u-romki-40/9063/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png"group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
