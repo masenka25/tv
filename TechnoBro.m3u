@@ -210,21 +210,19 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682685
 #EXTINF:-1 tvg-id="nasha-tema"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Наша Тема HD
 http://cdntv.online/high/mi4yzpeskn7a/270.m3u8
 #EXTINF:-1 tvg-id="doktor"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Доктор HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:03:17:77&stream=300760&extension=ts
+http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/20013/index.m3u8
 #EXTINF:-1 tvg-id="bst"tvg-logo="http://epg.one/img/2464.png"group-title="«Единый Ultra» 📡":http-user-agent="",БСТ HD
 https://tinyurl.com/aleks-u-romki-40/9343/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21"tvg-logo="http://epg.one/img/2450.png"group-title="«Единый Ultra» 📡":http-user-agent="",Психология
 http://cdntv.online/high/mi4yzpeskn7a/349.m3u8
 #EXTINF:-1 tvg-id="uspex"tvg-logo="http://epg.one/img/2455.png"group-title="«Единый Ultra» 📡":http-user-agent="",Успех
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682659
-#EXTINF:-1 tvg-id="tonus-tv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Тонус ТВ HD
-http://178.163.5.96:4022/udp/234.0.0.12:2000
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Silk Way HD
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20044/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",НТВ Право
-http://cdntv.online/high/mi4yzpeskn7a/340.m3u8
+http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/9327/index.m3u8
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Оружие
-http://cdntv.online/high/mi4yzpeskn7a/271.m3u8
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682695
 #EXTINF:-1 tvg-id="otkryty-mir"tvg-logo="http://epg.one/img/2462.png"group-title="«Единый Ultra» 📡":http-user-agent="",Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Большая Азия HD
