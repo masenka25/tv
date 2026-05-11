@@ -583,17 +583,17 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=l9
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
-http://31.148.48.15/La-Minor_TV/index.m3u8
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9174/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
-http://tinyurl.com/TvvZaTak/110-req_offset_28000000-req_window_0-3k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9253/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Classic
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/9259/index.m3u8
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9259/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Hits
 http://tinyurl.com/TvZaTak007/bridge_hits/tracks-v1a1/mono.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge Фрэш HD
-https://rec102.24h.tv/hlsjwt/ba602a3f0c60b893bbc75c69af6d5841a000d5fe-7426-0-24h1288298079-1-1314206034-1776591710-e128-TIYU7dLjK_3BAIVFbosQwLcwMrO0L5rPDMfGsvchyWw/index.m3u8?ml=true
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9053/index.m3u8
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567399
 #EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
@@ -613,15 +613,13 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682640
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682642
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/19255/index.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/19255/index.m3u8
 #EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=XS-D_uidgEJ2IIZtqH6Pag&e=2072697320&scheme=https
 #EXTINF:-1 tvg-id="kiss-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Kiss TV HD
 http://livestream.siliconweb.com:80/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="rock-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Rock TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-radiotime-logos.tunein.com/s222271d.png"group-title="«Музыкальный» 🎶":http-user-agent="",Power Dance HD
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.scdn.co/image/ab67616d0000b273b914aa794077d0802e62e884"group-title="«Музыкальный» 🎶":http-user-agent="",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUn0d2HDniHSXQaZf34Ce6bKZgsEhhN1dVCw&s"group-title="«Музыкальный» 🎶":http-user-agent="",DANCE TV TECHNO
@@ -631,25 +629,17 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="deejaytv-it"tvg-logo="http://epg.one/img/4673.png"group-title="«Музыкальный» 🎶":http-user-agent="",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Clubbing TV HD
-https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/2395/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz"tvg-logo="https://iptvx.one/picons/retro-music-cz.png"group-title="«Музыкальный» 🎶":http-user-agent="",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png"group-title="«Музыкальный» 🎶":http-user-agent="",Сити Эдем
-https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/c5/95/4fc595c1-f5f1-7b92-3747-3d66c84d6ded/App_Icon-marketing.lsr/1200x630bb.png"group-title="«Музыкальный» 🎶":http-user-agent="",Classical Harmony
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Mezzo Live HD
-http://apix1t5p.megogo.xyz/iptv/E3Z2QE3TW7DHV6/208/index.m3u8
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/208/index.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino"tvg-logo="https://epg.iptvx.one/picons/nashe-novoe-kino.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Наше новое кино HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/19231/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino"tvg-logo="https://epg.iptvx.one/picons/rodnoe-kino.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://epg.iptvx.one/picons/power-turk-tr.png"group-title="«Музыкальный» 🎶":http-user-agent="",PowerTürk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinokomedia"tvg-logo="https://epg.iptvx.one/picons/kinokomedia.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинокомедия HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682641
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://maidan.tv/images/1maidan/logo-new.png"group-title="«Музыкальный» 🎶":http-user-agent="",Meidan TV HD
