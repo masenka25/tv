@@ -539,7 +539,7 @@ https://edge01d.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 https://tinyurl.com/aleks-u-romki-40/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
-https://edge01p.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.sTFu3MH9gf2psqtGl1c06U3-RUCE_iLm5nCipzgFvtU.fj3Dl6IahkgQEIaMKLF5Zq0x_-IRvPGMhyi1UjLWdGQ.1778687733.9d804cbec53a7d4eadbeffdc8cc3d61d
+https://edge02r.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.cArDT17NKJxhy_HilV1McuwHTT2Ge_430UreIxc0wNI.8X5oGv_ef8g8loY8xTsOrL1zsxLZi2JL_ARgqjiqTac.1779427059.3d56544e52b956b5a5e488a294ddca2e
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567481
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
