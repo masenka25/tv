@@ -16,8 +16,8 @@ https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w16
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682721
 #EXTINF:-1 tvg-id="denpobedy"tvg-logo="http://epg.one/img/2773.png"group-title="«Единый Ultra» 📡":http-user-agent="",День Победы HD
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/5054/index.m3u8
-#EXTINF:-1 tvg-id="pobeda"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Победа HD
-http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/5052/index.m3u8
+#EXTINF:-1 tvg-id="pobeda"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Победа
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567463
 #EXTINF:-1 tvg-id=""tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/39f68fec-88c2-4401-8e22-02a74fe06f3b.jpg"group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
@@ -36,8 +36,8 @@ https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/pls
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-id="1294"tvg-logo="http://epg.one/img/6240.png"group-title="«Единый Ultra» 📡":http-user-agent="",START World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 tvg-id="kinopokaz-hd"tvg-logo="http://epg.one/img/2834.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинопоказ
-http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 tvg-id="kinopokaz-hd"tvg-logo="http://epg.one/img/2834.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинопоказ HD
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682635
 #EXTINF:-1 tvg-id="premialnoe-hd"tvg-logo="http://epg.one/img/2732.png"group-title="«Единый Ultra» 📡":http-user-agent="",Премиальное HD
 http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd"tvg-logo="http://epg.one/img/1588.png"group-title="«Единый Ultra» 📡":http-user-agent="",Остросюжетное HD
@@ -533,7 +533,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20138/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2"tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png"group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Прайм Спорт HD
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс HD
-http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/6369/index.m3u8
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682672
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
 https://edge01d.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.L9QKp00igLFQGliidtjqz04kaQIzfQHHMGlZF9jR0y4.4pt4PKMjE7ZrhpSJtMGXYFlNXdGG9RuJMXyyeBMvEvk.1778997933.7a14920bc57a4bab5636d7e25a0ef7c8
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
