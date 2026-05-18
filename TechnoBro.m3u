@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1770232182
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682729
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
@@ -425,7 +425,7 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/9261/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=1LTslXnl9vMFSgc6vXZl6g&e=2067257513&scheme=https
 #EXTINF:-1 tvg-id="da-vinci"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Da Vinci learning
-http://cdntv.online/high/mi4yzpeskn7a/298.m3u8
+http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682694
 #EXTINF:-1 tvg-id="malysh"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Супергерои
 http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png"group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",Россия 1 HD
