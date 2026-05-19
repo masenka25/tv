@@ -524,6 +524,8 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2154/index.m3u8
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" tvg-id="voleybol",Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=298iHGeRJtrzEmAIpiAszQ&e=2066303734&scheme=https
+#EXTINF:-1 tvg-id="tancuj"group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/tancuj.png",Танцуй! HD
+http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/14023/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/5568.png" tvg-id="viasat-sport",Viju+ Sport HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/5065/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport"tvg-logo="https://epg.iptvx.one/picons/okko-sport.png"group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Спорт HD
