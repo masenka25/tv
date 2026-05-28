@@ -1042,7 +1042,6 @@ http://truckfm.rafail1982.uz:8000/64
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://101s1.rafail1982.uz/stream/pro/aac/64/163
-http://radiorecord.rafail1982.uz/rv96.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Дискотека В Стиле Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/733170
