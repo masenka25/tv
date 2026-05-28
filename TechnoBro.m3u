@@ -1036,16 +1036,12 @@ https://rgordost.hostingradio.ru/rgordost64.aacp
 https://stream04.pcradio.ru/e_90-med
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/dynamics/personal/168/1684944.jpg?w=300&h=300&pos=center&q=100&t=1695975058"group-title="Радиостанции 📻":http-user-agent="",Нулевые HD
 https://stream02.pcradio.ru/rus_rodnye00-med
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-images.dzcdn.net/images/cover/e7a3e7bec3a5f8ef0f9e0c4e2046768e/500x500-000000-80-0-0.jpg"group-title="Радиостанции 📻":http-user-agent="",Музыка без слов HD
-https://mc-muzykabezslov.hostingradio.ru/muzykabezslov96.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://truckfm.rafail1982.uz:8000/64
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://101s1.rafail1982.uz/stream/pro/aac/64/163
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",RUKI VVERH
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://radiorecord.rafail1982.uz/rv96.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Дискотека В Стиле Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1068,10 +1064,6 @@ https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/404051
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",BEST FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://nashe1.hostingradio.ru/best-128.mp3
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SD90
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://radiorecord.rafail1982.uz/sd9096.aacp
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",1980 FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://radiorecord.rafail1982.uz/198096.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
