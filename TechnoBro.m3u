@@ -511,7 +511,7 @@ https://kino.zunotv.workers.dev/KHL_HD/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd"tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="«Суперспорт» 🏆":http-user-agent="",KHL Prime HD
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10028/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/6511.png" tvg-id="4605",Хоккей ТВ HD
-http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/10039/index.m3u8
+https://stream-msk-02.ottgoods.ru/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3ODExNjcwMDksImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc4MDU2MjIwOSwic2Vzc2lvbl9pZCI6ImJhYjRhYjk5ZTJhYThkNmI2ODIzMmM0YmQ5ZWE1YTY5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.7l0kMa5ArDStAaxobgeYfFZqWXGEiN8LDSmRPdaKgEw
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
@@ -574,7 +574,7 @@ http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682651
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2043/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=FeEOxjPe4voepb93i9VHYQ&e=2072697320&scheme=https
-#EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV
+#EXTINF:-1 tvg-id="bridge-tv"tvg-logo=""group-title="«Музыкальный» 🎶" audio-track=":http-user-agent="",Bridge TV
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9253/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="«Музыкальный» 🎶":http-user-agent="",Bridge TV Classic
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9259/index.m3u8
