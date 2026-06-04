@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
-https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3ODExNTgzMjUsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc4MDU1MzUyNSwic2Vzc2lvbl9pZCI6IjZhOWZiNzU0MzVhYjExN2Q4NWRhYmI3MTMyYzc5ZGQyIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.4QfiK7YiB91DoJkH26RW-rQILGa8iCxQMCqTeXGkKBw
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/2402/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
@@ -517,7 +517,7 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
-https://stream-msk-01.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3ODA1NTk3NTgsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc3OTk1NDk1OCwic2Vzc2lvbl9pZCI6ImJiM2E4YjU5MzJlODAzZGY5NTM4ZmUyMjRmY2E5ZDI5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.0ydwjnhbhQqucESEM61ahB1s1-KWhWQpT22e1jMN8Y4
+https://stream-msk-07.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3ODExNzExMTMsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc4MDU2NjMxMywic2Vzc2lvbl9pZCI6IjcyNGNkYmI3ZGFmODg4MWViMDFmNmE1MDVkOTMzZDVjIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.K4FRnOsUCMKescSm5nebY8-O5EYbAljtYj_8iVank7o
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2154/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" tvg-id="start-basket",Старт Баскет HD
