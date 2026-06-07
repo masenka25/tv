@@ -1032,10 +1032,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15106/ind
 http://cdn.kubteltv.workers.dev/?ID=262
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://radiopotok.ru/f/station/512/2398.png"group-title="Радиостанции 📻":http-user-agent="",Радио Гордость HD
 https://rgordost.hostingradio.ru/rgordost64.aacp
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://pcradio.ru/images/stations/61b09d2b14694.jpg"group-title="Радиостанции 📻":http-user-agent="",Девяностые HD
-https://stream04.pcradio.ru/e_90-med
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn0.101.ru/proxy/vardata/modules/channel/dynamics/personal/168/1684944.jpg?w=300&h=300&pos=center&q=100&t=1695975058"group-title="Радиостанции 📻":http-user-agent="",Нулевые HD
-https://stream02.pcradio.ru/rus_rodnye00-med
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://truckfm.rafail1982.uz:8000/64
