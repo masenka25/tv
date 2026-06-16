@@ -641,15 +641,6 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 #EXTINF:-1 tvg-id="nadezhda"tvg-logo="http://epg.one/img/1732.png"group-title="«Единый Ultra» 📡":http-user-agent="",Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8vladik"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",8 канал (Владивосток)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",8 канал (Красноярский край)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal-novosibirsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",8 канал (Новосибирск)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="12-omsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",12 канал HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
