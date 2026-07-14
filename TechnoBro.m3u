@@ -517,7 +517,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/10039/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/2000/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
 https://stream-msk-07.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3ODQzNjE1MTYsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc4Mzc1NjcxNiwic2Vzc2lvbl9pZCI6ImUxM2U2MzNlNWUyMWUyYWY5YmI0NjEzN2UyZjVkY2MzIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.D4pkxtJplG_r4nPYnnOnURjf5XW56tuBd7zTHKTimYs
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
