@@ -130,8 +130,6 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia"tvg-logo="http://epg.one/img/2271.png"group-title="«Единый Ultra» 📡":http-user-agent="",Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
-https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
 #EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="", Космический HD
 http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682705
 #EXTINF:-1 tvg-id="morskoy"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Моя Стихия HD
@@ -533,6 +531,9 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/6369/index.m3u8
 https://edge02p.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.KEye9Kg0tvdf7XSXT2cQtLyEHKQ1Bclwlx7yV0fu-14.Db-Rl-YGgIrpHukFV_GEP3BMJU-V9d8DyfiUOOJ_em0.1785302291.012f13039ded1f50fffe997cb2e34f02
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
+
+#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Познавательные» 🌞":http-user-agent="",Gametoon HD [ENG]
+https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
 https://edge01p.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.j_jf5_zU1_ROoUbTOr6-xWRWrYahINAbnvK0fTtr_Ss.ogX49Hnsmqy9r7e6ageRW4Ea9lkQm0zL8Mf7uKUS2Hw.1785302327.fb7d337dfad025b338379518aaf208a3
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
