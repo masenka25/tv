@@ -511,8 +511,8 @@ http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/10039/index.m3u8
 http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/19245/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/2000/index.m3u8
-#EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="sila",Сила HD
-https://stream-msk-05.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZWQ5NjcyZWVkYzQ2ZGQ0N2Y2YzFiYTQ4NzAyYmM4NjIiLCJleHAiOjE3ODQ5Njg4NDAsImh3aWQiOiJmODAxNzYyM2Q2YzU3YTkxNDY2YzU3ZjNiNzhmN2I0MzY2MjdkNjA4YjcwMGRlNzcwNGRhNmEzNzE2NzExNDYxIiwibGFzdF9yZXFfZGF0ZSI6MTc4NDM2NDA0MCwic2Vzc2lvbl9pZCI6IjNiNjU5NDU1OGZhYTUwOWYzYTNjNDA5ZWVlNzUwMDg5IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.4ahnMjEOIljm5YdpBSfmJdJeqy3Vwhk-CR6LnfieEtA
+#EXTINF:-1 tvg-id="sila"group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png",Сила HD
+https://stream-msk-04.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfODQ3MzcwY2NiNmM4NjAyYzI5MTBiNjFiNWZiOTVmZTYiLCJleHAiOjE3ODU1ODE2ODEsImh3aWQiOiIzYmU4YzM0MTBiZWRmYTNkYjMzMGFjOWM3NzJkZjI1NWI0MTlhMWMxZWRjY2YxMjExM2IxMDU5N2E2ODFiOWM5IiwibGFzdF9yZXFfZGF0ZSI6MTc4NDk3Njg4MSwic2Vzc2lvbl9pZCI6IjA4MmZmMjQ5ZTI0OTZjZTI2ZjBmZmU0Yjk4YzcxZGEwIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.ksnWqqYUed3PZB-t-SkBLjgQfmEArLwdq-I0hDAJpE8
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2154/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" tvg-id="start-basket",Старт Баскет HD
