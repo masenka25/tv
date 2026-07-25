@@ -328,6 +328,10 @@ https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=2J
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/7226/index.m3u8
 #EXTINF:-1 tvg-id="dikiy"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Дикий
 https://tinyurl.com/aleks-u-romki-40/847/index.m3u8
+
+#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Познавательные»🗺️":http-user-agent="",Gametoon HD [ENG]
+https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
+
 #EXTINF:-1 tvg-id="tv1000"tvg-logo="https://iptv-play.ru/channels/all_icons/5581.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
 http://tinyurl.com/TvZaTak31/TV1000HD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
@@ -973,8 +977,6 @@ http://188.113.190.12/329/index.m3u8
 http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2056/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs"tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png"group-title="Видеосалон 📼":http-user-agent="",CineMan VHS HD
 https://tinyurl.com/SaSha-48/11012/index.m3u8
-#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Познавательные» 🌞":http-user-agent="",Gametoon HD [ENG]
-https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo="https://iptv-play.ru/channels/all_icons/17103.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
 http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/201/index.m3u8
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo="https://epg.iptvx.one/picons/cineman-top.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Top HD
