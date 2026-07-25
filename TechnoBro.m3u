@@ -643,6 +643,9 @@ https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="6tv"tvg-logo="https://iptvx.one/picons/6tv.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
+#EXTINF:-1 tvg-id="udmurtia"tvg-logo="https://iptvx.one/picons/udmurtia.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Моя Удмуртия
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 tvg-id="tmtv"tvg-logo="https://iptvx.one/picons/tmtv.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",TMTV
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
@@ -940,9 +943,6 @@ https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/
 #EXTINF:-1 tvg-id="tumenskoe-vremia"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Тюменское время
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-#EXTINF:-1 tvg-id="udmurtia"tvg-logo="https://iptvx.one/picons/udmurtia.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Удмуртия
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 tvg-id="xamdan-kalm24"tvg-logo="https://iptvx.one/picons/xamdan-kalm24.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Хамдан-Калмыкия 24
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
