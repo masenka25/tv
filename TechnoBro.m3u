@@ -282,11 +282,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9325/inde
 #EXTINF:-1 tvg-id="istoria"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",История
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9315/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",365 Дней
-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+http://tinyurl.com/TvZaTak31/365dneiTV/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="nauka-20"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Наука HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9084/index.m3u8
 #EXTINF:-1 tvg-id="415"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Точка.РФ HD
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/226/index.m3u8
 #EXTINF:-1 tvg-id="tv-brics"tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="Познавательные 🔎":http-user-agent="",Tv Brics HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Animal Planet HD
@@ -307,8 +307,8 @@ http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9285/index.m3u8
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9286/index.m3u8
 #EXTINF:-1 tvg-id="doktor"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Доктор HD
 http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/20013/index.m3u8
-#EXTINF:-1 tvg-id="bst"tvg-logo="http://epg.one/img/2464.png"group-title="Познавательные 🔎":http-user-agent="",БСТ HD
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/2115/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru"tvg-logo="https://epg.iptvx.one/picons/terra-ru.png"group-title="Познавательные 🔎":http-user-agent="",Terra HD
+http://tinyurl.com/TvZaTak31/VF3Y6sr29e/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="psixologia-21"tvg-logo="http://epg.one/img/2450.png"group-title="Познавательные 🔎":http-user-agent="",Психология
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9114/index.m3u8
 #EXTINF:-1 tvg-id="uspex"tvg-logo="http://epg.one/img/2455.png"group-title="Познавательные 🔎":http-user-agent="",Успех
@@ -318,7 +318,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20044/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Арсенал HD
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Оружие
-http://tinyurl.com/TvZaTak31/Oruzhie/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/2087/index.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir"tvg-logo="http://epg.one/img/2462.png"group-title="Познавательные 🔎":http-user-agent="",Открытый мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia"tvg-logo=""group-title="Познавательные 🔎":http-user-agent="",Большая Азия HD
@@ -693,9 +693,9 @@ https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/varia
 #EXTINF:-1 tvg-id="brianskaya-gubernia"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Брянская Губерния HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 tvg-id="bst"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",БСТ
+#EXTINF:-1 tvg-id="bst"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",БСТ HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/2115/index.m3u8
 #EXTINF:-1 tvg-id="tk-variant"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Вариант V
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
@@ -1048,5 +1048,5 @@ http://radiorecord.rafail1982.uz/198096.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="http://rafail1982.uz/logo/radio.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://80.232.162.149:8000/plus96mp3
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif"group-title="🔺 INFO 🔺Обновлены многие категории каналов ":http-user-agent="",Обновление:28.02.2026
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif"group-title="🔺 INFO 🔺Выделен пакет Познавательные":http-user-agent="",Обновление: 25.07.2026
 http://dineritocashero.ottct.pro:80/MRHQMOEOH1/W5ZZLVAKHI/1495312
