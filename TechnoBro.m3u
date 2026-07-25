@@ -196,7 +196,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20036/index.m3u8
 #EXTINF:-1 tvg-id="58"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",ID Investigation Discovery HD
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9054/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Discovery HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567479
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="the-explorers"tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" group-title="«Единый Ultra» 📡":http-user-agent="",The Explorers HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/16035/index.m3u8
 #EXTINF:-1 tvg-id="english-club-tv"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",English Club TV HD
@@ -295,7 +295,7 @@ http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/31643/index.m3u8
 #EXTINF:-1 tvg-id="cineman-dub-ssr" tvg-logo="https://epg.iptvx.one/picons/cineman-dub-ssr.png"group-title="Пакет «СССР» ☭":http-user-agent="",CineMan Дубляж СССР HD
 http://cdntv.online/high/jhc96xtnyzmv/2300.m3u8
 #EXTINF:-1 tvg-id="retro-tv"tvg-logo="https://epg.iptvx.one/picons/retro-tv.png"group-title="Пакет «СССР» ☭":http-user-agent="",Ретро ТВ
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682686
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="sov-kinklass-hd"tvg-logo="http://epg.one/img/9002.png"group-title="Пакет «СССР» ☭":http-user-agent="",Советская киноклассика HD
 http://4b74cc2e.megogo.xyz/iptv/83HUZRHVU7LZA2/2146/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://iptv-play.ru/channels/all_icons/6831.png"group-title="Пакет «СССР» ☭":http-user-agent="",Назад в 90-e
@@ -396,7 +396,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/20031/ind
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="mult"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мульт HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682611
+http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/921/index.m3u8
 #EXTINF:-1 tvg-id="liova"tvg-logo="https://epg.iptvx.one/picons/liova.png"group-title="Пакет «Детский» 👶":http-user-agent="",Лёва HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15098/index.m3u8
 #EXTINF:-1 tvg-id="karusel"tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Пакет «Детский» 👶":http-user-agent="",Карусель HD
@@ -408,11 +408,11 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/9063/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png"group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
 http://46.32.176.50/detskiymir/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мультимузыка
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682709
+http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/749/index.m3u8
 #EXTINF:-1 tvg-id="jimjam"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",JimJam
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/138/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nickelodeon HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567468
+http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/223/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Nick Jr
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/114/index.m3u8
 #EXTINF:-1 tvg-id="vf-disney-cartoon"tvg-logo="https://epg.iptvx.one/picons/vf-disney-cartoon.png"group-title="Пакет «Детский» 👶":http-user-agent="",VF Disney Cartoon
@@ -423,14 +423,14 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/9261/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=1LTslXnl9vMFSgc6vXZl6g&e=2067257513&scheme=https
 #EXTINF:-1 tvg-id="da-vinci"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Da Vinci learning
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682694
+http://tinyurl.com/TvZaTak31/DaVinciLearning/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="malysh"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Супергерои
 http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png"group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="mama"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мама
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682691
+http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/704/index.m3u8
 #EXTINF:-1 tvg-id="nhl-network-us"tvg-logo="https://epg.iptvx.one/picons/nhl-network-us.png"group-title="«Суперспорт» 🏆":http-user-agent="",NHL Network [US]
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/7328/index.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Смайлик ТВ
@@ -457,7 +457,7 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16138/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="match-boets"tvg-logo="https://epg.iptvx.one/picons/match-boec.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Боец HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682671
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/19221/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"group-title="«Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 https://tinyurl.com/aleks-u-romki-40/2394/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал HD
@@ -481,13 +481,13 @@ https://tinyurl.com/SaSha-48/2004/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Карусель HD
 http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/20012/index.m3u8
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682677
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/10021/index.m3u8
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
 http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/20018/index.m3u8
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682679
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9032/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
 http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/15511/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
@@ -501,7 +501,7 @@ https://edge02p.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682673
+http://tinyurl.com/TvZaTak31/Avto24/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kxl"tvg-logo="https://epg.iptvx.one/picons/kxl.png"group-title="«Суперспорт» 🏆":http-user-agent="", KHL HD
@@ -531,7 +531,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20138/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2"tvg-logo="https://epg.iptvx.one/picons/okko-sport-2.png"group-title="«Суперспорт» 🏆":http-user-agent="",Окко.Прайм Спорт HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682672
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
 https://edge02p.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.KEye9Kg0tvdf7XSXT2cQtLyEHKQ1Bclwlx7yV0fu-14.Db-Rl-YGgIrpHukFV_GEP3BMJU-V9d8DyfiUOOJ_em0.1785302291.012f13039ded1f50fffe997cb2e34f02
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
@@ -539,12 +539,12 @@ http://badacbe6.tvclub.xyz/iptv/98F739YL28D899/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
 https://edge01p.mediavitrina.ru/hls-livef6/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.j_jf5_zU1_ROoUbTOr6-xWRWrYahINAbnvK0fTtr_Ss.ogX49Hnsmqy9r7e6ageRW4Ea9lkQm0zL8Mf7uKUS2Hw.1785302327.fb7d337dfad025b338379518aaf208a3
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567481
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/5075/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=K62NzbjPvyFkKZT3VKKRXg&e=2067257508&scheme=https
 #EXTINF:-1 tvg-id="eurosport2"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 2 HD
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/567482
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/5076/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="trace-sport-stars",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/extreme-sports-ru.png" tvg-id="extreme-sports-ru",Extreme Sports HD
@@ -566,7 +566,7 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8
 #EXTINF:-1 tvg-id="ru-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",RU.TV HD
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=l9sMcvc09PjVhjS_kvBghA&e=2065265083&scheme=https
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682651
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/17038/index.m3u8
 #EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2043/index.m3u8
 #EXTINF:-1 tvg-id="muztv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",МУЗ ТВ HD
@@ -586,7 +586,7 @@ http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2129/index.m3u8
 #EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682647
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo="https://epg.iptvx.one/picons/kinoxit.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинохит HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/7250/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya"tvg-logo="https://epg.iptvx.one/picons/kinosemia.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносемья HD
