@@ -563,7 +563,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=dR
 #EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Муз-ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 #EXTINF:-1 tvg-id="ru-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",RU.TV HD
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=l9sMcvc09PjVhjS_kvBghA&e=2065265083&scheme=https
+https://vsd210.okcdn.ru/hls/229927553538.m3u8/sig/txg-RELmMTs/expires/1785390906037/srcIp/78.85.49.0/urls/185.226.55.77/clientType/0/srcAg/CHROME_YA/mid/230273326594/229927553538_fullhd/index.m3u8
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9001/index.m3u8
 #EXTINF:-1 tvg-id="la-minor"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Музыка Live
@@ -581,7 +581,7 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/9053/index.m3u8
 #EXTINF:-1 tvg-id="681"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="zhara"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Жара HD
-http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2129/index.m3u8
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2129/index.m3u8
 #EXTINF:-1 tvg-id="radio-shanson"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
@@ -596,7 +596,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/7249/index.m3u8
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/10045/index.m3u8
 #EXTINF:-1 tvg-id="kinosvidanie"tvg-logo="https://epg.iptvx.one/picons/kinosvidanie.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносвидание HD
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/7245/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
+#EXTINF:-1 tvg-id="russian-musicbox"tvg-logo="https://epg.iptvx.one/picons/russian-musicbox.png"group-title="«Музыкальный» 🎶":http-user-agent="",Russian Music Box HD
 http://goldenpro.xyz:80/JLKRGUF/PR9A725/21402
 #EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="«Музыкальный» 🎶":http-user-agent="",ТНТ Music HD
 https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=XS-D_uidgEJ2IIZtqH6Pag&e=2072697320&scheme=https
