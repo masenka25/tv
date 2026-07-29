@@ -4,10 +4,11 @@ http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/204/index.m3u8
 #EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
+
 #EXTINF:-1 tvg-id="super"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
-#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
+#EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
 https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
 #EXTINF:-1 tvg-id="che"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Че!
 http://193.25.8.59:8000/perec
