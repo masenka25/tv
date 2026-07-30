@@ -297,7 +297,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20036/index.m3u8
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/16035/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Discovery HD
 http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="58"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ID Investigation Discovery HD
+#EXTINF:-1 tvg-id="investigation"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ID Investigation Discovery HD
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2102/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
