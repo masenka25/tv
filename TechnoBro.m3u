@@ -233,24 +233,32 @@ http://tinyurl.com/TvZaTak31/Dikiy/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-use
 
 #EXTINF:-1 tvg-id="womens-magazine"tvg-logo="http://epg.one/img/9040.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Женский Журнал HD
 http://nd1kwicy.russtv.net/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20010/index.m3u8
-#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Космический HD
-http://tinyurl.com/TvZaTak31/EurekaHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="morskoy"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Моя Стихия HD
-http://tinyurl.com/TvZaTak31/NauticalChannel/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="tlc"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",TLC HD
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/232/index.m3u8
+#EXTINF:-1 tvg-id="898"tvg-logo="http://epg.one/img/898.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Ю ТВ
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=k6kW8fat516l0J_TEQ8U8A&e=2069025310&scheme=https
+#EXTINF:-1 tvg-id="415"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Точка.РФ HD
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/226/index.m3u8
 #EXTINF:-1 tvg-id="eda"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Еда
 http://tinyurl.com/TvZaTak31/Eda/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="614"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Кухня HD
 http://tinyurl.com/TvZaTak31/aKeNtICEsC/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="pervy-vegetariansky"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Вегетарианский
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9320/index.m3u8
 #EXTINF:-1 tvg-id="travel-adventure"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Travel+Adventure HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9019/index.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",TLC HD
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/232/index.m3u8
 #EXTINF:-1 tvg-id="113"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ЖИВИ!
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/19252/index.m3u8
 #EXTINF:-1 tvg-id="zhivi-aktivno"tvg-logo="http://epg.one/img/5881.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Живи Активно HD
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
 #EXTINF:-1 tvg-id="bobior"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Бобёр
 https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 tvg-id="usadba"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2513"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Загородный int HD
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=nzWYbyLaFbEOV1ssSSfh-g&e=2069025311&scheme=https
+#EXTINF:-1 tvg-id="zagorodny"tvg-logo="http://epg.one/img/2463.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Загородный
+http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2099/index.m3u8
 #EXTINF:-1 tvg-id="rtvi"tvg-logo="http://epg.one/img/2401.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",RTVi HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9102/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Приключения HD
@@ -270,24 +278,18 @@ http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9305/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/703/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Моя Планета HD
 http://tinyurl.com/TvZaTak31/IQHD1/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="pervy-vegetariansky"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Вегетарианский
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9320/index.m3u8
-#EXTINF:-1 tvg-id="usadba"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Усадьба
-https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2513"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Загородный int HD
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=nzWYbyLaFbEOV1ssSSfh-g&e=2069025311&scheme=https
-#EXTINF:-1 tvg-id="zagorodny"tvg-logo="http://epg.one/img/2463.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Загородный
-http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2099/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Живая планета
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9325/index.m3u8
+#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Космический HD
+http://tinyurl.com/TvZaTak31/EurekaHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="morskoy"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Моя Стихия HD
+http://tinyurl.com/TvZaTak31/NauticalChannel/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="istoria"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",История
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9315/index.m3u8
 #EXTINF:-1 tvg-id="365-dnej"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",365 Дней
 http://tinyurl.com/TvZaTak31/365dneiTV/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="nauka-20"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Наука HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9084/index.m3u8
-#EXTINF:-1 tvg-id="415"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Точка.РФ HD
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/226/index.m3u8
 #EXTINF:-1 tvg-id="tv-brics"tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Tv Brics HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Animal Planet HD
@@ -330,8 +332,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/31916/index.m3u8
 http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/2054/index.m3u8
 #EXTINF:-1 tvg-id="mir-vokrug"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Мир Вокруг HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/15219/index.m3u8
-#EXTINF:-1 tvg-id="898"tvg-logo="http://epg.one/img/898.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Ю ТВ
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=k6kW8fat516l0J_TEQ8U8A&e=2069025310&scheme=https
+
 
 #EXTINF:-1 tvg-id="tv1000"tvg-logo="https://iptv-play.ru/channels/all_icons/5581.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
 http://tinyurl.com/TvZaTak31/TV1000HD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
