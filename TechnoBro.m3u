@@ -267,6 +267,8 @@ http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9102/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="silkway"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Silk Way HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20044/index.m3u8
+#EXTINF:-1 tvg-id="travel-adventure"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Travel+Adventure HD
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9019/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Приключения HD
 http://tinyurl.com/TvZaTak31/RTGTV/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="teleputeshestvia"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Телепутешествия
@@ -283,49 +285,47 @@ http://tinyurl.com/TvZaTak31/NauticalChannel/cnb0y9n3633wb3wnppri4wg6?|User-Agen
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9286/index.m3u8
 #EXTINF:-1 tvg-id="mir-vokrug"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Мир Вокруг HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/15219/index.m3u8
-#EXTINF:-1 tvg-id="travel-adventure"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Travel+Adventure HD
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9019/index.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",В мире животных HD
 http://tinyurl.com/TvZaTak31/AnimalFamilyHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="zootv"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Зоо ТВ
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9324/index.m3u8
-#EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="sovsek"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Top Secret
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9305/index.m3u8
-#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Космический HD
-http://tinyurl.com/TvZaTak31/EurekaHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="istoria"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",История
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9315/index.m3u8
-#EXTINF:-1 tvg-id="365-dnej"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",365 Дней
-http://tinyurl.com/TvZaTak31/365dneiTV/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-id="nauka-20"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Наука HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9084/index.m3u8
-#EXTINF:-1 tvg-id="tv-brics"tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Tv Brics HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="animal-planet-eu"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Animal Planet HD
 http://tinyurl.com/TvZaTak31/MARZLYimLm/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="big-planet"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Big Planet HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/20036/index.m3u8
-#EXTINF:-1 tvg-id="58"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ID Investigation Discovery HD
-http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9054/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Discovery HD
-http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="the-explorers"tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",The Explorers HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/16035/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="58"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ID Investigation Discovery HD
+http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/9054/index.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="365-dnej"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",365 Дней
+http://tinyurl.com/TvZaTak31/365dneiTV/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="terra-ru"tvg-logo="https://epg.iptvx.one/picons/terra-ru.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Terra HD
+http://tinyurl.com/TvZaTak31/VF3Y6sr29e/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="eureka-hd"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="", Космический HD
+http://tinyurl.com/TvZaTak31/EurekaHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="tv-brics"tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Tv Brics HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="english-club-tv"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",English Club TV HD
 http://tinyurl.com/TvZaTak31/EnglishClubTVHD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="2420"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ЕГЭ ТВ
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9285/index.m3u8
-#EXTINF:-1 tvg-id="doktor"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Доктор HD
-http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/20013/index.m3u8
-#EXTINF:-1 tvg-id="terra-ru"tvg-logo="https://epg.iptvx.one/picons/terra-ru.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Terra HD
-http://tinyurl.com/TvZaTak31/VF3Y6sr29e/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="istoria"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",История
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9315/index.m3u8
+#EXTINF:-1 tvg-id="nauka-20"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Наука HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9084/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21"tvg-logo="http://epg.one/img/2450.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Психология
 http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/9114/index.m3u8
+#EXTINF:-1 tvg-id="doktor"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Доктор HD
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/20013/index.m3u8
 #EXTINF:-1 tvg-id="uspex"tvg-logo="http://epg.one/img/2455.png"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 tvg-id="sovsek"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Top Secret
+http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/9305/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Арсенал HD
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oruzhie"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Оружие
