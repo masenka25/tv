@@ -11,15 +11,16 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG
 #EXTINF:-1 tvg-id="2na2"tvg-logo="http://epg.one/img/323.png"group-title="«Единый Ultra» 📡":http-user-agent="",2x2 HD
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eWofWDwQI_B0AFGkcDgoqg&e=2069025308&scheme=https
 #EXTINF:-1 tvg-id="che"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Че!
-http://193.25.8.59:8000/perec
+http://5.188.221.43:8080/play/che
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="http://epg.one/img/1322.png"group-title="«Единый Ultra» 📡":http-user-agent="",СТС Love
-http://vodkom.net:88/emvntYsPZ/NjO1AH4mx3sr2Lv/682721
+http://31.148.48.15/STS_Love/index.m3u8
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="http://epg.one/img/1649.png"group-title="«Единый Ultra» 📡":http-user-agent="",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=TMkNOqwuWVYrn6Vd9sdp6w&e=2066303668&scheme=https
 #EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
 https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
 #EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
@@ -36,7 +37,6 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sapfir"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Сапфир HD
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/6389/index.m3u8
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="kion-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",KION Хит HD
 https://tinyurl.com/aleks-u-romki-40/20211/index.m3u8
 #EXTINF:-1 tvg-id="1226"tvg-logo="http://epg.one/img/7314.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинеко HD
