@@ -503,7 +503,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/207/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Рен ТВ HD
-https://edge01p.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.ryZ8mvmuI_QQjyjQMNSmdPjUZeqa81Pg9pxTi5QqR_g.vz2ierDp9P4iYIP1COA3zoBa_oCwLlbhCjR4zLHr1rk.1787290781.d542efe490bfc5202336b3766b7e6a945e
+https://edge01p.mediavitrina.ru/hls-livef5/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.YN7JsQKGOn-jbTFoNWe7n-y-fI7F-TWszjAeFnzOvrU.H-eWYyfFSEKmnNojse4eOl_VPEmgwbUwASOts1OqLao.1787292619.5978b091987b15aae1a58116c9327928
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
