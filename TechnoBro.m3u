@@ -457,8 +457,6 @@ http://nd1kwicy.russtv.net/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31650/index.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="shayantv"tvg-logo="https://epg.iptvx.one/picons/shayantv.png"group-title="Пакет «Детский» 👶":http-user-agent="",Шаян ТВ HD
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rybalka"tvg-logo="https://epg.iptvx.one/picons/rybalka.png"group-title="«Мужская тема» 🎣":http-user-agent="",Рыбалка HD
-http://de.seetv.cc/play/9967/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 tvg-id="ntv"tvg-logo=""group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0/playlist.m3u8
