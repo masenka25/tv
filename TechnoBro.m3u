@@ -988,6 +988,8 @@ http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11012/index.m3u8
 http://cdntv.online/high/jhc96xtnyzmv/105.m3u8
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo="https://epg.iptvx.one/picons/cineman-top.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Top HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11005/index.m3u8
+#EXTINF:-1 tvg-id="cineman-premium"tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Premium HD
+http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/20112/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo="https://iptv-play.ru/channels/all_icons/6324.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
 http://cdntv.online/high/jhc96xtnyzmv/411.m3u8
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo="https://epg.iptvx.one/picons/cineman-action.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Action HD
