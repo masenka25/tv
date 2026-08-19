@@ -11,7 +11,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG
 #EXTINF:-1 tvg-id="2na2"tvg-logo="http://epg.one/img/323.png"group-title="«Единый Ultra» 📡":http-user-agent="",2x2 HD
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eWofWDwQI_B0AFGkcDgoqg&e=2069025308&scheme=https
 #EXTINF:-1 tvg-id="che"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Че!
-http://5.188.221.43:8080/play/che
+http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/513/index.m3u8
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="http://epg.one/img/1322.png"group-title="«Единый Ultra» 📡":http-user-agent="",СТС Love
 http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/103/index.m3u8
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="http://epg.one/img/1649.png"group-title="«Единый Ultra» 📡":http-user-agent="",ТНТ4 HD
@@ -63,8 +63,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/5053/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/914/index.m3u8
 #EXTINF:-1 tvg-id="nashehd"tvg-logo="http://epg.one/img/2018.png"group-title="«Единый Ultra» 📡":http-user-agent="",Наше HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9046/index.m3u8
-#EXTINF:-1 tvg-id="nashe-lubimoe-hd"tvg-logo="http://epg.one/img/2509.png"group-title="«Единый Ultra» 📡":http-user-agent="",Любимое HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/915/index.m3u8
 #EXTINF:-1 tvg-id="kriminalnoe-hd"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Криминальное HD
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/14033/index.m3u8
 #EXTINF:-1 tvg-id="domkino"tvg-logo="http://epg.one/img/834.png"group-title="«Единый Ultra» 📡":http-user-agent="",Дом Кино
@@ -182,6 +180,8 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/7347/index.m3u8
 #EXTINF:-1 tvg-id="nashe-nasledie" tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/31934/index.m3u8
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd"tvg-logo="http://epg.one/img/2509.png"group-title="«Единый Ultra» 📡":http-user-agent="",Любимое HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/915/index.m3u8
 #EXTINF:-1 tvg-id="yosso-ndetskoe" tvg-logo="https://epg.iptvx.one/picons/yosso-ndetskoe.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Детское HD
 http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/19433/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://iptv-play.ru/channels/all_icons/6805.png"group-title="Пакет «СССР» ☭":http-user-agent="",Top USSR HD
