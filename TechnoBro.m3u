@@ -483,13 +483,13 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/10016/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Дикая охота HD
 http://48db939d.ottclub.xyz/iptv/DWCPNKUKWA5A25/2004/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Карусель HD
-http://nd1kwicy.russtv.net/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20012/index.m3u8
+http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/20012/index.m3u8
 #EXTINF:-1 tvg-id="match-premier"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Премьер HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/10021/index.m3u8
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://48db939d.ottclub.xyz/iptv/DWCPNKUKWA5A25/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-http://nd1kwicy.russtv.net/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20018/index.m3u8
+http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/20018/index.m3u8
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9032/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
@@ -541,7 +541,7 @@ https://edge01r.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://48db939d.ottclub.xyz/iptv/DWCPNKUKWA5A25/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
-https://edge01d.mediavitrina.ru/hls-livef5/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.s1qIEMj4O1d_M3Qb2kMQaWXyIFLMHeAqP3QGv7QAclU.12QRcjwKI4Djn3wqH6EcCngyoydqe1h-wqk0OUaZLU4.1787981581.c0b325454107ba36ace330b8a9e0282d
+https://edge02r.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.H8PoJ1Yo5rXQ_FLtzoJFTcYxnOM2p8WPBUd8n-fWXUE.TbK7vZ9qpCTLoROBHNIP1Tuqmv3PAlzut7IYYPc1g5s.1787984318.acc1417e900526d0063bcd379677601f
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/5075/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
