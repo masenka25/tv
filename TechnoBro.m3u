@@ -1038,9 +1038,9 @@ https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1697427
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Юрий Шатунов и Ласковый Май
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pub0201.101.ru:443/stream/pro/aac/64/119
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Авторадио. Дискотека СССР
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Авторадио. Дискотека 80-ых
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://pub0201.101.ru:443/stream/pro/aac/64/292
+https://pub0201.101.ru:443/stream/pro/aac/64/1
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Лихие 90е
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/422387
