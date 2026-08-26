@@ -1048,7 +1048,6 @@ https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/422387
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/404051
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",В Тренде
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pub0201.101.ru:443/stream/pro/aac/64/390
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://radiorecord.rafail1982.uz/198096.aacp
