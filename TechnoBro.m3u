@@ -509,9 +509,9 @@ http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/20033/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kxl"tvg-logo="https://epg.iptvx.one/picons/kxl.png"group-title="«Суперспорт» 🏆":http-user-agent="", KHL HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/215/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/215/index.m3u8
 #EXTINF:-1 tvg-id="kxl-hd"tvg-logo="https://epg.iptvx.one/picons/kxl-hd.png" group-title="«Суперспорт» 🏆":http-user-agent="",KHL Prime HD
-https://tinyurl.com/SaSha-48/2403/index.m3u8
+http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/10028/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="http://1lot.tv/ch/6511.png" tvg-id="4605",Хоккей ТВ HD
 http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/10039/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
@@ -519,7 +519,7 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/19245/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/2000/index.m3u8
 #EXTINF:-1 tvg-id="sila"group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png",Сила HD
-https://stream-msk-07.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfZjQwYWJkMGExODg0YmRiNTNkZGViZmE4MDMwNGNjNmEiLCJleHAiOjE3ODczMDM3NDMsImh3aWQiOiI3OGVkNjU3YjM4ODNlMGU4OTM5MTkzZTBiMTEzZjc3M2ZkNmQ0NmE5OGFiMTA2YTI2OTM0N2QyMDY0YjcwOTE3IiwibGFzdF9yZXFfZGF0ZSI6MTc4NjY5ODk0Mywic2Vzc2lvbl9pZCI6IjBjMTVhZmM2YjlkYmFhOTRmNzRkZDQyMThkNGNhYmRmIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.XKsaw4WPMi3Kw6Xa4sc8i-1OMl37u_0TGCDj6Pfvm6o
+https://stream-msk-04.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3ODgzNzM5MDgsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc4Nzc2OTEwOCwic2Vzc2lvbl9pZCI6IjNkN2RkN2NmZmY4NzAyZDk2YjM4NjI4NGI1NzgwYzlkIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.4EHu76tBlULN2fu-1RIADJTH5zz9rRQ2IqezCs2Uinw
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2154/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" tvg-id="start-basket",Старт Баскет HD
