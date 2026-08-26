@@ -1022,13 +1022,13 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/6381/index.m3u8
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/15106/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature"tvg-logo="https://iptv-play.ru/channels/all_icons/6458.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Nature HD
 http://238071de.rostelekom.xyz/iptv/QNKP368YM8HMHKUU6G9EDBSL/15225/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://radiopotok.ru/f/station/512/2398.png"group-title="Радиостанции 📻":http-user-agent="",Радио Гордость HD
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://radiopotok.ru/f/station/512/2398.png"group-title="Радиостанции 📻":http-user-agent="",Радио Гордость
 https://rgordost.hostingradio.ru/rgordost64.aacp
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",TRUCK FM
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",K-Pop
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://truckfm.rafail1982.uz:8000/64
+https://pub0201.101.ru:443/stream/pro/aac/64/323
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Руки Вверх!
-http://101s1.rafail1982.uz/stream/pro/aac/64/163
+https://radiorecord.hostingradio.ru/rv96.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Дискотека В Стиле Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/733170
@@ -1037,19 +1037,19 @@ https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/733170
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1697427
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Юрий Шатунов и Ласковый Май
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://101s1.rafail1982.uz/stream/pro/aac/64/119
+https://pub0201.101.ru:443/stream/pro/aac/64/119
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Авторадио. Дискотека СССР
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://101s1.rafail1982.uz/stream/pro/aac/64/144
+https://pub0201.101.ru:443/stream/pro/aac/64/292
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Лихие 90е
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/422387
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Хиты Магнитных Лент
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/404051
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",BEST FM
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",В Тренде
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://nashe1.hostingradio.ru/best-128.mp3
+https://pub0201.101.ru:443/stream/pro/aac/64/390
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://radiorecord.rafail1982.uz/198096.aacp
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
