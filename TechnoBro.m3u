@@ -174,7 +174,7 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="gosfilmofond-mv"tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png"group-title="Пакет «СССР» ☭":http-user-agent="",ГосФильмоФонд HD
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/31929/index.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-klassika"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png"group-title="Пакет «СССР» ☭":http-user-agent="",Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+https://stream.smotrim.ru/fasttv_hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="mosfilm"tvg-logo="http://epg.one/img/3357.png"group-title="Пакет «СССР» ☭":http-user-agent="",Мосфильм. Золотая коллекция HD
 http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/7347/index.m3u8
 #EXTINF:-1 tvg-id="nashe-nasledie" tvg-logo="https://epg.iptvx.one/picons/nashe-nasledie.png"group-title="Пакет «СССР» ☭":http-user-agent="",Наше Наследие HD
