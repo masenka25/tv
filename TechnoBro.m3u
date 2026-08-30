@@ -494,7 +494,7 @@ http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/9032/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
 http://48db939d.ottclub.xyz/iptv/DWCPNKUKWA5A25/15511/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
-https://edge01r.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.1ew9sLUFYZZAzVJFh-vHDO3T8wVjQKWqL-CXMYZlPhY.4S-16uq9KuI2S4r9yVfmKXCcWsfd8PWNHRnd921SA14.1787981348.9c517dc8519e9ddb96ee187f6a9be089
+https://edge02d.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.2kV1hjJfH9BsiqyvKFh5o-TIfGlavEFepFg5WZxWK0o.SxBUGj20XQdXjiBRuThoOtkppXjqOgmRFc54SM2KGD0.1788672882.f0299a44994a16b0e76036468f7c9f1e
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/207/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
