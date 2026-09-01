@@ -337,7 +337,7 @@ http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 tvg-id="tv1000"tvg-logo="https://iptv-play.ru/channels/all_icons/5581.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
 http://tinyurl.com/TvZaTak31/TV1000HD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
-http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/224/index.m3u8
+http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/224/index.m3u8
 #EXTINF:-1 tvg-id="cineman"tvg-logo="https://epg.iptvx.one/picons/cineman.png"group-title="Видеосалон 📼":http-user-agent="",CineMan HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11004/index.m3u8
 
@@ -412,7 +412,7 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/20012/index.m3u8
 #EXTINF:-1 tvg-id="lapki-live"tvg-logo="https://epg.iptvx.one/picons/lapki-live.png"group-title="Пакет «Детский» 👶":http-user-agent="",Лапки Live HD
 https://tinyurl.com/aleks-u-romki-40/2028/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",СТС Kids HD
-http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/2001/index.m3u8
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2001/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir"tvg-logo="https://epg.iptvx.one/picons/detsky-mir.png"group-title="Пакет «Детский» 👶":http-user-agent="",Детский мир HD
 http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/9192/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka"tvg-logo=""group-title="Пакет «Детский» 👶":http-user-agent="",Мультимузыка
@@ -516,7 +516,7 @@ http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/10039/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-id="box-tv",Бокс ТВ HD
 http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/19245/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
-http://t49rvy2n.ottclub.xyz/iptv/VAU8656NGQ3EH65RVBWZ85PF/2000/index.m3u8
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2000/index.m3u8
 #EXTINF:-1 tvg-id="sila"group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png",Сила HD
 https://stream-msk-04.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3ODgzNzM5MDgsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc4Nzc2OTEwOCwic2Vzc2lvbl9pZCI6IjNkN2RkN2NmZmY4NzAyZDk2YjM4NjI4NGI1NzgwYzlkIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.4EHu76tBlULN2fu-1RIADJTH5zz9rRQ2IqezCs2Uinw
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
@@ -591,7 +591,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="kinoxit"tvg-logo="https://epg.iptvx.one/picons/kinoxit.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинохит HD
-http://0xq1sawo.russtv.net/iptv/KSA9NQPG94YUMQ/7250/index.m3u8
+http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/7250/index.m3u8
 #EXTINF:-1 tvg-id="kinosemiya"tvg-logo="https://epg.iptvx.one/picons/kinosemia.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киносемья HD
 http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/7244/index.m3u8
 #EXTINF:-1 tvg-id="kinomiks"tvg-logo="https://epg.iptvx.one/picons/kinomiks.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Киномикс HD
@@ -988,7 +988,7 @@ http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11005/index.m3u8
 #EXTINF:-1 tvg-id="cineman-premium"tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Premium HD
 http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/20112/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino"tvg-logo="https://iptv-play.ru/channels/all_icons/6324.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 русское HD
-http://cdntv.online/high/jhc96xtnyzmv/411.m3u8
+http://53cf2048.ottrast.com/iptv/2Q4RBSN8XCUHSU/6388/index.m3u8
 #EXTINF:-1 tvg-id="cineman-action"tvg-logo="https://epg.iptvx.one/picons/cineman-action.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Action HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11006/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy"tvg-logo="https://iptv-play.ru/channels/all_icons/17102.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Comedy HD
@@ -996,7 +996,7 @@ http://cdntv.online/high/jhc96xtnyzmv/104.m3u8
 #EXTINF:-1 tvg-id="cineman-thriller"tvg-logo="https://epg.iptvx.one/picons/cineman-thriller.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Thriller HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11007/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action"tvg-logo="https://iptv-play.ru/channels/all_icons/6450.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6386/index.m3u8
+http://ott.watch/stream/JBT2S5J8EX/100.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama"tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Melodrama HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11008/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere"tvg-logo="https://iptv-play.ru/channels/all_icons/17104.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Premiere HD
