@@ -336,7 +336,7 @@ http://v4.proofix.ru/0mir/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tv1000"tvg-logo="https://iptv-play.ru/channels/all_icons/5581.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju TV1000 HD
-http://tinyurl.com/TvZaTak31/TV1000HD/cnb0y9n3633wb3wnppri4wg6?|User-Agent=http-user-agent=Lavf/56.15.102
+http://ott.watch/stream/JBT2S5J8EX/110.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd"tvg-logo="https://epg.iptvx.one/picons/kinopremiera.png"group-title="«Настрой Кино!» 📺":http-user-agent="",Кинопремьера HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/224/index.m3u8
 #EXTINF:-1 tvg-id="cineman"tvg-logo="https://epg.iptvx.one/picons/cineman.png"group-title="Видеосалон 📼":http-user-agent="",CineMan HD
@@ -987,11 +987,11 @@ http://ott.watch/stream/JBT2S5J8EX/100.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama"tvg-logo="https://epg.iptvx.one/picons/cineman-melodrama.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Melodrama HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11008/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere"tvg-logo="https://iptv-play.ru/channels/all_icons/17104.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Premiere HD
-http://cdntv.online/high/jhc96xtnyzmv/106.m3u8
+http://ott.watch/stream/JBT2S5J8EX/202.m3u8
 #EXTINF:-1 tvg-id="cineman-marvel"tvg-logo="https://epg.iptvx.one/picons/cineman-marvel.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Marvel HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11009/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial"tvg-logo="https://iptv-play.ru/channels/all_icons/0109.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Serial HD
-http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/2443/index.m3u8
+http://ott.watch/stream/JBT2S5J8EX/311.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy"tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Ужасы HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11010/index.m3u8
 #EXTINF:-1 tvg-id="viasat-history"tvg-logo="https://iptv-play.ru/channels/all_icons/19106.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju History HD
@@ -999,7 +999,7 @@ http://tinyurl.com/TvZaTak31/BEROsorAMW/cnb0y9n3633wb3wnppri4wg6?|User-Agent=htt
 #EXTINF:-1 tvg-id="cineman-comedy"tvg-logo="https://epg.iptvx.one/picons/cineman-comedy.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Комедия HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11011/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd"tvg-logo="https://iptv-play.ru/channels/all_icons/17105.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Planet HD
-http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/9027/index.m3u8
+http://ott.watch/stream/JBT2S5J8EX/240.m3u8
 #EXTINF:-1 tvg-id="cineman-rukino"tvg-logo="https://epg.iptvx.one/picons/cineman-rukino.png"group-title="Видеосалон 📼":http-user-agent="",CineMan РуКино
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11013/index.m3u8
 #EXTINF:-1 tvg-id="viasat-explore"tvg-logo="https://iptv-play.ru/channels/all_icons/6460.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju Explore HD
