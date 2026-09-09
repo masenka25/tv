@@ -5,6 +5,9 @@ http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/204/index.m3u8
 #EXTINF:-1 tvg-id="super"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=pG-M3ePvfnYwtFvbicCejQ&e=2067257509&scheme=https
+#EXTINF:-1 tvg-id="12-omsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",12 канал HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="2na2"tvg-logo="http://epg.one/img/323.png"group-title="«Единый Ultra» 📡":http-user-agent="",2x2 HD
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eWofWDwQI_B0AFGkcDgoqg&e=2069025308&scheme=https
 #EXTINF:-1 tvg-id="che"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Че!
@@ -564,6 +567,7 @@ https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=Af
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=dRIbLei1sbE27lfmuqi1Hw&e=2066303667&scheme=https
 #EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Муз-ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
+
 #EXTINF:-1 tvg-id="ru-tv"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",RU.TV
 http://77.232.131.211/RUTV/index.m3u8
 #EXTINF:-1 tvg-id="1hd"tvg-logo="http://epg.one/img/4037.png"group-title="«Музыкальный» 🎶":http-user-agent="",1HD Music
@@ -635,9 +639,6 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mo
 #EXTINF:-1 tvg-id="nadezhda"tvg-logo="http://epg.one/img/1732.png"group-title="«Единый Ultra» 📡":http-user-agent="",Надежда HD
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="12-omsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",12 канал HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="31-kanal-chelyabinsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",31 канал Челябинск
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
