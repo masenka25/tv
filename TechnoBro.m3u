@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.iptvcinema.ru/epg.gz"
 #EXTINF:-1 tvg-id="pervy"tvg-logo="https://epg.iptvx.one/picons/pervy.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Первый канал HD
 http://gomanq85.russtv.net/iptv/M5CQGNWXRM2FGNDGP6NWXW7H/204/index.m3u8
-#EXTINF:-1 tvg-id="7kanal-krasnoyarsk"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",7 канал Красноярск
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="super"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -670,9 +668,6 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
 #EXTINF:-1 tvg-id="arktik-tv"tvg-logo="https://iptvx.one/picons/arktik-tv.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Арктик-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF:-1 tvg-id="vremia-arktiki"tvg-logo="https://iptvx.one/picons/vremia-arktiki.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Арктика 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="arxyz24"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Архыз-24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
@@ -703,9 +698,6 @@ http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/2115/index.m3u8
 #EXTINF:-1 tvg-id="tk-variant"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Вариант V
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Вектор 24
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
 #EXTINF:-1 tvg-id="vetta24"tvg-logo="https://iptvx.one/picons/vetta24.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Ветта 24 Пермь
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
@@ -757,9 +749,6 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
 #EXTINF:-1 tvg-id="enisey-region"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Енисей HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg_news"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Импульс HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg_news"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Инфо 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
@@ -790,9 +779,6 @@ https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/vari
 #EXTINF:-1 tvg-id="maydan"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Майдан
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8
-#EXTINF:-1 tvg-id="mig-tv-noyabrsk"tvg-logo="https://iptvx.one/picons/mig-tv-noyabrsk.png"group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Миг ТВ
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria"tvg-logo=""group-title="Региональные 🌍":http-user-agent="Mozilla 5.0",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
