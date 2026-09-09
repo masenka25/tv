@@ -1014,7 +1014,7 @@ https://rgordost.hostingradio.ru/rgordost64.aacp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://pub0201.101.ru:443/stream/pro/aac/64/323
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Руки Вверх!
-https://radiorecord.hostingradio.ru/rv96.aacp
+https://pub0201.101.ru:443/stream/pro/aac/64/163
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",Дискотека В Стиле Руки Вверх!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/733170
@@ -1035,7 +1035,7 @@ https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/422387
 https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/404051
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",В Тренде
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://radiorecord.rafail1982.uz/198096.aacp
+https://pub0201.101.ru:443/stream/pro/aac/64/390
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://cdn-icons-png.magnific.com/512/14237/14237925.png"group-title="Радиостанции 📻":http-user-agent="Dalvik/2.1.0",SWH+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://80.232.162.149:8000/plus96mp3
