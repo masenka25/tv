@@ -969,7 +969,7 @@ http://sikfbgpn.russtv.net/iptv/HHGQPXDLQS6T22/2056/index.m3u8
 #EXTINF:-1 tvg-id="cineman-vhs"tvg-logo="https://epg.iptvx.one/picons/cineman-vhs.png"group-title="Видеосалон 📼":http-user-agent="",CineMan VHS HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11012/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit"tvg-logo="https://iptv-play.ru/channels/all_icons/17103.png"group-title="Пакет «viju+» 🎬":http-user-agent="",viju+ Megahit HD
-http://ott.watch/stream/JBT2S5J8EX/200.m3u8
+http://192.162.64.99:5200/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="cineman-top"tvg-logo="https://epg.iptvx.one/picons/cineman-top.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Top HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/11005/index.m3u8
 #EXTINF:-1 tvg-id="cineman-premium"tvg-logo="https://epg.iptvx.one/picons/cineman-premium.png"group-title="Видеосалон 📼":http-user-agent="",CineMan Premium HD
