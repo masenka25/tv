@@ -465,7 +465,7 @@ http://nd1kwicy.russtv.net/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19221/index.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke"tvg-logo="https://epg.iptvx.one/picons/dialogi-o-rybalke.png"group-title="«Мужская тема» 🎣":http-user-agent="",Диалоги о рыбалке HD
 http://czrb8vng.ottclub.xyz/iptv/ZBE628EP2BYBP5/2394/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал HD
-https://edge07d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.ZifDp_DeLwPj_VpiV9HqDB2L8Y32NSHOUF6JLLaXtps.3k4fiTHmpKnKbWdD5TdIWTBrekGcBZwZZXcnjyteL1M.1789065198.b28f831045ae88e61973d0be6c389e60
+https://edge01d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.QgHW2W441ikM3Fbrj4G-LLHqgD_wAImb0JdUdEM4VXY.KHhQoPVn-4DZcjBb_L2W-y4Cbz7WJpZ2berddtasSd0.1789790981.35c95a492d9133beae4d1add40e51bc9
 #EXTINF:-1 tvg-id="match-football1"tvg-logo="https://epg.iptvx.one/picons/match-football1.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Футбол 1 HD
 http://d1045fbd.amazzin.pw/iptv/3KZ2W9GEEY49ZV/10015/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Охотник и Рыболов HD
@@ -489,7 +489,7 @@ http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/10021/index.m3u8
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/15513/index.m3u8
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/20018/index.m3u8
+https://bl.webcaster.pro/media/playlist/free_a1e2cd7f6a06cbfb9254fca8ce7da087/5_2972636396/720p/6e53192a73e6cfdbbfa22dcc2fba26df/1789229489.m3u8?sr=65&seek=1789182600&uid=JUI9ILLF-WLU5-H4RP-RWNH-H2C9IZPMWZGT&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://0c8747d9.cbilant.com/iptv/9XUYL7D7KUUUUY/10014/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
@@ -519,7 +519,7 @@ http://0xq1sawo.russtv.net/iptv/E4U2DGXEHR9YCA/19245/index.m3u8
 #EXTINF:-1 tvg-id="ufc" tvg-logo="https://epg.iptvx.one/picons/ufc.png"group-title="«Суперспорт» 🏆":http-user-agent="",Удар HD
 http://xv5myned.otttv.pw/iptv/ZFMBTT94BTSVQMFVDASEV6XS/2000/index.m3u8
 #EXTINF:-1 tvg-id="sila"group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/sila.png",Сила HD
-https://stream-msk-05.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3ODkwNjU2MTQsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc4ODQ2MDgxNCwic2Vzc2lvbl9pZCI6ImU5YzlkNzk1ZjY0ZGUxYWZjYjg1ODI3OWM0MGRiYmNlIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.LXU_PjvHj7EZ9YxuBy27bCJlG8b_nN4o2AGaADWA5rQ
+https://stream-msk-04.ottgoods.ru/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfNmUzYjFmNDk1MjAyODBjYWQ2ZTcwZjc5NDkxYmNjN2MiLCJleHAiOjE3ODk3OTEwNTYsImh3aWQiOiI1YjI5NTQ2YzgxN2JmZjhhMDIxOWFjMzk4YmU3N2E4NTVkODFkZjk4NThiMzc5OTZjNWU4MDY0MDEzZjU1MzhjIiwibGFzdF9yZXFfZGF0ZSI6MTc4OTE4NjI1Niwic2Vzc2lvbl9pZCI6IjQ4ODkzY2NjZTgzODc5ZjQxYTc5NDQyYjdkNDQ4MDg0IiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.JE6YRGgXELhvhrQtNuo07S9ac73OUYFSg_wj5HfpS3Q
 #EXTINF:-1 tvg-id="start"tvg-logo="https://epg.iptvx.one/picons/start.png"group-title="«Суперспорт» 🏆":http-user-agent="",Старт HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/2154/index.m3u8
 #EXTINF:-1 group-title="«Суперспорт» 🏆" tvg-logo="https://epg.iptvx.one/picons/start-basket.png" tvg-id="start-basket",Старт Баскет HD
