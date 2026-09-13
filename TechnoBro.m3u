@@ -134,7 +134,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/9224/inde
 #EXTINF:-1 tvg-id="izvestia"tvg-logo="http://epg.one/img/2271.png"group-title="«Единый Ultra» 📡":http-user-agent="",Известия HD
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
+https://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="kvn-tv"tvg-logo="http://epg.one/img/1700.png"group-title="«Единый Ultra» 📡":http-user-agent="",КВН ТВ
@@ -160,7 +160,7 @@ http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/10029/index.m3u8
 #EXTINF:-1 tvg-id="rtd-ru"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="2268"tvg-logo="http://epg.one/img/2268.png"group-title="«Единый Ultra» 📡":http-user-agent="",CGTN Русский HD
-https://russian-livetx-h5.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8?wsSecret=621d60e1e01a4365c4be59da5f013ea0&wsTime=1788249025
+https://russian-livetx-h5.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8?wsSecret=bb8bc5065a5f00d7729e0d39cc26aaf0&wsTime=1789280982
 #EXTINF:-1 tvg-id="vmeste-rf"tvg-logo="http://epg.one/img/2398.png"group-title="«Единый Ultra» 📡":http-user-agent="",Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro"tvg-logo="http://rafail1982.uz/logo/БелРос.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",БелРос
@@ -296,7 +296,7 @@ http://d5ec7d87.amazzin.pw/iptv/2EZAKDSGZZRHAQ/20036/index.m3u8
 #EXTINF:-1 tvg-id="the-explorers"tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",The Explorers HD
 http://5baaleto.otttv.pw/iptv/8P7MBSH7RRPL53/16035/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo=""group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",Discovery HD
-http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
+http://ott.watch/stream/JBT2S5J8EX/177.m3u8
 #EXTINF:-1 tvg-id="investigation"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="",ID Investigation Discovery HD
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/2102/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia"tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg"group-title="Познавательные 🧑🏻‍🎓":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0",Неизвестная Россия HD
