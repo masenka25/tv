@@ -610,7 +610,7 @@ https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=XS
 http://livestream.siliconweb.com:80/live/kissfm/index.m3u8
 #EXTINF:-1 tvg-id="rock-tv-ro"tvg-logo=""group-title="«Музыкальный» 🎶":http-user-agent="",Rock TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://i.scdn.co/image/ab67616d0000b273b914aa794077d0802e62e884"group-title="«Музыкальный» 🎶":http-user-agent="",Dancehits 80
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://avatars.mds.yandex.net/i?id=2d52c752a188fd7f734960278855c9c2_l-5360274-images-thumbs&n=13"group-title="«Музыкальный» 🎶":http-user-agent="",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUn0d2HDniHSXQaZf34Ce6bKZgsEhhN1dVCw&s"group-title="«Музыкальный» 🎶":http-user-agent="",DANCE TV TECHNO
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
