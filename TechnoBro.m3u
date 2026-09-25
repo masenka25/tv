@@ -18,10 +18,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=TMkNOqwuWVYrn6Vd9sdp6w&e=2066303668&scheme=https
 #EXTINF:-1 tvg-id="gametoon"tvg-logo="http://epg.one/img/2770.png"group-title="«Единый Ultra» 📡":http-user-agent="",Gametoon HD [ENG]
 https://tinyurl.com/aleks-u-romki-40/5049/index.m3u8
-#EXTINF:-1 tvg-id="belarus2"tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
+#EXTINF:-1 tvg-id="belarus2"tvg-logo="https://epg.iptvx.one/picons/belarus2hd.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="belarus3"tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
+#EXTINF:-1 tvg-id="belarus3"tvg-logo="https://epg.iptvx.one/picons/belarus3hd.png"group-title="«Единый Ultra» 📡":http-user-agent="Dalvik/2.1.0",Беларусь 3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 tvg-id="denpobedy"tvg-logo="http://epg.one/img/2773.png"group-title="«Единый Ultra» 📡":http-user-agent="",День Победы HD
@@ -36,13 +36,13 @@ http://116943ab.amazzin.pw/iptv/2C38T4Y5MFA9ANEFRDS8QM8H/31928/index.m3u8
 #EXTINF:-1 tvg-id="krasnaya-linia"tvg-logo="http://epg.one/img/2476.png"group-title="«Единый Ultra» 📡":http-user-agent="",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sapfir"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",Сапфир HD
-http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/6389/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/66G6GLR8W2N3TB/6389/index.m3u8
 #EXTINF:-1 tvg-id="kion-xit"tvg-logo=""group-title="«Единый Ultra» 📡":http-user-agent="",KION Хит HD
-https://tinyurl.com/aleks-u-romki-40/20211/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/66G6GLR8W2N3TB/20211/index.m3u8
 #EXTINF:-1 tvg-id="1226"tvg-logo="http://epg.one/img/7314.png"group-title="«Единый Ultra» 📡":http-user-agent="",Кинеко HD
-http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/9135/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/66G6GLR8W2N3TB/9135/index.m3u8
 #EXTINF:-1 tvg-id="1288"tvg-logo="http://epg.one/img/7901.png"group-title="«Единый Ultra» 📡":http-user-agent="",DetectiveJam HD
-http://c9e7a490.ottrast.com/iptv/DZWL85QKSY8Q55/20209/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/66G6GLR8W2N3TB/20209/index.m3u8
 #EXTINF:-1 tvg-id="1293"tvg-logo="http://epg.one/img/6241.png"group-title="«Единый Ultra» 📡":http-user-agent="",START Air HD
 https://tinyurl.com/aleks-u-romki-40/18036/index.m3u8
 #EXTINF:-1 tvg-id="1294"tvg-logo="http://epg.one/img/6240.png"group-title="«Единый Ultra» 📡":http-user-agent="",START World HD
