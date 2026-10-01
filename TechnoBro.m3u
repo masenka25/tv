@@ -491,13 +491,13 @@ http://0c8747d9.cbilant.com/iptv/9XUYL7D7KUUUUY/10014/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/15511/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
-https://edge01p.mediavitrina.ru/hls-livef6/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.-SDhPAgg3B0jFE3Eger1Y0hJ9cdV6zBL_sxS5YWXLlk.JKxk6GbhGesR-P5pGaYsh78ARuGbbvj8EWufTLIBzq0.1790706818.b3409b601a4a2d0ea82c202e0d2f5acf
+https://edge06r.mediavitrina.ru/hls-livef5/tvc/tracks-v5a1/mono.ts.m3u8?token=v2.t5BefCVM2qYV-YcAFc8kBhW8ZSM72pS4IzjXRXZcl8k.6SazL1yEYP0sZB-0nBnFE0VF0A_E5yKP1cEkDeRBeb0.1791453984.f3502f27c06c3d836c3085ae800b8c1a
 #EXTINF:-1 tvg-id="match-arena"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Арена HD
 http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/207/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Рен ТВ HD
-https://edge01p.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.yY_b3HTlL4brwLfsLpKke0ahcCnUOJ87IScZ7janNm0.Q2grWum1tquIk_ClXWciPmWj-gO0GXttb0bpRQFs44U.1790706896.06d428de2d03f5fec0674aa2ac6a9f19
+https://edge01d.mediavitrina.ru/hls-livef6/ren-tv/tracks-v5a1/mono.ts.m3u8?token=v2.5dkT64TiIRcKKmj877UiQ9FfA_XhSCT9kR_4xqwESUA.A7HtkMcVTCwy6HftEI1CD2AMjefeMDfmDcCCGQE1O9I.1791454022.b37a3cf50759e63ac96710f3b3bb845f
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
@@ -533,11 +533,11 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
-https://vitrina-live-cdnnow.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.-9kus5Im-_UjxEzvt01-CkQtt7KhIENo3CFCPzjTz4I.biV8TeXqd-apmm7_jUlv9G-ASmMTaVj2sL9u6De1npo.1790706945.85c77611da36fdc3c936b7b9811074ed
+https://edge01p.mediavitrina.ru/hls-livef6/ctc/tracks-v5a1/mono.ts.m3u8?token=v2.ar7nQ9ATYm5R4RBL6Zk01FFmmKLpEyMx2aA-k1KqBik.h3jYVDo1X0p-a3hkGQcNCrxS2b-D2DSFMJ5J-c3tTpk.1791454067.61b1b0971e9c051f06e153671a35b826
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
-https://edge01d.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.I6rcv3jOPKJ0jUutFjWv3Nl3h_7H1JfvddPdADNlIro.oPTA-jdZu6FcDwX_puHbp0jGu1zX4-3kvmGDFRFsxak.1790707078.33ed67cd6d50c0f77d1bbecc6edab142
+https://edge06d.mediavitrina.ru/hls-livef5/ctc-dom/tracks-v5a1/mono.ts.m3u8?token=v2.hW0q_0uj4ReOdDWLNF5g1UOJ2rgP38vzaBjsPMZsY6s.aQ-PdMXCqpCy6av21oArotsjcLxwN8nj1BU7l93ztfg.1791454113.41f94afd13258671fcfa5b1fbad8f4b8
 #EXTINF:-1 tvg-id="eurosport1"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Eurosport 1 HD
 http://czrb8vng.ottclub.xyz/iptv/ZBE628EP2BYBP5/32030/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТВ3 HD
