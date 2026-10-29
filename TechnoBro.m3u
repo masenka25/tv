@@ -552,7 +552,7 @@ http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/20028/index.m3u8
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Qf6-Va2bedvpw_TCtQgjSA&e=2067257507&scheme=https
 
 #EXTINF:-1 tvg-id="zvezda"tvg-logo="https://epg.iptvx.one/picons/zvezda.png"group-title="Общероссийские 🇷🇺":http-user-agent="Dalvik/2.1.0",Звезда HD
-https://salam-kzn-tatt-d152.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/lQNjdjHyo9B2FDX4SWt8fw/stream/genetta-323.m9.rutube.ru/1E-xPJRax2MkEl1ajWJWmg/1793273345/5ab908fccfac5bb43ef2b1e4182256b0/1080p_stream.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir"tvg-logo="https://epg.iptvx.one/picons/mir.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Мир HD
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=Afn2RX2w7I0iDCUPFMl7aw&e=2072697282&scheme=https
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",ТНТ HD
