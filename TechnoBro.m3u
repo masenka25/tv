@@ -203,11 +203,11 @@ http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/10085/index.m3u8
 #EXTINF:-1 tvg-id="vf-multfilmy-sssr"tvg-logo="https://epg.iptvx.one/picons/vf-multfilmy-sssr.png"group-title="Пакет «СССР» ☭":http-user-agent="",VF Мультфильмы СССР
 http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/10086/index.m3u8
 #EXTINF:-1 tvg-id="minimax-ussr-1941-1945"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-1941-1945.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR 1941-1945 HD
-http://e3f4b492.ottrast.com/iptv/4AXR6BAZNBL9MX/13018/index.m3u8
+http://gr.online24.pm/play/6010/BAN0020F5FE1104/mpegts
 #EXTINF:-1 tvg-id="minimax-ussr-komedija"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-komedija.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Комедия HD
 http://53643c87.melpakomn.ru/iptv/XREFFC4D4HKRQW/13019/index.m3u8
 #EXTINF:-1 tvg-id="minimax-ussr-detektiv"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-detektiv.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Детектив HD
-http://e3f4b492.ottrast.com/iptv/4AXR6BAZNBL9MX/13096/index.m3
+http://gr.online24.pm/play/6011/BAN0020F5FE1104/mpegts
 #EXTINF:-1 tvg-id="minimax-ussr-prikluchenija"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-prikluchenija.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Приключения HD
 http://53cf2048.ottrast.com/iptv/2Q4RBSN8XCUHSU/13060/index.m3u8
 #EXTINF:-1 tvg-id="minimax-ussr-fantastika"tvg-logo="https://epg.iptvx.one/picons/minimax-ussr-fantastika.png"group-title="Пакет «СССР» ☭":http-user-agent="",MM USSR Драма HD
