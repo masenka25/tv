@@ -530,7 +530,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
-http://foenian.otttv.pw/iptv/ZPL2GUWSWTLDE8K675YQCPRZ/6303/index.m3u8
+https://live-mirror-06.ottgoods.ru/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_6000000=10004.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NDg5NDAwMiwiaHdpZCI6ImVhZjM3ZTU3MjFlZjRlMWM1ZThiNGQ0ZDY5MjA0NDYyYWUwNGQyMTVhYTM0NjhmMjgzZjU3ZDFhZjNlMTUyMmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjg5MjAyLCJzZXNzaW9uX2lkIjoiY2YzYjVjODE5MDEyZjMwOTRhYThmNGYyNDA5NzI5ZDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.bdHior0oZEdyexr6Ap6eL1rMWbcaU25k23Dry0Vnk4Q
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
