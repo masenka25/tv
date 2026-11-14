@@ -114,9 +114,6 @@ https://bl.video.matchtv.ru/media/playlist/ch_479ac5983f815f53e7f2967be08001a7/1
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="https://epg.iptvx.one/picons/tnt4.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",ТНТ4 HD
 https://salam-smr-rtk-d141.rtbcdn.ru/dive/river-3-358.rtbcdn.ru/luj55tI1sxr_eaa7UPAoqg/stream/genetta-410.ntv.rutube.ru/KY96o4LDH0Z-KddULO6ABA/1795272912/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="tvoetv-humor"tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Твоё ТВ - Юмор
-https://vsd196.okcdn.ru/hls/7991961848438.m3u8/sig/TA4zkqmcjCU/expires/1794755105017/srcIp/78.85.49.155/urls/185.226.55.85/clientType/0/srcAg/CHROME_YA/mid/9349912796790/7991961848438_fullhd/index.m3u8
-
 #EXTINF:-1 tvg-id="belarus1"tvg-logo="https://epg.iptvx.one/picons/belarus1hd.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Беларусь 1 HD
 https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzAyNGI3YzE4LTQxYzctNDkxOS05MTI0LTE4NzA4ZGNjYmZjYiIsImRhdGFjZW50ZXIiOiJibHQiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy52aWRlb2JlbC5ieSIsImRybSI6InNwYnR2Y2FzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyNi0xMS0xNVQxNToxMzo1MloiLCJpcF9hZGRyZXNzIjoiMTAuMjU0LjIyNC43MyIsInByb2plY3QiOiJiZWx0YV9wcm9kdWN0aW9uIiwicHJvdG9jb2wiOiJkYXNoIiwic2Vzc2lvbl9pZCI6IjFjNzIzNDlkLTM1MTItNGUxNy1iYmUwLTY4M2E4ZjRhYWU4YSIsInN0cmVhbV9uYW1lIjoiODAwMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1In0%3D/MC0CFQCRfrIM46TWsfcP0Yo1BrzIaB5S0AIUYVG79cCaG0IcAhYCSj7MfEgpyzo%3D/ip_v5/8000.mpd?b_app_channel_id=078bb113-9f63-40a5-aa08-bb8307cd58fe&b_app_id=videobel_production&b_device_platform=windows&b_device_uid=30c86c7a-791a-a348-639a-16d6fdd1f86f&b_stream_sid=1c72349d-3512-4e17-bbe0-683a8f4aae8a&b_strmr_channel_id=8000&stream_dvr_window=3600000000
 
