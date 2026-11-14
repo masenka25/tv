@@ -6,145 +6,145 @@ https://edge02.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1794637028
 #EXTINF:-1 tvg-id="rossia1"tvg-logo="https://epg.iptvx.one/picons/rossia1.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Россия 1 HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="match-tv"tvg-logo="https://epg.iptvx.one/picons/match-tv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Матч! HD
+#EXTINF:-1 tvg-id="match-tv"tvg-logo="https://epg.iptvx.one/picons/match-tv.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Матч! HD
 https://m3u8.video.matchtv.ru/media/playlist/ch_f69519c854026fbc5210b3e033be9c38/17_86669241/1080p50fps/5d6f99e4aa23d2c8441a4c180c357586/1794680400.m3u8?sr=14&seek=1794635700
 
-#EXTINF:-1 tvg-id="ntv"tvg-logo="https://epg.iptvx.one/picons/ntv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",НТВ HD
+#EXTINF:-1 tvg-id="ntv"tvg-logo="https://epg.iptvx.one/picons/ntv.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",НТВ HD
 https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-3122.rtbcdn.ru/kxQRq-ekf3-u2anZh7WPmg/stream/genetta-315.m9.rutube.ru/9-6iaTu_4fJ5GgVJJSJMhw/1795243117/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал HD
+#EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Пятый Канал HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=5_kanal.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NTcwMCwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQwOTAwLCJzZXNzaW9uX2lkIjoiZDU0MzUyYTRhMmM0ZGE4NTE1ZTMxYTkzYWU4ZDM1NDAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Z59JJ1wrGNYvSHM-_lvjeVzK0HOJRLF0YPnVkjAvTyA
 
-#EXTINF:-1 tvg-id="kultura"tvg-logo="https://epg.iptvx.one/picons/kultura.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Россия К HD
+#EXTINF:-1 tvg-id="kultura"tvg-logo="https://epg.iptvx.one/picons/kultura.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Россия К HD
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24"tvg-logo="https://epg.iptvx.one/picons/rossia-24.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Россия 24 HD
+#EXTINF:-1 tvg-id="rossia-24"tvg-logo="https://epg.iptvx.one/picons/rossia-24.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Россия 24 HD
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="karusel"tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Карусель HD
+#EXTINF:-1 tvg-id="karusel"tvg-logo="https://epg.iptvx.one/picons/karusel.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Карусель HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=karusel.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NjQxMywiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQxNjEzLCJzZXNzaW9uX2lkIjoiYzY4Mjk4M2YwMjdlYzY1MDZjNjhjZDIwMzk3ZGNhZGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mkjZ7L2DUin7wiXwHKUirO-5mpxYy8NAkegQW0Sva3E
 
-#EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
+#EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ОТР HD
 https://bl.webcaster.pro/media/playlist/free_1d9ca2e90d7d4f81c27a45dd141ad496/5_2972636396/720p/f470de28c50e5790ffd2f66a6d86d6c5/1794684994.m3u8?sr=65&seek=1794637800&uid=DW55UCJI-UONQ-B9D4-7Z4M-8HQ72X6KOB68&ref=https%3A%2F%2Fotr-online.ru%2F
 
-#EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
+#EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ТВЦ HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=TV_Center_HD.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0Njk5OSwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQyMTk5LCJzZXNzaW9uX2lkIjoiNWI5YzcyM2RmNmM3YzE4MTlkNzgyNDlmYTRhNmIzMzQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.6y6NqG72Dq7SCKQ2l7u6brxU72c4WdRrf_65KZI87lc
 
-#EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Рен ТВ HD
+#EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Рен ТВ HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=REN-TV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NzM2OSwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQyNTY5LCJzZXNzaW9uX2lkIjoiNzVhY2VjMGU4NmI4MDQ0YWYxNjYzYWY4OGYyZjMyNTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3xJdLiy-Z8XDcHLIER7ftoz6PDMBXj6Fi-QgKtF5gJU
 
-#EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Спас
+#EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
+#EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",СТС HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NDg5NDU2NCwiaHdpZCI6ImVhZjM3ZTU3MjFlZjRlMWM1ZThiNGQ0ZDY5MjA0NDYyYWUwNGQyMTVhYTM0NjhmMjgzZjU3ZDFhZjNlMTUyMmIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0Mjg5NzY0LCJzZXNzaW9uX2lkIjoiZDYzZDk1OTY2YWQ2NTA4Njk1NDQ3Yjk0NjMzMzNiNmEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.3dOkFJ6Lmsbh-1KTePRSIErH2yriLVgemmoR91Gh4V4
 
-#EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
+#EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Домашний HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NzkwMCwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQzMTAwLCJzZXNzaW9uX2lkIjoiNmYwOTU3ZmM5YmUyNDQ1ZTc5ZWE3ZGNkMmJiMDBmMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r_QXx9x2WR7GZyzEkmCL9ZaMUSVPdw33QnwtYCTpTh0
 
-#EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВ3 HD
+#EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ТВ3 HD
 https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-330.rtbcdn.ru/XWwfsn5NKas8-O-KHcvSVQ/stream/genetta-318.m9.rutube.ru/oZ2-bNIFeekjt8HdsjOW6Q/1795248096/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="piatnica"tvg-logo="https://epg.iptvx.one/picons/piatnica.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятница! HD
+#EXTINF:-1 tvg-id="piatnica"tvg-logo="https://epg.iptvx.one/picons/piatnica.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Пятница! HD
 https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/eo_PWLzCDmJ0PIu7-e5Vfg/stream/genetta-410.ntv.rutube.ru/-QS3nb2_AO9ggha_BmljAg/1795248232/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="zvezda"tvg-logo="https://epg.iptvx.one/picons/zvezda.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Звезда HD
+#EXTINF:-1 tvg-id="zvezda"tvg-logo="https://epg.iptvx.one/picons/zvezda.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="mir"tvg-logo="https://epg.iptvx.one/picons/mir.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Мир HD
+#EXTINF:-1 tvg-id="mir"tvg-logo="https://epg.iptvx.one/picons/mir.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 
-#EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНТ HD
+#EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ТНТ HD
 https://salam-kzn-retn-d156.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/n_AoKPvdV6Yvk6mFL2-iNg/stream/genetta-318.m9.rutube.ru/oAHpb-5NWJ0zMPEeoWz6KQ/1795248525/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Муз-ТВ HD
+#EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Муз-ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 
-#EXTINF:-1 tvg-id="che"tvg-logo="https://epg.iptvx.one/picons/che.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Че!
+#EXTINF:-1 tvg-id="che"tvg-logo="https://epg.iptvx.one/picons/che.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Че!
 https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/q6ygRrc56BVPQoJGbBTZ8g/stream/genetta-317.m9.rutube.ru/EDgqoWo_1Ovznw4o_xqkkQ/1795263296/5bbff90167d1b1d88fda92376ec7a651/576p_stream.m3u8
 
-#EXTINF:-1 tvg-id="solnce"tvg-logo="https://epg.iptvx.one/picons/solnce.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Солнце
+#EXTINF:-1 tvg-id="solnce"tvg-logo="https://epg.iptvx.one/picons/solnce.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Солнце
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/RuNYDoZI0D2HNOI458OBLA/stream/genetta-407.ntv.rutube.ru/U9AIgIueFaKxL1COi2KLvg/1795263649/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
 
-#EXTINF:-1 tvg-id="super"tvg-logo="https://epg.iptvx.one/picons/subbota.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Суббота HD
+#EXTINF:-1 tvg-id="super"tvg-logo="https://epg.iptvx.one/picons/subbota.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Суббота HD
 https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/mHZTmkRAbvBZxz6SvsbNEA/stream/genetta-319.m9.rutube.ru/KFUdETu0YJLI_COCyKnQMQ/1795263807/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="2na2"tvg-logo="https://epg.iptvx.one/picons/2na2.png"group-title="Общероссийские 🇷🇺":http-user-agent="",2x2 HD
+#EXTINF:-1 tvg-id="2na2"tvg-logo="https://epg.iptvx.one/picons/2na2.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",2x2 HD
 https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/5luZVl4BnwgD9fp7Wa0ysQ/stream/genetta-313.m9.rutube.ru/IqBX_-DLRBXWvmb0uy-SOw/1795264162/c5395b26d65d3461840b4c2f15c726b6/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="yu"tvg-logo="https://epg.iptvx.one/picons/yu.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Ю HD
+#EXTINF:-1 tvg-id="yu"tvg-logo="https://epg.iptvx.one/picons/yu.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Ю HD
 https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-373.rtbcdn.ru/tPD-6iv1UsFeU3UUs7dDKQ/stream/genetta-313.m9.rutube.ru/yZbxy_OdWOuyJyMchXe5sw/1795264392/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
-#EXTINF:-1 tvg-id="izvestia"tvg-logo="https://epg.iptvx.one/picons/izvestia.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Известия HD
+#EXTINF:-1 tvg-id="izvestia"tvg-logo="https://epg.iptvx.one/picons/izvestia.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Известия HD
 https://edge01r.mediavitrina.ru/dash-livef8/izvestia/index.mpd?p=1794541178&np=1794541178&token=v2.zx2eQXyjbBO2mPLTs2R6E4N9CnzkunE23V9h9PFGO04.CfCksnztoikDgNFepyGPaRKJHMPH34FxHQrzxiXZaBY.1795264788.0226ffe0336c0435ff106347aac9c96f
 
-#EXTINF:-1 tvg-id="sts-love"tvg-logo="https://epg.iptvx.one/picons/sts-love.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС Love
+#EXTINF:-1 tvg-id="sts-love"tvg-logo="https://epg.iptvx.one/picons/sts-love.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",СТС Love
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/IWHdYoC1lkoliA1L0qz8Rw/stream/genetta-312.m9.rutube.ru/y88u_JKJjMsEP5N5-koCOQ/1795266953/32dc45cf878497abe1c9695e228f039b/576p_stream.m3u8
 
-#EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНТ Music HD
+#EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ТНТ Music HD
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Мужское
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Мужское
 https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-talkshow"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Ток-шоу
+#EXTINF:-1 tvg-id="smotrim-100-talkshow"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-talkshow.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Ток-шоу
 https://stream.smotrim.ru/hls3/fasttv09/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-lubov"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Любовь
+#EXTINF:-1 tvg-id="smotrim-100-lubov"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-gorkogo"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Горького
+#EXTINF:-1 tvg-id="smotrim-100-gorkogo"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-gorkogo.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Горького
 https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-klassika"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Классика
+#EXTINF:-1 tvg-id="smotrim-100-klassika"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Классика
 https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-detskoe"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Детское
+#EXTINF:-1 tvg-id="smotrim-100-detskoe"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Детское
 https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-fakty"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Факты
+#EXTINF:-1 tvg-id="smotrim-100-fakty"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Факты
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="smotrim-100-prazdnik"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Праздник
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Матч! Страна HD
+#EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/ch_479ac5983f815f53e7f2967be08001a7/17_72477605/1080/70f569a6ce94892f04ee0a54ac9453f8/1794710400.m3u8?sr=14&seek=1794665400&uid=BCX8FORB-EH5D-NRWF-AWC8-BJWE1MDCO2TI&ref=https%3A%2F%2Fmatchtv.ru%2Fvideo%2Fchannel%2Fstrana
 
-#EXTINF:-1 tvg-id="tnt4"tvg-logo="https://epg.iptvx.one/picons/tnt4.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНТ4 HD
+#EXTINF:-1 tvg-id="tnt4"tvg-logo="https://epg.iptvx.one/picons/tnt4.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ТНТ4 HD
 https://salam-smr-rtk-d141.rtbcdn.ru/dive/river-3-358.rtbcdn.ru/luj55tI1sxr_eaa7UPAoqg/stream/genetta-410.ntv.rutube.ru/KY96o4LDH0Z-KddULO6ABA/1795272912/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="belarus1"tvg-logo="https://epg.iptvx.one/picons/belarus1hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Беларусь 1 HD
+#EXTINF:-1 tvg-id="belarus1"tvg-logo="https://epg.iptvx.one/picons/belarus1hd.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Беларусь 1 HD
 https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzAyNGI3YzE4LTQxYzctNDkxOS05MTI0LTE4NzA4ZGNjYmZjYiIsImRhdGFjZW50ZXIiOiJibHQiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy52aWRlb2JlbC5ieSIsImRybSI6InNwYnR2Y2FzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyNi0xMS0xNVQxNToxMzo1MloiLCJpcF9hZGRyZXNzIjoiMTAuMjU0LjIyNC43MyIsInByb2plY3QiOiJiZWx0YV9wcm9kdWN0aW9uIiwicHJvdG9jb2wiOiJkYXNoIiwic2Vzc2lvbl9pZCI6IjFjNzIzNDlkLTM1MTItNGUxNy1iYmUwLTY4M2E4ZjRhYWU4YSIsInN0cmVhbV9uYW1lIjoiODAwMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1In0%3D/MC0CFQCRfrIM46TWsfcP0Yo1BrzIaB5S0AIUYVG79cCaG0IcAhYCSj7MfEgpyzo%3D/ip_v5/8000.mpd?b_app_channel_id=078bb113-9f63-40a5-aa08-bb8307cd58fe&b_app_id=videobel_production&b_device_platform=windows&b_device_uid=30c86c7a-791a-a348-639a-16d6fdd1f86f&b_stream_sid=1c72349d-3512-4e17-bbe0-683a8f4aae8a&b_strmr_channel_id=8000&stream_dvr_window=3600000000
 
-#EXTINF:-1 tvg-id="ont-by"tvg-logo="https://epg.iptvx.one/picons/ont-by.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОНТ HD
+#EXTINF:-1 tvg-id="ont-by"tvg-logo="https://epg.iptvx.one/picons/ont-by.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",ОНТ HD
 https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzAyNGI3YzE4LTQxYzctNDkxOS05MTI0LTE4NzA4ZGNjYmZjYiIsImRhdGFjZW50ZXIiOiJibHQiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy52aWRlb2JlbC5ieSIsImRybSI6InNwYnR2Y2FzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyNi0xMS0xNVQxNToxNzoyMVoiLCJpcF9hZGRyZXNzIjoiMTAuMjU0LjIyNC43MyIsInByb2plY3QiOiJiZWx0YV9wcm9kdWN0aW9uIiwicHJvdG9jb2wiOiJkYXNoIiwic2Vzc2lvbl9pZCI6ImZmMGY1OGZmLTBhODktNGNiMC1iNzA5LTUxY2IyOTNhZDM1MyIsInN0cmVhbV9uYW1lIjoiODAwMSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1In0%3D/MC0CFQCLpNizdcxj3qvv7GTxGq4sZaam-wIUI1KkIu5LhxCu8ZFHjwgOHnggL7w%3D/ip_v5/8001.mpd?b_app_channel_id=e0169bb7-c8d5-4f92-ba2f-0af2a6e39818&b_app_id=videobel_production&b_device_platform=windows&b_device_uid=30c86c7a-791a-a348-639a-16d6fdd1f86f&b_stream_sid=ff0f58ff-0a89-4cb0-b709-51cb293ad353&b_strmr_channel_id=8001&stream_dvr_window=3600000000
 
-#EXTINF:-1 tvg-id="belarus5"tvg-logo="https://epg.iptvx.one/picons/belarus5hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Беларусь 5 HD
+#EXTINF:-1 tvg-id="belarus5"tvg-logo="https://epg.iptvx.one/picons/belarus5hd.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Беларусь 5 HD
 https://edge35.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_b2660000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="bridge-tv"tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV
+#EXTINF:-1 tvg-id="bridge-tv"tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-ruxit"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-ruxit.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Русский хит
+#EXTINF:-1 tvg-id="bridge-tv-ruxit"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-ruxit.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Русский хит
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rus-hit-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Classic
+#EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Classic
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Hits
+#EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Hits
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridgemedia-hits-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-shlager"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-shlager.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Шлягер
+#EXTINF:-1 tvg-id="bridge-tv-shlager"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-shlager.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Шлягер
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-shlyager/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-shlagerbridge-hd"tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Deluxe
+#EXTINF:-1 tvg-id="bridge-tv-shlagerbridge-hd"tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Deluxe
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-hd/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="Bridge TV Rock"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Rock
+#EXTINF:-1 tvg-id="Bridge TV Rock"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Rock
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rock/playlist.fmp4.m3u8?partnerID=OpenLink
 
-#EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Фрэш
+#EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png"group-title="Общероссийские каналы 🇷🇺":http-user-agent="",Bridge TV Фрэш
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-newfresh/playlist.fmp4.m3u8?partnerID=OpenLink
 
 
