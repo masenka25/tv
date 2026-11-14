@@ -60,3 +60,26 @@ https://salam-kzn-retn-d156.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/n_AoKPvdV6Yvk6m
 #EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Муз-ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 
+#EXTINF:-1 tvg-id="che"tvg-logo="https://epg.iptvx.one/picons/che.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Че!
+https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/q6ygRrc56BVPQoJGbBTZ8g/stream/genetta-317.m9.rutube.ru/EDgqoWo_1Ovznw4o_xqkkQ/1795263296/5bbff90167d1b1d88fda92376ec7a651/576p_stream.m3u8
+
+#EXTINF:-1 tvg-id="solnce"tvg-logo="https://epg.iptvx.one/picons/solnce.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Солнце
+https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/RuNYDoZI0D2HNOI458OBLA/stream/genetta-407.ntv.rutube.ru/U9AIgIueFaKxL1COi2KLvg/1795263649/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+
+#EXTINF:-1 tvg-id="super"tvg-logo="https://epg.iptvx.one/picons/subbota.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Суббота HD
+https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/mHZTmkRAbvBZxz6SvsbNEA/stream/genetta-319.m9.rutube.ru/KFUdETu0YJLI_COCyKnQMQ/1795263807/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="2na2"tvg-logo="https://epg.iptvx.one/picons/2na2.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",2x2 HD
+https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/5luZVl4BnwgD9fp7Wa0ysQ/stream/genetta-313.m9.rutube.ru/IqBX_-DLRBXWvmb0uy-SOw/1795264162/c5395b26d65d3461840b4c2f15c726b6/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="yu"tvg-logo="https://epg.iptvx.one/picons/yu.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Ю HD
+https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-373.rtbcdn.ru/tPD-6iv1UsFeU3UUs7dDKQ/stream/genetta-313.m9.rutube.ru/yZbxy_OdWOuyJyMchXe5sw/1795264392/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+
+
+
+
+
+
+
+
+
