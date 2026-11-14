@@ -75,6 +75,14 @@ https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/5luZVl4BnwgD9fp7
 #EXTINF:-1 tvg-id="yu"tvg-logo="https://epg.iptvx.one/picons/yu.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Ю HD
 https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-373.rtbcdn.ru/tPD-6iv1UsFeU3UUs7dDKQ/stream/genetta-313.m9.rutube.ru/yZbxy_OdWOuyJyMchXe5sw/1795264392/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
+#EXTINF:-1 tvg-id="izvestia"tvg-logo="https://epg.iptvx.one/picons/izvestia.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Известия HD
+https://edge01r.mediavitrina.ru/dash-livef8/izvestia/index.mpd?p=1794541178&np=1794541178&token=v2.zx2eQXyjbBO2mPLTs2R6E4N9CnzkunE23V9h9PFGO04.CfCksnztoikDgNFepyGPaRKJHMPH34FxHQrzxiXZaBY.1795264788.0226ffe0336c0435ff106347aac9c96f
+
+#EXTINF:-1 tvg-id="sts-love"tvg-logo="https://epg.iptvx.one/picons/sts-love.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",СТС Love
+https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/IWHdYoC1lkoliA1L0qz8Rw/stream/genetta-312.m9.rutube.ru/y88u_JKJjMsEP5N5-koCOQ/1795266953/32dc45cf878497abe1c9695e228f039b/576p_stream.m3u8
+
+#EXTINF:-1 tvg-id="tnt-music"tvg-logo="https://epg.iptvx.one/picons/tnt-music.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",ТНТ Music HD
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
 
 
 
