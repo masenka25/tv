@@ -123,13 +123,29 @@ https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbn
 #EXTINF:-1 tvg-id="belarus5"tvg-logo="https://epg.iptvx.one/picons/belarus5hd.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Беларусь 5 HD
 https://edge35.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_b2660000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="bridge-tv"tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-tv-hd/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-ruxit"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-ruxit.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Русский хит
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rus-hit-hd/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-classic"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Classic
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-classic-hd/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-dance"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Hits
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridgemedia-hits-hd/tracks-v3/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-shlager"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-shlager.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Шлягер
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-shlyager/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-shlagerbridge-hd"tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Deluxe
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-hd/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="Bridge TV Rock"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Rock
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rock/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png"group-title="Эфирные каналы 🇷🇺":http-user-agent="",Bridge TV Фрэш
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-newfresh/tracks-v1/index.fmp4.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42&partnerID=OpenLink
 
 
 
