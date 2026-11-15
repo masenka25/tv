@@ -87,7 +87,8 @@ https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v
 #EXTINF:-1 tvg-id="tnv"tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНВ Татарстан HD
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 
-#EXTINF:-1 tvg-id="udmurtia"tvg-logo="https://iptvx.one/picons/udmurtia.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Моя Удмуртия HD
+#EXTINF:-1 tvg-id="udmurtia"tvg-logo="https://iptvx.one/picons/udmurtia.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",Моя Удмуртия HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 
 #EXTINF:-1 tvg-id="smotrim-100-muzhskoe"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Мужское
