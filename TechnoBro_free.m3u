@@ -115,6 +115,9 @@ https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="smotrim-100-prazdnik"tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Смотрим 100% Праздник
 https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 
+#EXTINF:-1 tvg-id="nostalgia"tvg-logo="http://epg.one/img/783.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/start/ch_d555b902140943fd8eb4784a9433b7d7/17_72477605/02c9d7164e343601fc7f8c7ff47b26d9/1794767400.m3u8?sr=14&seek=1794722700&uid=VUCTZHMQ-T97V-3021-4BWQ-B7S45T5HJ37T&ref=https%3A%2F%2Fmatchtv.ru%2Fvideo%2Fchannel%2Fstrana&
 
@@ -154,6 +157,15 @@ https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-rock/playlist.fmp4.m3u8?
 #EXTINF:-1 tvg-id="bridge-tv-fresh"tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Bridge TV Фрэш
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-newfresh/playlist.fmp4.m3u8?partnerID=OpenLink
 
+#EXTINF:-1 tvg-id="tv-brics"tvg-logo="https://epg.iptvx.one/picons/tv-brics.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",TV BRICS HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
+#EXTINF:-1 tvg-id=""tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/39f68fec-88c2-4401-8e22-02a74fe06f3b.jpg"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",Киножелезо HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=c4SS1oIId0NFo2U4EXEPjQ&e=2067257512&scheme=https
 
+#EXTINF:-1 tvg-id="ntv-serial"tvg-logo="https://epg.iptvx.one/picons/ntv-serial.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+https://cdn.ntv.ru/th_serial/index.m3u8
 
