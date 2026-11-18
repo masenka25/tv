@@ -13,7 +13,7 @@ https://m3u8.video.matchtv.ru/media/start/ch_73955561ca9fca7836dc1f66b6ca14a4/17
 https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-3122.rtbcdn.ru/kxQRq-ekf3-u2anZh7WPmg/stream/genetta-315.m9.rutube.ru/9-6iaTu_4fJ5GgVJJSJMhw/1795243117/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал
-http://31.131.141.195:8000/play/1050/index.m3u8
+https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=5_kanal.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTYyMzAyOCwiaHdpZCI6ImZmNzRjNDZhNTUyNmNiNTBjMGY1M2EyNzYyNWZmZjkyNDAxYjBkZGI5MGMwODRkY2NmNmI3ZWU5NzdlZTM2MGUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDE4MjI4LCJzZXNzaW9uX2lkIjoiMjRjZmQ2Y2FmNmM0ZDEyZTZlZGQ2NzVjMGY1NjlmNjgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QehPtvh9r-wgOcTJTqjXBVWLcCIh-E4ioLJXm8_n2MA
 
 #EXTINF:-1 tvg-id="kultura"tvg-logo="https://epg.iptvx.one/picons/kultura.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Россия К HD
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
