@@ -25,7 +25,7 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 http://ftcxowga.zyntras.top/iptv/SE9VMG6FX63VRG/20012/index.m3u8
 
 #EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-https://bl.webcaster.pro/media/start/free_d7fa0b43956ddaa22f5bc457372efa92/5_2972636396/29d136b78551c908e2892d248fc2d11d/1795059522.m3u8?sr=65&seek=1795012200&uid=DKNDF70G-FPFM-0JDB-BBXP-6WX2T23JUTKL&ref=https%3A%2F%2Fotr-online.ru%2F&
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682711
 
 #EXTINF:-1 tvg-id="tvcentr"tvg-logo="https://epg.iptvx.one/picons/tvcentr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВЦ HD
 http://epvzzr4d.ottclub.xyz/iptv/Q5STBM8EKGPQMU/19222/index.m3u8
@@ -36,7 +36,8 @@ http://epvzzr4d.ottclub.xyz/iptv/Q5STBM8EKGPQMU/19222/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo="https://epg.iptvx.one/picons/spas.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Спас
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
+#EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0",СТС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTYyMjkwOCwiaHdpZCI6ImZmNzRjNDZhNTUyNmNiNTBjMGY1M2EyNzYyNWZmZjkyNDAxYjBkZGI5MGMwODRkY2NmNmI3ZWU5NzdlZTM2MGUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDE4MTA4LCJzZXNzaW9uX2lkIjoiOGI4MDk4ZjJmNzIxNjA0Nzc5MjNhOWYyODk4MmM5ZTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Nf6z7kmVf5jYrgvtp8_KqzRT_lZpmGqTmdNt8y4s-N8
 
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
@@ -61,7 +62,7 @@ https://salam-kzn-retn-d156.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/n_AoKPvdV6Yvk6m
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
 
 #EXTINF:-1 tvg-id="che"tvg-logo="https://epg.iptvx.one/picons/che.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Че!
-https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-3103.rtbcdn.ru/hzVuRSaJF2z7ToIMVGhJpg/stream/genetta-411.ntv.rutube.ru/yEK64wzJzG4t_gJSA3YwJA/1795340596/5bbff90167d1b1d88fda92376ec7a651/576p_stream.m3u8
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682724
 
 #EXTINF:-1 tvg-id="solnce"tvg-logo="https://epg.iptvx.one/picons/solnce.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Солнце
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/RuNYDoZI0D2HNOI458OBLA/stream/genetta-407.ntv.rutube.ru/U9AIgIueFaKxL1COi2KLvg/1795263649/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
@@ -124,10 +125,12 @@ https://bl.video.matchtv.ru/media/start/ch_d555b902140943fd8eb4784a9433b7d7/17_7
 #EXTINF:-1 tvg-id="tnt4"tvg-logo="https://epg.iptvx.one/picons/tnt4.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНТ4 HD
 https://salam-smr-rtk-d141.rtbcdn.ru/dive/river-3-358.rtbcdn.ru/luj55tI1sxr_eaa7UPAoqg/stream/genetta-410.ntv.rutube.ru/KY96o4LDH0Z-KddULO6ABA/1795272912/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 
-#EXTINF:-1 tvg-id="belarus1"tvg-logo="https://epg.iptvx.one/picons/belarus1hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Беларусь 1 HD
+#EXTINF:-1 tvg-id="belarus1"tvg-logo="https://epg.iptvx.one/picons/belarus1hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",Беларусь 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzAyNGI3YzE4LTQxYzctNDkxOS05MTI0LTE4NzA4ZGNjYmZjYiIsImRhdGFjZW50ZXIiOiJibHQiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy52aWRlb2JlbC5ieSIsImRybSI6InNwYnR2Y2FzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyNi0xMS0xNVQxNToxMzo1MloiLCJpcF9hZGRyZXNzIjoiMTAuMjU0LjIyNC43MyIsInByb2plY3QiOiJiZWx0YV9wcm9kdWN0aW9uIiwicHJvdG9jb2wiOiJkYXNoIiwic2Vzc2lvbl9pZCI6IjFjNzIzNDlkLTM1MTItNGUxNy1iYmUwLTY4M2E4ZjRhYWU4YSIsInN0cmVhbV9uYW1lIjoiODAwMCIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1In0%3D/MC0CFQCRfrIM46TWsfcP0Yo1BrzIaB5S0AIUYVG79cCaG0IcAhYCSj7MfEgpyzo%3D/ip_v5/8000.mpd?b_app_channel_id=078bb113-9f63-40a5-aa08-bb8307cd58fe&b_app_id=videobel_production&b_device_platform=windows&b_device_uid=30c86c7a-791a-a348-639a-16d6fdd1f86f&b_stream_sid=1c72349d-3512-4e17-bbe0-683a8f4aae8a&b_strmr_channel_id=8000&stream_dvr_window=3600000000
 
-#EXTINF:-1 tvg-id="ont-by"tvg-logo="https://epg.iptvx.one/picons/ont-by.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОНТ HD
+#EXTINF:-1 tvg-id="ont-by"tvg-logo="https://epg.iptvx.one/picons/ont-by.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",ОНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://streaming.videobel.by/eyJvc19uYW1lIjoid2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzAyNGI3YzE4LTQxYzctNDkxOS05MTI0LTE4NzA4ZGNjYmZjYiIsImRhdGFjZW50ZXIiOiJibHQiLCJkb21haW5fbmFtZSI6InN0cmVhbWluZy52aWRlb2JlbC5ieSIsImRybSI6InNwYnR2Y2FzIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyNi0xMS0xNVQxNToxNzoyMVoiLCJpcF9hZGRyZXNzIjoiMTAuMjU0LjIyNC43MyIsInByb2plY3QiOiJiZWx0YV9wcm9kdWN0aW9uIiwicHJvdG9jb2wiOiJkYXNoIiwic2Vzc2lvbl9pZCI6ImZmMGY1OGZmLTBhODktNGNiMC1iNzA5LTUxY2IyOTNhZDM1MyIsInN0cmVhbV9uYW1lIjoiODAwMSIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1In0%3D/MC0CFQCLpNizdcxj3qvv7GTxGq4sZaam-wIUI1KkIu5LhxCu8ZFHjwgOHnggL7w%3D/ip_v5/8001.mpd?b_app_channel_id=e0169bb7-c8d5-4f92-ba2f-0af2a6e39818&b_app_id=videobel_production&b_device_platform=windows&b_device_uid=30c86c7a-791a-a348-639a-16d6fdd1f86f&b_stream_sid=ff0f58ff-0a89-4cb0-b709-51cb293ad353&b_strmr_channel_id=8001&stream_dvr_window=3600000000
 
 #EXTINF:-1 tvg-id="belarus5"tvg-logo="https://epg.iptvx.one/picons/belarus5hd.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Беларусь 5 HD
@@ -180,5 +183,9 @@ https://cdn.ntv.ru/th_style/index.m3u8
 #EXTINF:-1 tvg-id="mir-24"tvg-logo="https://epg.iptvx.one/picons/mir24.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",Мир 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="usadba"tvg-logo=""group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla 5.0",Усадьба
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
+http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682687
 
 
