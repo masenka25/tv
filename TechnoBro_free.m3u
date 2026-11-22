@@ -10,7 +10,8 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 https://m3u8.video.matchtv.ru/media/start/ch_73955561ca9fca7836dc1f66b6ca14a4/17_86669241/1b9e21e2ca5c83136f6a372bc6716b3c/1794767400.m3u8?sr=14&seek=1794722700&
 
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://epg.iptvx.one/picons/ntv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",НТВ HD
-https://salam-smr-bln-d150.rtbcdn.ru/dive/river-3-3122.rtbcdn.ru/kxQRq-ekf3-u2anZh7WPmg/stream/genetta-315.m9.rutube.ru/9-6iaTu_4fJ5GgVJJSJMhw/1795243117/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=ni9QQuZPK0yQpEhVSfRIfQ&e=2095344094&scheme=https
 
 #EXTINF:-1 tvg-id="5kanal-ru"tvg-logo="https://epg.iptvx.one/picons/5kanal-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятый Канал
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/567416
