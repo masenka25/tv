@@ -7,7 +7,8 @@ https://edge02.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1794637028
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="match-tv"tvg-logo="https://epg.iptvx.one/picons/match-tv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Матч! HD
-https://m3u8.video.matchtv.ru/media/start/ch_73955561ca9fca7836dc1f66b6ca14a4/17_86669241/1b9e21e2ca5c83136f6a372bc6716b3c/1794767400.m3u8?sr=14&seek=1794722700&
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=CmhUcaqWUq-CRnkL5XrmGw&e=2072697326&scheme=https
 
 #EXTINF:-1 tvg-id="ntv"tvg-logo="https://epg.iptvx.one/picons/ntv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
@@ -38,7 +39,7 @@ http://epvzzr4d.ottclub.xyz/iptv/Q5STBM8EKGPQMU/19222/index.m3u8
 https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0",СТС HD
-https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTY4MzkyOSwiaHdpZCI6ImIwNGJhMjVkMzAzMTNiY2IwOWU2M2E1MTExMDdhODRmNWQ0YjAzOGUxNWQyMzFmYTA2YTIxMjY3NzIyMDI3ZWYiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDc5MTI5LCJzZXNzaW9uX2lkIjoiZTNiZWU5YzkyNDE1NmViZWNjNmM2ZWM3NWI2YWNlNWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.jUgy38eJxrRPNwiCNprh1Cra_b7kzujFmf9vFV5GnZg
+    https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTY4MzkyOSwiaHdpZCI6ImIwNGJhMjVkMzAzMTNiY2IwOWU2M2E1MTExMDdhODRmNWQ0YjAzOGUxNWQyMzFmYTA2YTIxMjY3NzIyMDI3ZWYiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDc5MTI5LCJzZXNzaW9uX2lkIjoiZTNiZWU5YzkyNDE1NmViZWNjNmM2ZWM3NWI2YWNlNWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.jUgy38eJxrRPNwiCNprh1Cra_b7kzujFmf9vFV5GnZg
 
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NzkwMCwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQzMTAwLCJzZXNzaW9uX2lkIjoiNmYwOTU3ZmM5YmUyNDQ1ZTc5ZWE3ZGNkMmJiMDBmMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r_QXx9x2WR7GZyzEkmCL9ZaMUSVPdw33QnwtYCTpTh0
@@ -56,7 +57,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 
 #EXTINF:-1 tvg-id="tnt"tvg-logo="https://epg.iptvx.one/picons/tnt.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТНТ HD
-https://salam-kzn-retn-d156.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/n_AoKPvdV6Yvk6mFL2-iNg/stream/genetta-318.m9.rutube.ru/oAHpb-5NWJ0zMPEeoWz6KQ/1795248525/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=2VBSAtVNO5OcRjhqK6h82Q&e=2095344957&scheme=https
 
 #EXTINF:-1 tvg-id="muztv"tvg-logo="https://epg.iptvx.one/picons/muztv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Муз-ТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8rx-rtZDCKRPBfSbb8_Nw&e=2067257538&scheme=https
