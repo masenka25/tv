@@ -49,7 +49,8 @@ https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&
 https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-330.rtbcdn.ru/XWwfsn5NKas8-O-KHcvSVQ/stream/genetta-318.m9.rutube.ru/oZ2-bNIFeekjt8HdsjOW6Q/1795248096/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="piatnica"tvg-logo="https://epg.iptvx.one/picons/piatnica.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятница! HD
-https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/eo_PWLzCDmJ0PIu7-e5Vfg/stream/genetta-410.ntv.rutube.ru/-QS3nb2_AO9ggha_BmljAg/1795248232/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=3Ol1xQreJxR6jic0k811mw&e=2095410754&scheme=https
 
 #EXTINF:-1 tvg-id="zvezda"tvg-logo="https://epg.iptvx.one/picons/zvezda.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
