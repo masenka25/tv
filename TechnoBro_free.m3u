@@ -45,7 +45,7 @@ https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
-    https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NjAxODUxMCwiaHdpZCI6IjBlYzJiMjcxYTA2MzUwY2UzZjI5ZWEzMzdiZmNjZmVmMTZjMmU2ZTI2MjYxNTVmYWFiNjk0YTEyM2M1YmE5MmUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1NDEzNzEwLCJzZXNzaW9uX2lkIjoiMWIyZGZiZWE0Y2RlZGQyNmZmZDRiMDBhY2EzNmE4YzciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.AEAuRuLaimu2pVKrl6gulM_H7Q_Ph8E3FVYNUikDg-g
+    https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NjAxOTM2NiwiaHdpZCI6IjBlYzJiMjcxYTA2MzUwY2UzZjI5ZWEzMzdiZmNjZmVmMTZjMmU2ZTI2MjYxNTVmYWFiNjk0YTEyM2M1YmE5MmUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1NDE0NTY2LCJzZXNzaW9uX2lkIjoiZTQyNDQzNWViODgyNjdmMzUyMDZiODgzMDU4MTQwYjciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.B3B8rJ3kU-JsrVKHAScIzSBS5F9cQnR8R27AXctUjEA
 
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
