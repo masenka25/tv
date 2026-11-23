@@ -46,7 +46,8 @@ https://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTI0NzkwMCwiaHdpZCI6IjU1MjRlYzc3YjM4MGNlNTliNTUwOTU1NjNiYjZjMTY0OWZmYTNmMmQ2MGJmZGY0OTExMGRhNzY1N2I1ZTEzZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzk0NjQzMTAwLCJzZXNzaW9uX2lkIjoiNmYwOTU3ZmM5YmUyNDQ1ZTc5ZWE3ZGNkMmJiMDBmMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r_QXx9x2WR7GZyzEkmCL9ZaMUSVPdw33QnwtYCTpTh0
 
 #EXTINF:-1 tvg-id="tv3-ru"tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ТВ3 HD
-https://salam-smr-ttk-d96.rtbcdn.ru/dive/river-3-330.rtbcdn.ru/XWwfsn5NKas8-O-KHcvSVQ/stream/genetta-318.m9.rutube.ru/oZ2-bNIFeekjt8HdsjOW6Q/1795248096/7bf12d9c050f9a7ef3728db5730432ae/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=OHntkAUZCTJh1S3aeXdsrg&e=2095411685&scheme=https
 
 #EXTINF:-1 tvg-id="piatnica"tvg-logo="https://epg.iptvx.one/picons/piatnica.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -75,10 +76,12 @@ https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/RuNYDoZI0D2HNOI4
 https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/mHZTmkRAbvBZxz6SvsbNEA/stream/genetta-319.m9.rutube.ru/KFUdETu0YJLI_COCyKnQMQ/1795263807/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="2na2"tvg-logo="https://epg.iptvx.one/picons/2na2.png"group-title="Общероссийские 🇷🇺":http-user-agent="",2x2 HD
-https://salam-kzn-rtk-d161.rtbcdn.ru/dive/river-3-361.rtbcdn.ru/5luZVl4BnwgD9fp7Wa0ysQ/stream/genetta-313.m9.rutube.ru/IqBX_-DLRBXWvmb0uy-SOw/1795264162/c5395b26d65d3461840b4c2f15c726b6/1080p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/c5395b26d65d3461840b4c2f15c726b6/index.m3u8?s=rKbENkh9pe5w3aeh1r0dnQ&e=2095412097&scheme=https
 
 #EXTINF:-1 tvg-id="yu"tvg-logo="https://epg.iptvx.one/picons/yu.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Ю HD
-https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-373.rtbcdn.ru/tPD-6iv1UsFeU3UUs7dDKQ/stream/genetta-313.m9.rutube.ru/yZbxy_OdWOuyJyMchXe5sw/1795264392/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://edge02p.mediavitrina.ru/dash-livef5/yu/index.mpd?token=v2.ASV9ta_gyGteUqBiGkTNP9A_R6Dtwf8V3pFJjIDqIDc.6oRZfmXqpGMOXcfSVMaW3E1wQZrXy3aMRZLgj-v-S5Y.1796016991.3eb5c45b9e41b23de4d13a77eaa4ae6c
 
 #EXTINF:-1 tvg-id="izvestia"tvg-logo="https://epg.iptvx.one/picons/izvestia.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Известия HD
 https://edge01r.mediavitrina.ru/dash-livef8/izvestia/index.mpd?p=1794541178&np=1794541178&token=v2.zx2eQXyjbBO2mPLTs2R6E4N9CnzkunE23V9h9PFGO04.CfCksnztoikDgNFepyGPaRKJHMPH34FxHQrzxiXZaBY.1795264788.0226ffe0336c0435ff106347aac9c96f
