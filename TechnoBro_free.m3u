@@ -70,7 +70,8 @@ https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=i8
 http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682724
 
 #EXTINF:-1 tvg-id="solnce"tvg-logo="https://epg.iptvx.one/picons/solnce.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Солнце
-https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-342.rtbcdn.ru/RuNYDoZI0D2HNOI458OBLA/stream/genetta-407.ntv.rutube.ru/U9AIgIueFaKxL1COi2KLvg/1795263649/2dba20a8405e57935827cb5721c2b759/576p_stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://edge03p.mediavitrina.ru/dash-livef6/solntse/index.mpd?token=v2.xko60NHojcDNY_SHYwh6bWuqWjAYbveV53eocNO3Myo.9ufbHH632rdnuNtG1BTKUO3a386sjGBxbq7MNqX8ASA.1796017552.d3b40bcf112f0b05e1778b8a67210a07
 
 #EXTINF:-1 tvg-id="super"tvg-logo="https://epg.iptvx.one/picons/subbota.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Суббота HD
 https://salam-kzn-ttk-d154.rtbcdn.ru/dive/river-3-372.rtbcdn.ru/mHZTmkRAbvBZxz6SvsbNEA/stream/genetta-319.m9.rutube.ru/KFUdETu0YJLI_COCyKnQMQ/1795263807/310744c10a5809da38aa445c952976da/1080p_stream.m3u8
@@ -84,7 +85,8 @@ https://bl.rutube.ru/livestream/c5395b26d65d3461840b4c2f15c726b6/index.m3u8?s=rK
 https://edge02p.mediavitrina.ru/dash-livef5/yu/index.mpd?token=v2.ASV9ta_gyGteUqBiGkTNP9A_R6Dtwf8V3pFJjIDqIDc.6oRZfmXqpGMOXcfSVMaW3E1wQZrXy3aMRZLgj-v-S5Y.1796016991.3eb5c45b9e41b23de4d13a77eaa4ae6c
 
 #EXTINF:-1 tvg-id="izvestia"tvg-logo="https://epg.iptvx.one/picons/izvestia.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Известия HD
-https://edge01r.mediavitrina.ru/dash-livef8/izvestia/index.mpd?p=1794541178&np=1794541178&token=v2.zx2eQXyjbBO2mPLTs2R6E4N9CnzkunE23V9h9PFGO04.CfCksnztoikDgNFepyGPaRKJHMPH34FxHQrzxiXZaBY.1795264788.0226ffe0336c0435ff106347aac9c96f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36
+https://edge02d.mediavitrina.ru/dash-livef8/izvestia/index.mpd?token=v2.9w5_pib5tx5iqarOg_VyXpYpfHWlyGSmyP8EA5js6Hk.ysEq7bda-iNwALsVhFhRckLJpIXDqgXM_hSJ7TorkWk.1796017199.c3b059e6731414400e4764ae9c9fa436
 
 #EXTINF:-1 tvg-id="sts-love"tvg-logo="https://epg.iptvx.one/picons/sts-love.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС Love
 https://salam-smr-mts-d140.rtbcdn.ru/dive/river-3-359.rtbcdn.ru/IWHdYoC1lkoliA1L0qz8Rw/stream/genetta-312.m9.rutube.ru/y88u_JKJjMsEP5N5-koCOQ/1795266953/32dc45cf878497abe1c9695e228f039b/576p_stream.m3u8
