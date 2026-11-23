@@ -481,8 +481,8 @@ http://f8c3fe93.ottrast.com/iptv/6LBCULN2DG3V85PGS2DVH3GF/20012/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DDW9HTKX2X2QPM/10021/index.m3u8
 #EXTINF:-1 tvg-id="vf-oxota"tvg-logo="https://epg.iptvx.one/picons/vf-oxota.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Охота HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/15513/index.m3u8
-#EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="",ОТР HD
-http://53643c87.melpakomn.ru/iptv/KHNQSW5585W2VW/20018/index.m3u8
+#EXTINF:-1 tvg-id="otr"tvg-logo="https://epg.iptvx.one/picons/otr.png"group-title="Общероссийские 🇷🇺":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36",ОТР HD
+https://bl.webcaster.pro/media/start/free_143c81555f248467f5d24782e6c03eb2/5_2972636396/d7575dee5fd1dd382ffdf0b70cb751eb/1795453590.m3u8?sr=65&seek=1795406400&uid=C4W2NQPA-Q8QV-XM4J-7GG2-7SJ2GKJ4NQ2T&ref=https%3A%2F%2Fotr-online.ru%2F&
 #EXTINF:-1 tvg-id="match-igra"tvg-logo=""group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Игра HD
 http://0c8747d9.cbilant.com/iptv/9XUYL7D7KUUUUY/10014/index.m3u8
 #EXTINF:-1 tvg-id="vf-avto"tvg-logo="https://github.com/masenka25/tv/blob/main/VF%20Авто.png?raw=true"group-title="«Мужская тема» 🎣":http-user-agent="",VF Авто HD
@@ -494,7 +494,7 @@ http://bf86c241.otttv.pw/iptv/XLLWS47TLMFBMWCP56MEZD43/207/index.m3u8
 #EXTINF:-1 tvg-id="box-auttrend"tvg-logo="https://epg.iptvx.one/picons/box-auttrend.png"group-title="«Мужская тема» 🎣":http-user-agent="",BOX AutoTrend HD
 http://p0ub4v1c.ottclub.xyz/iptv/2EZAKDSGZZRHAQ/31654/index.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo="https://epg.iptvx.one/picons/rentv.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Рен ТВ HD
-http://epvzzr4d.ottclub.xyz/iptv/Q5STBM8EKGPQMU/2024/index.m3u8
+   https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=REN-TV_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTYyMzM0MiwiaHdpZCI6ImZmNzRjNDZhNTUyNmNiNTBjMGY1M2EyNzYyNWZmZjkyNDAxYjBkZGI5MGMwODRkY2NmNmI3ZWU5NzdlZTM2MGUiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDE4NTQyLCJzZXNzaW9uX2lkIjoiZTRkN2QyNTQyNTdlMWJkYmFjYWE1MTVlNWFlZmQ3NmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.WhmorOSo2RlXhpbjLfbdR8ydR_53Svfk6WhL4wK-1wo
 #EXTINF:-1 tvg-id="match-nash-sport"tvg-logo="https://epg.iptvx.one/picons/match-strana.png"group-title="«Суперспорт» 🏆":http-user-agent="",Матч! Страна HD
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 tvg-id="avto24"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто 24 HD
@@ -530,7 +530,7 @@ http://2b4a57ab.amazzin.pw/iptv/SRALC7HMKX4GWY/20135/index.m3u8
 #EXTINF:-1 tvg-id="avto-plus"tvg-logo=""group-title="«Мужская тема» 🎣":http-user-agent="",Авто плюс HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/6369/index.m3u8
 #EXTINF:-1 tvg-id="sts"tvg-logo="https://epg.iptvx.one/picons/sts.png"group-title="Общероссийские 🇷🇺":http-user-agent="",СТС HD
-http://sansatplus.net:88/FwJQIryMZEzC2oz/ocbSXlTckwnoPRQ/682722
+ https://cdngw.ottgoods.ru/streamingGateway/GetLivePlayList?source=STS_0_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNDIxOTAxMDIwMjg0NSIsImV4cCI6MTc5NTY4MzkyOSwiaHdpZCI6ImIwNGJhMjVkMzAzMTNiY2IwOWU2M2E1MTExMDdhODRmNWQ0YjAzOGUxNWQyMzFmYTA2YTIxMjY3NzIyMDI3ZWYiLCJsYXN0X3JlcV9kYXRlIjoxNzk1MDc5MTI5LCJzZXNzaW9uX2lkIjoiZTNiZWU5YzkyNDE1NmViZWNjNmM2ZWM3NWI2YWNlNWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.jUgy38eJxrRPNwiCNprh1Cra_b7kzujFmf9vFV5GnZg
 #EXTINF:-1 tvg-id="vf-strojka"tvg-logo="https://epg.iptvx.one/picons/vf-strojka.png"group-title="«Мужская тема» 🎣":http-user-agent="",VF Стройка HD
 http://yandex5.kazaktelekom.com/iptv/2EZAKDSGZZRHAQ/16139/index.m3u8
 #EXTINF:-1 tvg-id="domashny"tvg-logo="https://epg.iptvx.one/picons/domashny.png"group-title="Общероссийские 🇷🇺":http-user-agent="",Домашний HD
